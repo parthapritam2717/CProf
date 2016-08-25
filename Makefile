@@ -10,5 +10,5 @@ prime.o:prime.c
 
 .PHONY:clean
 clean:
-	rm -fr *.o
+	rm -fr *.o *.*~
 	
