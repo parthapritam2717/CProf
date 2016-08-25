@@ -1,7 +1,14 @@
-code:prime.o prime.h code.c
-	gcc -o code code.c prime.o -lm
+obj= prime.o code.o profiler.o
+code:$(obj)
+	cc -o code $(obj) -lm
+code.o:code.c prime.h profiler.h
+
+profiler.o:profiler.c
+
 prime.o:prime.c
-	gcc -c prime.c -lm
+	cc -c prime.c -lm
 
-
+.PHONY:clean
+clean:
+	rm -fr *.o
 	

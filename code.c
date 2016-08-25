@@ -4,6 +4,7 @@
 #include<math.h>
 #include<stdbool.h>
 #include "prime.h"
+#include "profiler.h"
 
 /**************************************************Includes ends here*************************************************/
 
@@ -15,9 +16,14 @@
 
 /*********************************************#defines ends here******************************************************/
 
+/******************************All the global variables and structs should be declared here***************************/
 
 
 
+
+
+
+/***************************************Global variables declaration ends here***************************************/
 
 int main(){
 	int n;
@@ -32,9 +38,15 @@ int main(){
 		
 		// now the processing 
 		int count=(count_prime(array,n));
+		// dummpy check of the memory used 
+		int vmem=(getVirtualMemoryUsed());
+		vmem*=1024;
+		printf("The virtual memory usage in Bytes is=");pf(vmem);nl();
+		vmem=getPhysicalMemoryUsed();vmem*=1024;printf("The physical memory used in Bytes is=");pf(vmem);nl();
 		printf("num of primes=");
 		pf(count);
 		nl();
+		free(array);
 	}while(n!=0);
 	// will also send some packets but later
 	
