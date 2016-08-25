@@ -1,0 +1,9 @@
+code:prime.o prime.h
+	gcc -o code.c prime.o
+prime.o:
+	gcc -c prime.c
+
+.PHONY:clean
+clean:
+	rm -fr *.o
+	
