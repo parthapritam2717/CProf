@@ -1,7 +1,7 @@
-code:prime.o prime.h
-	gcc -o code.c prime.o
-prime.o:
-	gcc -c prime.c
+code:prime.o prime.h code.c
+	cc -o code code.c prime.o -lm
+prime.o:prime.c
+	cc -c prime.c -lm
 
 
 	

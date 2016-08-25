@@ -26,12 +26,13 @@ int main(){
 		if(n==0)break;
 		int *array=(int *)malloc(sizeof(int)*n);
 		int i;
+		pf(n);
 		for(i=0;i<n;++i){
 			sf(array[i]);
 		}
 		
 		// now the processing 
-		int count=(count_prime(array,n));
+		int count=(count_prime(array));
 		printf("num of primes=");
 		pf(count);
 		nl();
