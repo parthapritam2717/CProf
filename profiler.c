@@ -147,6 +147,8 @@ void countCores(int *core){
 	}
 	fclose(file);
 }
+
+
 /*This function returns the percentage of cpu time our process used*/
 long double getCpuPercent(unsigned long *process,unsigned long long *cpu,int cores){
 	return ((long double)((long double)(*process)*100))/((long double)(*cpu)*cores);
