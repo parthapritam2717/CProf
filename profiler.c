@@ -92,12 +92,12 @@ int getMemoryUsed(){//Note: this value is in KB Please convert it into Bytes for
 			    break;
 			}
 	    }
-	/*while (fgets(line, 128, file) != NULL){
+	while (fgets(line, 128, file) != NULL){
 		if (strncmp(line, "VmStk:", 6) == 0){
 		result+=parseLine(line);
 		break;
 		}
-	}*/
+	}
     fclose(file);
     return result;
 
