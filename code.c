@@ -20,6 +20,8 @@
 unsigned long  timeStart,timeEnd;/* These variables are used to store the start user and kernel cpu time and calculate the cpu time we have spent on this block*/
 unsigned long long cpuTimeStart,cpuTimeEnd;/*These variables are used to get the total cpu time betwwen the desired blocks and we will then calculate the percentage usage of the cpu during that block*/
 long double cpuPercentage;// This will save the cpu usage percentage in the block
+int cores;//This variable will contain the number of cores the given system has which will be used while calculating the Cpu percentage usage
+
 
 
 

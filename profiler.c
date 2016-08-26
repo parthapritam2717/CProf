@@ -35,8 +35,7 @@ typedef struct pState{
 
 /**********************************All the code should reside in this block*******************************************/
 
-/*This function is to parse the memory usage*/
-
+/*This function is to parse*/
 int parseLine(char* line){
     // This assumes that a digit will be found and the line ends in " Kb".
     int i = strlen(line);
@@ -135,13 +134,6 @@ unsigned long long int getCpuTime(){
 	printf("%llu\n\n",guest_nice);*/
 	return (user + nice + system + idle+iowait+irq+softirq+steal+guest+guest_nice);
 }
-void cpuStartFlag(unsigned long int *process,unsigned long long *cpu){
-
-
-
-
-}
-
 
 /***********************************************Code Block over************************************************/
 

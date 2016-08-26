@@ -12,6 +12,5 @@
 int getMemoryUsed();// heap+stack done
 int getVirtualMemoryUsed();//done
 unsigned long getCpuProcessTime();//done
-unsigned long long int getCpuTime();
+unsigned long long int getCpuTime();//done
 int getPhysicalMemoryUsed();//done
-void cpuStartFlag(unsigned long int *process,unsigned long long *cpu);
