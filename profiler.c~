@@ -92,6 +92,7 @@ unsigned long getCpuTime(){
 	sscanf(line,"%d,%s,%c,%d,%d,%d,%d,%d,%u,%lu,%lu,%lu,%lu,%lu,%lu,%ld,%ld",&ps.pid,ps.comm,&ps.state,&ps.ppid,&ps.pgrp,
 &ps.session,&ps.tty_nr,&ps.tpgid,&ps.flags,&ps.minflt,&ps.cminflt,
 &ps.majflt,&ps.cmajflt,&ps.utime,&ps.stime,&ps.cutime,&ps.cstime);
+
 return (ps.utime+ps.stime);
 }
 

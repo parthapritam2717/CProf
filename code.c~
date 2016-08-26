@@ -75,7 +75,7 @@ int main(){
 		printf("num of primes=");
 		pf(count);
 		nl();
-		nl();
+nl();
 		free(array);
 	}while(n!=0);
 	// will also send some packets but later
