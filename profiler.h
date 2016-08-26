@@ -8,6 +8,8 @@
 #include "stdio.h"
 #include "string.h"
 
+
+int getMemoryUsed();// heap+stack done
 int getVirtualMemoryUsed();//done
-unsigned long getCpuTime();
+unsigned long getCpuProcessTime();
 int getPhysicalMemoryUsed();//done

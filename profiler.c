@@ -80,11 +80,37 @@ int getPhysicalMemoryUsed(){ //Note: this value is in KB Please convert it into 
     return result;
 }
 
+/*This function returns the total amount of memory used by the program at a given time (heap+stack);*/
+int getMemoryUsed(){//Note: this value is in KB Please convert it into Bytes for better accuracy
+ FILE* file = fopen("/proc/self/status", "r");
+    int result = -1;
+    char line[128];
+
+	    while (fgets(line, 128, file) != NULL){
+			if (strncmp(line, "VmData:", 6) == 0){
+			    result = parseLine(line);
+			    break;
+			}
+	    }
+	/*while (fgets(line, 128, file) != NULL){
+		if (strncmp(line, "VmStk:", 6) == 0){
+		result+=parseLine(line);
+		break;
+		}
+	}*/
+    fclose(file);
+    return result;
+
+
+
+
+}
+
 
 /*we will calculate the cpu usage between two points or in a given block in units of ticks by calling this function twice at those points and
 calculating the difference*/
 /*The data we will be using from the /proc/PID/stat file are the stime and utime . stime is the time in which the process was in kernel mode and utime is the time in which the process was in user mode*/
-unsigned long getCpuTime(){
+unsigned long getCpuProcessTime(){
 	FILE* file = fopen("/proc/self/stat", "r");
 	char line[228];
  	fgets(line, 228, file);
@@ -94,57 +120,6 @@ unsigned long getCpuTime(){
 &ps.majflt,&ps.cmajflt,&ps.utime,&ps.stime,&ps.cutime,&ps.cstime);
 return (ps.utime+ps.stime);
 }
-
-
-/*There is some problem with the cpu calculation will implement later*
-/*This Function calculates the cpu Usage by the process in percentage
-void init(){
-    FILE* file;
-    struct tms timeSample;
-    char line[128];
-
-    lastCPU = times(&timeSample);
-    lastSysCPU = timeSample.tms_stime;
-    lastUserCPU = timeSample.tms_utime;
-
-    file = fopen("/proc/cpuinfo", "r");
-    numProcessors = 0;
-    while(fgets(line, 128, file) != NULL){
-        if (strncmp(line, "processor", 9) == 0) numProcessors++;
-    }
-    fclose(file);
-}
-*/
-/*This Function calculates the cpu Usage by the process in percentage
-double getCpuUsed(){
-    struct tms timeSample;
-    clock_t now;
-    double percent;
-
-    now = times(&timeSample);
-    if (now <= lastCPU || timeSample.tms_stime < lastSysCPU ||
-        timeSample.tms_utime < lastUserCPU){
-        //Overflow detection. Just skip this value.
-        percent = -1.0;
-    }
-    else{
-        percent = (timeSample.tms_stime - lastSysCPU) +
-            (timeSample.tms_utime - lastUserCPU);
-        percent /= (now - lastCPU);
-        percent /= numProcessors;
-        percent *= 100;
-    }
-    lastCPU = now;
-    lastSysCPU = timeSample.tms_stime;
-    lastUserCPU = timeSample.tms_utime;
-
-    return percent;
-}*/
-
-
-
-
-
 
 
 /***********************************************Code Block over************************************************/
