@@ -1,0 +1,99 @@
+        -:    0:Source:codeFinal.c
+        -:    0:Graph:codeFinal.gcno
+        -:    0:Data:codeFinal.gcda
+        -:    0:Runs:1
+        -:    0:Programs:1
+        -:    1:/***********************************All the external include files please write here********************************/
+        -:    2:#include<stdio.h>
+        -:    3:#include<stdlib.h>
+        -:    4:#include<math.h>
+        -:    5:#include<stdbool.h>
+        -:    6:
+        -:    7:
+        -:    8:/**************************************************Includes ends here*************************************************/
+        -:    9:
+        -:   10:/*******************************************All #defines please include here ******************************************/
+        -:   11:#define nl() printf("\n");
+        -:   12:#define os() printf(" ");
+        -:   13:#define sf(n) scanf("%d",&n);
+        -:   14:#define pf(n) printf("%d",n);
+        -:   15:
+        -:   16:/*********************************************#defines ends here******************************************************/
+        -:   17:
+        -:   18:/******************************All the global variables and structs should be declared here***************************/
+        -:   19:
+        -:   20:
+        -:   21:
+        -:   22:
+        -:   23:
+        -:   24:
+        -:   25:/***************************************Global variables declaration ends here***************************************/
+        9:   26:bool is_prime(int item){	
+        9:   26-block  0
+        9:   27:	double y=(double)item;
+        9:   28:	double x=sqrt(y);
+        -:   29:	int i;
+        9:   30:	int end=(int)x;
+       14:   31:	for(i=2;i<(int)x;++i){
+        9:   31-block  0
+        5:   31-block  1
+       14:   31-block  2
+        5:   32:		if(item%i==0){
+        5:   32-block  0
+    #####:   33:			return 0;
+    $$$$$:   33-block  0
+        -:   34:		}		
+        -:   35:	}
+        9:   36:	return 1;
+        9:   36-block  0
+        -:   37:}
+        -:   38:
+        3:   39:int count_prime(int *array,int s){
+        3:   39-block  0
+        3:   40:	int i=0,j=0;	
+       12:   41:	for(i=0;i<s;++i){
+        3:   41-block  0
+        9:   41-block  1
+       12:   41-block  2
+        9:   42:		if(array[i]>=1 && is_prime(array[i])){
+        9:   42-block  0
+        9:   42-block  1
+        9:   43:			j++;
+        9:   43-block  0
+        -:   44:		}
+        -:   45:	}
+        3:   46:	return j;
+        3:   46-block  0
+        -:   47:}
+        -:   48:
+        -:   49:
+        1:   50:int main(){
+        1:   50-block  0
+        -:   51:	int n;
+        -:   52:	do{
+        4:   53:		sf(n);
+        4:   53-block  0
+        4:   54:		if(n==0)break;
+        1:   54-block  0
+        3:   55:		int *array=(int *)malloc(sizeof(int)*n);
+        -:   56:		int i;
+       12:   57:		for(i=0;i<n;++i){
+        3:   57-block  0
+       12:   57-block  1
+        9:   58:			sf(array[i]);
+        9:   58-block  0
+        -:   59:		}
+        -:   60:		
+        -:   61:		// now the processing 
+        3:   62:		int count=(count_prime(array,n));		
+        3:   62-block  0
+        3:   63:		printf("num of primes=");
+        3:   64:		pf(count);
+        3:   65:		nl();
+        3:   66:		free(array);
+        3:   67:	}while(n!=0);
+        -:   68:	// will also send some packets but later
+        -:   69:	
+        1:   70:	return 0;
+        1:   70-block  0
+        -:   71:}
