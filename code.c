@@ -17,7 +17,7 @@
 /*********************************************#defines ends here******************************************************/
 
 /******************************All the global variables and structs should be declared here***************************/
-unsigned long timeStart,timeEnd;/* These variables are used to store the start user and kernel cpu time and calculate the cpu time we have spent on this block*/
+static unsigned long timeStart,timeEnd;/* These variables are used to store the start user and kernel cpu time and calculate the cpu time we have spent on this block*/
 
 
 
@@ -54,21 +54,23 @@ int main(){
 	do{
 		sf(n);
 		if(n==0)break;
+		int vmem=(getVirtualMemoryUsed());
+		vmem*=1024;
+		printf("The virtual memory usage in Bytes is=");pf(vmem);nl();
+		vmem=getPhysicalMemoryUsed();vmem*=1024;printf("The physical memory used in Bytes is=");pf(vmem);nl();
 		int *array=(int *)malloc(sizeof(int)*n);
 		int i;
 		for(i=0;i<n;++i){
 			sf(array[i]);
 		}
 		// we will check the cpu time for this statement here dummy check
-		// now the processing 
-		timeStart=getCpuTime();
-		printf("%lu",timeStart);nl();
+		// now the processing 		
 		int count=(count_prime(array,n));
 		timeEnd=getCpuTime();
 		printf("%lu",timeEnd);nl();
-		printf("Time consumed by this block is %lu ticks\n",timeEnd-timeStart);		
+		printf("Time consumed by this block is %lu ticks\n",timeEnd);		
 		// dummpy check of the memory used 
-		int vmem=(getVirtualMemoryUsed());
+		vmem=(getVirtualMemoryUsed());
 		vmem*=1024;
 		printf("The virtual memory usage in Bytes is=");pf(vmem);nl();
 		vmem=getPhysicalMemoryUsed();vmem*=1024;printf("The physical memory used in Bytes is=");pf(vmem);nl();

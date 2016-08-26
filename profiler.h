@@ -9,5 +9,5 @@
 #include "string.h"
 
 int getVirtualMemoryUsed();//done
-int getCpuUsed();//Nee to implement from some other program as in the same program its unable to monitor
+unsigned long getCpuTime();
 int getPhysicalMemoryUsed();//done
