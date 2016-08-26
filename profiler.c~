@@ -116,6 +116,8 @@ unsigned long int getCpuProcessTime(){
 	//printf("Processtime=%lu\n\n",(ps.utime+ps.stime));
 	return (ps.utime+ps.stime);
 }
+
+/*This function gives the total cpu time for all the process*/
 unsigned long long int getCpuTime(){
 	FILE* file = fopen("/proc/stat", "r");
 	char line[228];
@@ -134,12 +136,22 @@ unsigned long long int getCpuTime(){
 	printf("%llu\n\n",guest_nice);*/
 	return (user + nice + system + idle+iowait+irq+softirq+steal+guest+guest_nice);
 }
-void cpuStartFlag(unsigned long int *process,unsigned long long *cpu){
 
-
-
-
+/*This function will calculate the number of cores in the system which will be used for calculating the cpu percantage usage by the process*/
+void countCores(int *core){
+	FILE *file = fopen("/proc/cpuinfo", "r");
+	*core = 0;
+	char line[228];
+	while(fgets(line, 228, file) != NULL){
+		if (strncmp(line, "processor", 9) == 0) (*core)++;
+	}
+	fclose(file);
 }
+/*This function returns the percentage of cpu time our process used*/
+long double getCpuPercent(unsigned long *process,unsigned long long *cpu,int cores){
+	return ((long double)((long double)(*process)*100))/((long double)(*cpu)*cores);
+}
+
 
 
 /***********************************************Code Block over************************************************/

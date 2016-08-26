@@ -14,3 +14,5 @@ int getVirtualMemoryUsed();//done
 unsigned long getCpuProcessTime();//done
 unsigned long long int getCpuTime();//done
 int getPhysicalMemoryUsed();//done
+void countCores(int *core);//done
+long double getCpuPercent(unsigned long *,unsigned long long *,int );//done

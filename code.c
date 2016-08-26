@@ -17,8 +17,8 @@
 /*********************************************#defines ends here******************************************************/
 
 /******************************All the global variables and structs should be declared here***************************/
-unsigned long  timeStart,timeEnd;/* These variables are used to store the start user and kernel cpu time and calculate the cpu time we have spent on this block*/
-unsigned long long cpuTimeStart,cpuTimeEnd;/*These variables are used to get the total cpu time betwwen the desired blocks and we will then calculate the percentage usage of the cpu during that block*/
+unsigned long  timeStart;/* These variables are used to store the start user and kernel cpu time and calculate the cpu time we have spent on this block*/
+unsigned long long cpuTimeStart;/*These variables are used to get the total cpu time betwwen the desired blocks and we will then calculate the percentage usage of the cpu during that block*/
 long double cpuPercentage;// This will save the cpu usage percentage in the block
 int cores;//This variable will contain the number of cores the given system has which will be used while calculating the Cpu percentage usage
 
@@ -54,6 +54,7 @@ int count_prime(int *array,int s){
 
 int main(){
 	int n;
+	countCores(&cores);// First we should count the number of cores present in the system which will be used later 
 	do{
 		sf(n);
 		if(n==0)break;		
@@ -64,7 +65,7 @@ int main(){
 		}	
 		timeStart=getCpuProcessTime();
 		cpuTimeStart=getCpuTime();
-		cpuPercentage=((long double)((long double)timeStart*100))/((long double)(cpuTimeStart)*4);
+		cpuPercentage=getCpuPercent(&timeStart,&cpuTimeStart,cores);
 		printf("%Lf",cpuPercentage);
 		int count=(count_prime(array,n));		
 		nl();			
