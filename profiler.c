@@ -123,7 +123,7 @@ unsigned long long int getCpuTime(){
  	fgets(line, 228, file);	
 	unsigned long long user,nice,system,idle,iowait,irq,softirq,steal,guest,guest_nice;	
 	sscanf(line,"%llu,%llu,%llu,%llu,%llu,%llu,%llu,%llu,%llu,%llu",&user,&nice,&system,&idle,&iowait,&irq,&softirq,&steal,&guest,&guest_nice);
-	printf("%llu\n",user);
+	/*printf("%llu\n",user);
 	printf("%llu\n",nice);
 	printf("%llu\n",system);
 	printf("%llu\n",idle);
@@ -132,7 +132,7 @@ unsigned long long int getCpuTime(){
 	printf("%llu\n",softirq);
 	printf("%llu\n",steal);
 	printf("%llu\n",guest);
-	printf("%llu\n\n",guest_nice);
+	printf("%llu\n\n",guest_nice);*/
 	return (user + nice + system + idle+iowait+irq+softirq+steal+guest+guest_nice);
 }
 void cpuStartFlag(unsigned long int *process,unsigned long long *cpu){

@@ -62,7 +62,9 @@ int main(){
 		}	
 		timeStart=getCpuProcessTime();
 		cpuTimeStart=getCpuTime();
-		int count=(count_prime(array,n));
+		cpuPercentage=((long double)((long double)timeStart*100))/((long double)(cpuTimeStart));
+		printf("%Lf",cpuPercentage);
+		int count=(count_prime(array,n));		
 		nl();			
 		printf("num of primes=");
 		pf(count);

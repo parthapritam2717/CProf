@@ -60,7 +60,11 @@ int main(){
 		for(i=0;i<n;++i){
 			sf(array[i]);
 		}	
-		int count=(count_prime(array,n));
+		timeStart=getCpuProcessTime();
+		cpuTimeStart=getCpuTime();
+		cpuPercentage=((long double)((long double)timeStart*100))/((long double)(cpuTimeStart)*4);
+		printf("%Lf",cpuPercentage);
+		int count=(count_prime(array,n));		
 		nl();			
 		printf("num of primes=");
 		pf(count);
