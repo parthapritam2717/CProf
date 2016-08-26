@@ -4,8 +4,7 @@
 #include<limits.h>
 #include<stdbool.h>
 
-bool is_prime(int item){
-	
+bool is_prime(int item){	
 	double y=(double)item;
 	double x=sqrt(y);
 	int i;
