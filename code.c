@@ -55,6 +55,7 @@ int count_prime(int *array,int s){
 int main(){
 	int n;
 	countCores(&cores);// First we should count the number of cores present in the system which will be used later 
+	int c=0;
 	do{
 		sf(n);
 		if(n==0)break;		
@@ -62,15 +63,18 @@ int main(){
 		int i;
 		for(i=0;i<n;++i){
 			sf(array[i]);
-		}	
+		}			
+		int count=(count_prime(array,n));
 		timeStart=getCpuProcessTime();
 		cpuTimeStart=getCpuTime();
 		cpuPercentage=getCpuPercent(&timeStart,&cpuTimeStart,cores);
-		printf("%Lf",cpuPercentage);
-		int count=(count_prime(array,n));		
-		nl();			
-		printf("num of primes=");
+		printf("%Lf",cpuPercentage);		
+		nl();	
+		printf("memory used=%d",getMemoryUsed());
+		nl();		
+		printf("%d num of primes=",c);
 		pf(count);
+		c++;
 		nl();		
 		free(array);		
 		nl();
