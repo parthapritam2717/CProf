@@ -74,6 +74,7 @@ int main(){
 		cpuPercentage=getCpuPercent(&timeStart,&cpuTimeStart,cores);
 		printf("%Lf",cpuPercentage);		
 		nl();	
+		//
 		printf("memory used=%d",getMemoryUsed());
 		nl();		
 		printf("%d num of primes=",c);

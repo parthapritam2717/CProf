@@ -59,8 +59,7 @@ int main(){
 	int t;
 	sf(t);
 	while(t>0){
-		sf(n);
-		if(n==0)break;	
+		sf(n);	
 		int i;
 		int *array=(int *)malloc(sizeof(int)*n);
 		for(i=0;i<n;++i){

@@ -50,9 +50,9 @@ int parseLine(char* line){
 int getVirtualMemoryUsed(){ //Note: this value is in KB Please convert it into Bytes for better accuracy!
 	    FILE* file = fopen("/proc/self/status", "r");
 	    int result = -1;
-	    char line[128];
+	    char line[1000];
 
-	    while (fgets(line, 128, file) != NULL){
+	    while (fgets(line, 1000, file) != NULL){
 		if (strncmp(line, "VmSize:", 7) == 0){
 		    result = parseLine(line);
 		    break;
@@ -67,9 +67,9 @@ int getVirtualMemoryUsed(){ //Note: this value is in KB Please convert it into B
 int getPhysicalMemoryUsed(){ //Note: this value is in KB Please convert it into Bytes for better accuracy
     FILE* file = fopen("/proc/self/status", "r");
     int result = -1;
-    char line[128];
+    char line[1000];
 
-    while (fgets(line, 128, file) != NULL){
+    while (fgets(line, 1000, file) != NULL){
         if (strncmp(line, "VmRSS:", 6) == 0){
             result = parseLine(line);
             break;
@@ -83,15 +83,15 @@ int getPhysicalMemoryUsed(){ //Note: this value is in KB Please convert it into 
 int getMemoryUsed(){//Note: this value is in KB Please convert it into Bytes for better accuracy
  	FILE* file = fopen("/proc/self/status", "r");
     	int result = -1;
-    	char line[128];
+    	char line[1000];
 
-	    while (fgets(line, 128, file) != NULL){
+	    while (fgets(line, 1000, file) != NULL){
 			if (strncmp(line, "VmData:", 6) == 0){
 			    result = parseLine(line);
 			    break;
 			}
 	    }
-	while (fgets(line, 128, file) != NULL){
+	while (fgets(line, 1000, file) != NULL){
 		if (strncmp(line, "VmStk:", 6) == 0){
 		result+=parseLine(line);
 		break;
@@ -107,8 +107,8 @@ calculating the difference*/
 /*The data we will be using from the /proc/PID/stat file are the stime and utime . stime is the time in which the process was in kernel mode and utime is the time in which the process was in user mode*/
 unsigned long int getCpuProcessTime(){
 	FILE* file = fopen("/proc/self/stat", "r");
-	char line[228];
- 	fgets(line, 228, file);
+	char line[1000];
+ 	fgets(line, 1000, file);
 	pState ps;
 	sscanf(line,"%d,%s,%c,%d,%d,%d,%d,%d,%u,%lu,%lu,%lu,%lu,%lu,%lu,%ld,%ld",&ps.pid,ps.comm,
 	&ps.state,&ps.ppid,&ps.pgrp,&ps.session,&ps.tty_nr,&ps.tpgid,&ps.flags,&ps.minflt,&ps.cminflt,
@@ -120,8 +120,8 @@ unsigned long int getCpuProcessTime(){
 /*This function gives the total cpu time for all the process*/
 unsigned long long int getCpuTime(){
 	FILE* file = fopen("/proc/stat", "r");
-	char line[228];
- 	fgets(line, 228, file);	
+	char line[1000];
+ 	fgets(line, 1000, file);	
 	unsigned long long user,nice,system,idle,iowait,irq,softirq,steal,guest,guest_nice;	
 	sscanf(line,"%llu,%llu,%llu,%llu,%llu,%llu,%llu,%llu,%llu,%llu",&user,&nice,&system,&idle,&iowait,&irq,&softirq,&steal,&guest,&guest_nice);
 	/*printf("%llu\n",user);
@@ -141,12 +141,14 @@ unsigned long long int getCpuTime(){
 void countCores(int *core){
 	FILE *file = fopen("/proc/cpuinfo", "r");
 	*core = 0;
-	char line[228];
+	char line[1000];
 	while(fgets(line, 228, file) != NULL){
 		if (strncmp(line, "processor", 9) == 0) (*core)++;
 	}
 	fclose(file);
 }
+
+
 /*This function returns the percentage of cpu time our process used*/
 long double getCpuPercent(unsigned long *process,unsigned long long *cpu,int cores){
 	return ((long double)((long double)(*process)*100))/((long double)(*cpu)*cores);
