@@ -58,10 +58,7 @@ int main(){
 		int *array=(int *)malloc(sizeof(int)*n);
 		for(i=0;i<n;++i){
 			sf(array[i]);
-		}		
-		for(i=0;i<n;++i){
-			sf(array[i]);
-		}			
+		}				
 		int count=(count_prime(array,n));		
 		printf("%d num of primes=",c);
 		pf(count);

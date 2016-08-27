@@ -142,7 +142,7 @@ void countCores(int *core){
 	FILE *file = fopen("/proc/cpuinfo", "r");
 	*core = 0;
 	char line[1000];
-	while(fgets(line, 228, file) != NULL){
+	while(fgets(line, 1000, file) != NULL){
 		if (strncmp(line, "processor", 9) == 0) (*core)++;
 	}
 	fclose(file);
@@ -151,7 +151,7 @@ void countCores(int *core){
 
 /*This function returns the percentage of cpu time our process used*/
 long double getCpuPercent(unsigned long *process,unsigned long long *cpu,int cores){
-	return ((long double)((long double)(*process)*100))/((long double)(*cpu)*cores);
+	return ((long double)((long double)(*process)*100))/((long double)(*cpu));
 }
 
 

@@ -1,16 +1,1979 @@
-6.255381
+8.343442
 memory used=340
-0 num of primes=38
+0 num of primes=45
 
-9.985987
+6.272718
 memory used=348
-1 num of primes=98
+1 num of primes=2775
 
-24.998269
+6.272718
 memory used=356
-2 num of primes=77
+2 num of primes=491
 
-24.998238
-memory used=364
-3 num of primes=93
+6.272718
+memory used=740
+3 num of primes=9188
 
+6.272718
+memory used=652
+4 num of primes=6440
+
+6.272718
+memory used=660
+5 num of primes=913
+
+6.272718
+memory used=668
+6 num of primes=3665
+
+6.272718
+memory used=676
+7 num of primes=2181
+
+6.272718
+memory used=684
+8 num of primes=2181
+
+6.272718
+memory used=692
+9 num of primes=2181
+
+6.272718
+memory used=700
+10 num of primes=2181
+
+6.272718
+memory used=708
+11 num of primes=2181
+
+6.272718
+memory used=716
+12 num of primes=2181
+
+6.272718
+memory used=724
+13 num of primes=2181
+
+6.272718
+memory used=732
+14 num of primes=2181
+
+6.272718
+memory used=740
+15 num of primes=2181
+
+6.272718
+memory used=748
+16 num of primes=2181
+
+6.272718
+memory used=756
+17 num of primes=2181
+
+6.272718
+memory used=764
+18 num of primes=2181
+
+6.272718
+memory used=772
+19 num of primes=2181
+
+6.272718
+memory used=780
+20 num of primes=2181
+
+6.272718
+memory used=788
+21 num of primes=2181
+
+6.272718
+memory used=796
+22 num of primes=2181
+
+6.272718
+memory used=804
+23 num of primes=2181
+
+6.272718
+memory used=812
+24 num of primes=2181
+
+6.272718
+memory used=820
+25 num of primes=2181
+
+6.272718
+memory used=828
+26 num of primes=2181
+
+6.272718
+memory used=836
+27 num of primes=2181
+
+6.272718
+memory used=844
+28 num of primes=2181
+
+6.272718
+memory used=852
+29 num of primes=2181
+
+6.272718
+memory used=860
+30 num of primes=2181
+
+6.272718
+memory used=868
+31 num of primes=2181
+
+6.272718
+memory used=876
+32 num of primes=2181
+
+6.272718
+memory used=884
+33 num of primes=2181
+
+6.272718
+memory used=892
+34 num of primes=2181
+
+6.272718
+memory used=900
+35 num of primes=2181
+
+6.272718
+memory used=908
+36 num of primes=2181
+
+6.272718
+memory used=916
+37 num of primes=2181
+
+6.272718
+memory used=924
+38 num of primes=2181
+
+6.272718
+memory used=932
+39 num of primes=2181
+
+6.272718
+memory used=940
+40 num of primes=2181
+
+6.272718
+memory used=948
+41 num of primes=2181
+
+6.272718
+memory used=956
+42 num of primes=2181
+
+6.272718
+memory used=964
+43 num of primes=2181
+
+6.272718
+memory used=972
+44 num of primes=2181
+
+6.272718
+memory used=980
+45 num of primes=2181
+
+6.272718
+memory used=988
+46 num of primes=2181
+
+6.272718
+memory used=996
+47 num of primes=2181
+
+6.272718
+memory used=1004
+48 num of primes=2181
+
+6.272718
+memory used=1012
+49 num of primes=2181
+
+6.272718
+memory used=1020
+50 num of primes=2181
+
+6.272718
+memory used=1028
+51 num of primes=2181
+
+6.272718
+memory used=1036
+52 num of primes=2181
+
+6.272718
+memory used=1044
+53 num of primes=2181
+
+6.272718
+memory used=1052
+54 num of primes=2181
+
+6.272718
+memory used=1060
+55 num of primes=2181
+
+6.272718
+memory used=1068
+56 num of primes=2181
+
+6.272718
+memory used=1076
+57 num of primes=2181
+
+6.272718
+memory used=1084
+58 num of primes=2181
+
+6.272718
+memory used=1092
+59 num of primes=2181
+
+6.272718
+memory used=1100
+60 num of primes=2181
+
+6.272718
+memory used=1108
+61 num of primes=2181
+
+6.272718
+memory used=1116
+62 num of primes=2181
+
+6.272718
+memory used=1124
+63 num of primes=2181
+
+6.272718
+memory used=1132
+64 num of primes=2181
+
+6.272718
+memory used=1140
+65 num of primes=2181
+
+6.272718
+memory used=1148
+66 num of primes=2181
+
+6.272718
+memory used=1156
+67 num of primes=2181
+
+6.272718
+memory used=1164
+68 num of primes=2181
+
+6.272718
+memory used=1172
+69 num of primes=2181
+
+6.272718
+memory used=1180
+70 num of primes=2181
+
+6.272718
+memory used=1188
+71 num of primes=2181
+
+6.272718
+memory used=1196
+72 num of primes=2181
+
+6.272718
+memory used=1204
+73 num of primes=2181
+
+6.272718
+memory used=1212
+74 num of primes=2181
+
+6.272718
+memory used=1220
+75 num of primes=2181
+
+6.272718
+memory used=1228
+76 num of primes=2181
+
+6.272718
+memory used=1236
+77 num of primes=2181
+
+6.272718
+memory used=1244
+78 num of primes=2181
+
+6.272718
+memory used=1252
+79 num of primes=2181
+
+6.272718
+memory used=1260
+80 num of primes=2181
+
+6.272718
+memory used=1268
+81 num of primes=2181
+
+6.272718
+memory used=1276
+82 num of primes=2181
+
+6.272718
+memory used=1284
+83 num of primes=2181
+
+6.272718
+memory used=1292
+84 num of primes=2181
+
+6.272718
+memory used=1300
+85 num of primes=2181
+
+6.272718
+memory used=1308
+86 num of primes=2181
+
+6.272718
+memory used=1316
+87 num of primes=2181
+
+6.272718
+memory used=1324
+88 num of primes=2181
+
+6.272718
+memory used=1332
+89 num of primes=2181
+
+6.272718
+memory used=1340
+90 num of primes=2181
+
+6.272718
+memory used=1348
+91 num of primes=2181
+
+6.272718
+memory used=1356
+92 num of primes=2181
+
+6.272718
+memory used=1364
+93 num of primes=2181
+
+6.272718
+memory used=1372
+94 num of primes=2181
+
+6.272718
+memory used=1380
+95 num of primes=2181
+
+6.272718
+memory used=1388
+96 num of primes=2181
+
+6.272718
+memory used=1396
+97 num of primes=2181
+
+6.272718
+memory used=1404
+98 num of primes=2181
+
+6.272718
+memory used=1412
+99 num of primes=2181
+
+6.272718
+memory used=1420
+100 num of primes=2181
+
+6.272718
+memory used=1428
+101 num of primes=2181
+
+6.272718
+memory used=1436
+102 num of primes=2181
+
+6.272718
+memory used=1444
+103 num of primes=2181
+
+6.272718
+memory used=1452
+104 num of primes=2181
+
+6.272718
+memory used=1460
+105 num of primes=2181
+
+6.272718
+memory used=1468
+106 num of primes=2181
+
+6.272718
+memory used=1476
+107 num of primes=2181
+
+6.272718
+memory used=1484
+108 num of primes=2181
+
+6.272718
+memory used=1492
+109 num of primes=2181
+
+6.272718
+memory used=1500
+110 num of primes=2181
+
+6.272718
+memory used=1508
+111 num of primes=2181
+
+6.272718
+memory used=1516
+112 num of primes=2181
+
+6.272718
+memory used=1524
+113 num of primes=2181
+
+6.272718
+memory used=1532
+114 num of primes=2181
+
+6.272718
+memory used=1540
+115 num of primes=2181
+
+6.272718
+memory used=1548
+116 num of primes=2181
+
+6.272718
+memory used=1556
+117 num of primes=2181
+
+6.272718
+memory used=1564
+118 num of primes=2181
+
+6.272718
+memory used=1572
+119 num of primes=2181
+
+6.272718
+memory used=1580
+120 num of primes=2181
+
+6.272718
+memory used=1588
+121 num of primes=2181
+
+6.272718
+memory used=1596
+122 num of primes=2181
+
+6.272718
+memory used=1604
+123 num of primes=2181
+
+6.272718
+memory used=1612
+124 num of primes=2181
+
+6.272718
+memory used=1620
+125 num of primes=2181
+
+6.272718
+memory used=1628
+126 num of primes=2181
+
+6.272718
+memory used=1636
+127 num of primes=2181
+
+6.272718
+memory used=1644
+128 num of primes=2181
+
+6.272718
+memory used=1652
+129 num of primes=2181
+
+6.272718
+memory used=1660
+130 num of primes=2181
+
+6.272718
+memory used=1668
+131 num of primes=2181
+
+6.272718
+memory used=1676
+132 num of primes=2181
+
+6.272718
+memory used=1684
+133 num of primes=2181
+
+6.272718
+memory used=1692
+134 num of primes=2181
+
+6.272718
+memory used=1700
+135 num of primes=2181
+
+6.272718
+memory used=1708
+136 num of primes=2181
+
+6.272718
+memory used=1716
+137 num of primes=2181
+
+6.272718
+memory used=1724
+138 num of primes=2181
+
+6.272718
+memory used=1732
+139 num of primes=2181
+
+6.272718
+memory used=1740
+140 num of primes=2181
+
+6.272718
+memory used=1748
+141 num of primes=2181
+
+6.272718
+memory used=1756
+142 num of primes=2181
+
+6.272718
+memory used=1764
+143 num of primes=2181
+
+6.272718
+memory used=1772
+144 num of primes=2181
+
+6.272718
+memory used=1780
+145 num of primes=2181
+
+6.272718
+memory used=1788
+146 num of primes=2181
+
+6.272718
+memory used=1796
+147 num of primes=2181
+
+6.272718
+memory used=1804
+148 num of primes=2181
+
+6.272718
+memory used=1812
+149 num of primes=2181
+
+6.272718
+memory used=1820
+150 num of primes=2181
+
+6.272718
+memory used=1828
+151 num of primes=2181
+
+6.272718
+memory used=1836
+152 num of primes=2181
+
+6.272718
+memory used=1844
+153 num of primes=2181
+
+6.272718
+memory used=1852
+154 num of primes=2181
+
+6.272718
+memory used=1860
+155 num of primes=2181
+
+6.272718
+memory used=1868
+156 num of primes=2181
+
+6.272718
+memory used=1876
+157 num of primes=2181
+
+6.272718
+memory used=1884
+158 num of primes=2181
+
+6.272718
+memory used=1892
+159 num of primes=2181
+
+6.272718
+memory used=1900
+160 num of primes=2181
+
+6.272718
+memory used=1908
+161 num of primes=2181
+
+6.272718
+memory used=1916
+162 num of primes=2181
+
+6.272718
+memory used=1924
+163 num of primes=2181
+
+6.272718
+memory used=1932
+164 num of primes=2181
+
+6.272718
+memory used=1940
+165 num of primes=2181
+
+6.272718
+memory used=1948
+166 num of primes=2181
+
+6.272718
+memory used=1956
+167 num of primes=2181
+
+6.272718
+memory used=1964
+168 num of primes=2181
+
+6.272718
+memory used=1972
+169 num of primes=2181
+
+6.272718
+memory used=1980
+170 num of primes=2181
+
+6.272718
+memory used=1988
+171 num of primes=2181
+
+6.272718
+memory used=1996
+172 num of primes=2181
+
+6.272718
+memory used=2004
+173 num of primes=2181
+
+6.272718
+memory used=2012
+174 num of primes=2181
+
+6.272718
+memory used=2020
+175 num of primes=2181
+
+6.272718
+memory used=2028
+176 num of primes=2181
+
+6.272718
+memory used=2036
+177 num of primes=2181
+
+6.272718
+memory used=2044
+178 num of primes=2181
+
+6.272718
+memory used=2052
+179 num of primes=2181
+
+6.272718
+memory used=2060
+180 num of primes=2181
+
+6.272718
+memory used=2068
+181 num of primes=2181
+
+6.272718
+memory used=2076
+182 num of primes=2181
+
+6.272718
+memory used=2084
+183 num of primes=2181
+
+6.272718
+memory used=2092
+184 num of primes=2181
+
+6.272718
+memory used=2100
+185 num of primes=2181
+
+6.272718
+memory used=2108
+186 num of primes=2181
+
+6.272718
+memory used=2116
+187 num of primes=2181
+
+6.272718
+memory used=2124
+188 num of primes=2181
+
+6.272718
+memory used=2132
+189 num of primes=2181
+
+6.272718
+memory used=2140
+190 num of primes=2181
+
+6.272718
+memory used=2148
+191 num of primes=2181
+
+6.272718
+memory used=2156
+192 num of primes=2181
+
+6.272718
+memory used=2164
+193 num of primes=2181
+
+6.272718
+memory used=2172
+194 num of primes=2181
+
+6.272718
+memory used=2180
+195 num of primes=2181
+
+6.272718
+memory used=2188
+196 num of primes=2181
+
+6.272718
+memory used=2196
+197 num of primes=2181
+
+6.272718
+memory used=2204
+198 num of primes=2181
+
+6.272718
+memory used=2212
+199 num of primes=2181
+
+6.272718
+memory used=2220
+200 num of primes=2181
+
+6.272718
+memory used=2228
+201 num of primes=2181
+
+6.272718
+memory used=2236
+202 num of primes=2181
+
+6.272718
+memory used=2244
+203 num of primes=2181
+
+6.272718
+memory used=2252
+204 num of primes=2181
+
+6.272718
+memory used=2260
+205 num of primes=2181
+
+6.272718
+memory used=2268
+206 num of primes=2181
+
+6.272718
+memory used=2276
+207 num of primes=2181
+
+6.272718
+memory used=2284
+208 num of primes=2181
+
+6.272718
+memory used=2292
+209 num of primes=2181
+
+6.272718
+memory used=2300
+210 num of primes=2181
+
+6.272718
+memory used=2308
+211 num of primes=2181
+
+6.272718
+memory used=2316
+212 num of primes=2181
+
+6.272718
+memory used=2324
+213 num of primes=2181
+
+6.272718
+memory used=2332
+214 num of primes=2181
+
+6.272718
+memory used=2340
+215 num of primes=2181
+
+6.272718
+memory used=2348
+216 num of primes=2181
+
+6.272718
+memory used=2356
+217 num of primes=2181
+
+6.272718
+memory used=2364
+218 num of primes=2181
+
+6.272718
+memory used=2372
+219 num of primes=2181
+
+6.272718
+memory used=2380
+220 num of primes=2181
+
+6.272718
+memory used=2388
+221 num of primes=2181
+
+6.272718
+memory used=2396
+222 num of primes=2181
+
+6.272718
+memory used=2404
+223 num of primes=2181
+
+6.272718
+memory used=2412
+224 num of primes=2181
+
+6.272718
+memory used=2420
+225 num of primes=2181
+
+6.272718
+memory used=2428
+226 num of primes=2181
+
+6.272718
+memory used=2436
+227 num of primes=2181
+
+6.272718
+memory used=2444
+228 num of primes=2181
+
+6.272718
+memory used=2452
+229 num of primes=2181
+
+6.272718
+memory used=2460
+230 num of primes=2181
+
+6.272718
+memory used=2468
+231 num of primes=2181
+
+6.272718
+memory used=2476
+232 num of primes=2181
+
+6.272718
+memory used=2484
+233 num of primes=2181
+
+6.272718
+memory used=2492
+234 num of primes=2181
+
+6.272718
+memory used=2500
+235 num of primes=2181
+
+6.272718
+memory used=2508
+236 num of primes=2181
+
+6.272718
+memory used=2516
+237 num of primes=2181
+
+6.272718
+memory used=2524
+238 num of primes=2181
+
+6.272718
+memory used=2532
+239 num of primes=2181
+
+6.272718
+memory used=2540
+240 num of primes=2181
+
+6.272718
+memory used=2548
+241 num of primes=2181
+
+6.272718
+memory used=2556
+242 num of primes=2181
+
+6.272718
+memory used=2564
+243 num of primes=2181
+
+6.272718
+memory used=2572
+244 num of primes=2181
+
+6.272718
+memory used=2580
+245 num of primes=2181
+
+6.272718
+memory used=2588
+246 num of primes=2181
+
+6.272718
+memory used=2596
+247 num of primes=2181
+
+6.272718
+memory used=2604
+248 num of primes=2181
+
+6.272718
+memory used=2612
+249 num of primes=2181
+
+6.272718
+memory used=2620
+250 num of primes=2181
+
+6.272718
+memory used=2628
+251 num of primes=2181
+
+6.272718
+memory used=2636
+252 num of primes=2181
+
+6.272718
+memory used=2644
+253 num of primes=2181
+
+6.272718
+memory used=2652
+254 num of primes=2181
+
+6.272718
+memory used=2660
+255 num of primes=2181
+
+6.272718
+memory used=2668
+256 num of primes=2181
+
+6.272718
+memory used=2676
+257 num of primes=2181
+
+6.272718
+memory used=2684
+258 num of primes=2181
+
+6.272718
+memory used=2692
+259 num of primes=2181
+
+6.272718
+memory used=2700
+260 num of primes=2181
+
+6.272718
+memory used=2708
+261 num of primes=2181
+
+6.272718
+memory used=2716
+262 num of primes=2181
+
+6.272718
+memory used=2724
+263 num of primes=2181
+
+6.272718
+memory used=2732
+264 num of primes=2181
+
+6.272718
+memory used=2740
+265 num of primes=2181
+
+6.272718
+memory used=2748
+266 num of primes=2181
+
+6.272718
+memory used=2756
+267 num of primes=2181
+
+6.272718
+memory used=2764
+268 num of primes=2181
+
+6.272718
+memory used=2772
+269 num of primes=2181
+
+6.272718
+memory used=2780
+270 num of primes=2181
+
+6.272718
+memory used=2788
+271 num of primes=2181
+
+6.272718
+memory used=2796
+272 num of primes=2181
+
+6.272718
+memory used=2804
+273 num of primes=2181
+
+6.272718
+memory used=2812
+274 num of primes=2181
+
+6.272718
+memory used=2820
+275 num of primes=2181
+
+6.272718
+memory used=2828
+276 num of primes=2181
+
+6.272718
+memory used=2836
+277 num of primes=2181
+
+6.272718
+memory used=2844
+278 num of primes=2181
+
+6.272718
+memory used=2852
+279 num of primes=2181
+
+6.272718
+memory used=2860
+280 num of primes=2181
+
+6.272718
+memory used=2868
+281 num of primes=2181
+
+6.272718
+memory used=2876
+282 num of primes=2181
+
+6.272718
+memory used=2884
+283 num of primes=2181
+
+6.272718
+memory used=2892
+284 num of primes=2181
+
+6.272718
+memory used=3032
+285 num of primes=2181
+
+6.272718
+memory used=3040
+286 num of primes=2181
+
+6.272718
+memory used=3048
+287 num of primes=2181
+
+6.272718
+memory used=3056
+288 num of primes=2181
+
+6.272718
+memory used=3064
+289 num of primes=2181
+
+6.272718
+memory used=3072
+290 num of primes=2181
+
+6.272718
+memory used=3080
+291 num of primes=2181
+
+6.272718
+memory used=3088
+292 num of primes=2181
+
+6.272718
+memory used=3096
+293 num of primes=2181
+
+6.272718
+memory used=3104
+294 num of primes=2181
+
+6.272718
+memory used=3112
+295 num of primes=2181
+
+6.272718
+memory used=3120
+296 num of primes=2181
+
+6.272718
+memory used=3128
+297 num of primes=2181
+
+6.272718
+memory used=3136
+298 num of primes=2181
+
+6.272718
+memory used=3144
+299 num of primes=2181
+
+6.272718
+memory used=3152
+300 num of primes=2181
+
+6.272718
+memory used=3160
+301 num of primes=2181
+
+6.272718
+memory used=3168
+302 num of primes=2181
+
+6.272718
+memory used=3176
+303 num of primes=2181
+
+6.272718
+memory used=3184
+304 num of primes=2181
+
+6.272718
+memory used=3192
+305 num of primes=2181
+
+6.272718
+memory used=3200
+306 num of primes=2181
+
+6.272718
+memory used=3208
+307 num of primes=2181
+
+6.272718
+memory used=3216
+308 num of primes=2181
+
+6.272718
+memory used=3224
+309 num of primes=2181
+
+6.272718
+memory used=3232
+310 num of primes=2181
+
+6.272718
+memory used=3240
+311 num of primes=2181
+
+6.272718
+memory used=3248
+312 num of primes=2181
+
+6.272718
+memory used=3256
+313 num of primes=2181
+
+6.272718
+memory used=3264
+314 num of primes=2181
+
+6.272718
+memory used=3272
+315 num of primes=2181
+
+6.272718
+memory used=3280
+316 num of primes=2181
+
+6.272718
+memory used=3288
+317 num of primes=2181
+
+6.272718
+memory used=3296
+318 num of primes=2181
+
+6.272718
+memory used=3304
+319 num of primes=2181
+
+6.272718
+memory used=3312
+320 num of primes=2181
+
+6.272718
+memory used=3320
+321 num of primes=2181
+
+6.272718
+memory used=3328
+322 num of primes=2181
+
+6.272718
+memory used=3336
+323 num of primes=2181
+
+6.272718
+memory used=3344
+324 num of primes=2181
+
+6.272718
+memory used=3352
+325 num of primes=2181
+
+6.272718
+memory used=3360
+326 num of primes=2181
+
+6.272718
+memory used=3368
+327 num of primes=2181
+
+6.272718
+memory used=3376
+328 num of primes=2181
+
+6.272718
+memory used=3384
+329 num of primes=2181
+
+6.272718
+memory used=3392
+330 num of primes=2181
+
+6.272718
+memory used=3400
+331 num of primes=2181
+
+6.272718
+memory used=3408
+332 num of primes=2181
+
+6.272718
+memory used=3416
+333 num of primes=2181
+
+6.272718
+memory used=3424
+334 num of primes=2181
+
+6.272718
+memory used=3432
+335 num of primes=2181
+
+6.272718
+memory used=3440
+336 num of primes=2181
+
+6.272718
+memory used=3448
+337 num of primes=2181
+
+6.272718
+memory used=3456
+338 num of primes=2181
+
+6.272718
+memory used=3464
+339 num of primes=2181
+
+6.272718
+memory used=3472
+340 num of primes=2181
+
+6.272718
+memory used=3480
+341 num of primes=2181
+
+6.272718
+memory used=3488
+342 num of primes=2181
+
+6.272718
+memory used=3496
+343 num of primes=2181
+
+6.272718
+memory used=3504
+344 num of primes=2181
+
+6.272718
+memory used=3512
+345 num of primes=2181
+
+6.272718
+memory used=3520
+346 num of primes=2181
+
+6.272718
+memory used=3528
+347 num of primes=2181
+
+6.272718
+memory used=3536
+348 num of primes=2181
+
+6.272718
+memory used=3544
+349 num of primes=2181
+
+6.272718
+memory used=3552
+350 num of primes=2181
+
+6.272718
+memory used=3560
+351 num of primes=2181
+
+6.272718
+memory used=3568
+352 num of primes=2181
+
+6.272718
+memory used=3576
+353 num of primes=2181
+
+6.272718
+memory used=3584
+354 num of primes=2181
+
+6.272718
+memory used=3592
+355 num of primes=2181
+
+6.272718
+memory used=3600
+356 num of primes=2181
+
+6.272718
+memory used=3608
+357 num of primes=2181
+
+6.272718
+memory used=3616
+358 num of primes=2181
+
+6.272718
+memory used=3624
+359 num of primes=2181
+
+6.272718
+memory used=3632
+360 num of primes=2181
+
+6.272718
+memory used=3640
+361 num of primes=2181
+
+6.272718
+memory used=3648
+362 num of primes=2181
+
+6.272718
+memory used=3656
+363 num of primes=2181
+
+6.272718
+memory used=3664
+364 num of primes=2181
+
+6.272718
+memory used=3672
+365 num of primes=2181
+
+6.272718
+memory used=3680
+366 num of primes=2181
+
+6.272718
+memory used=3688
+367 num of primes=2181
+
+6.272718
+memory used=3696
+368 num of primes=2181
+
+6.272718
+memory used=3704
+369 num of primes=2181
+
+6.272718
+memory used=3712
+370 num of primes=2181
+
+6.272718
+memory used=3720
+371 num of primes=2181
+
+6.272718
+memory used=3728
+372 num of primes=2181
+
+6.272718
+memory used=3736
+373 num of primes=2181
+
+6.272718
+memory used=3744
+374 num of primes=2181
+
+6.272718
+memory used=3752
+375 num of primes=2181
+
+6.272718
+memory used=3760
+376 num of primes=2181
+
+6.272718
+memory used=3768
+377 num of primes=2181
+
+6.272718
+memory used=3776
+378 num of primes=2181
+
+6.272718
+memory used=3784
+379 num of primes=2181
+
+6.272718
+memory used=3792
+380 num of primes=2181
+
+6.272718
+memory used=3800
+381 num of primes=2181
+
+6.272718
+memory used=3808
+382 num of primes=2181
+
+6.272718
+memory used=3816
+383 num of primes=2181
+
+6.272718
+memory used=3824
+384 num of primes=2181
+
+6.272718
+memory used=3832
+385 num of primes=2181
+
+6.272718
+memory used=3840
+386 num of primes=2181
+
+6.272718
+memory used=3848
+387 num of primes=2181
+
+6.272718
+memory used=3856
+388 num of primes=2181
+
+6.272718
+memory used=3864
+389 num of primes=2181
+
+6.272718
+memory used=3872
+390 num of primes=2181
+
+6.272718
+memory used=3880
+391 num of primes=2181
+
+6.272718
+memory used=3888
+392 num of primes=2181
+
+6.272718
+memory used=3896
+393 num of primes=2181
+
+6.272718
+memory used=3904
+394 num of primes=2181
+
+6.272718
+memory used=3912
+395 num of primes=2181
+
+6.272718
+memory used=3920
+396 num of primes=2181
+
+6.272718
+memory used=3928
+397 num of primes=2181
+
+6.272718
+memory used=3936
+398 num of primes=2181
+
+6.272718
+memory used=3944
+399 num of primes=2181
+
+6.272718
+memory used=3952
+400 num of primes=2181
+
+6.272718
+memory used=3960
+401 num of primes=2181
+
+6.272718
+memory used=4100
+402 num of primes=2181
+
+6.272718
+memory used=4108
+403 num of primes=2181
+
+6.272718
+memory used=4116
+404 num of primes=2181
+
+6.272718
+memory used=4124
+405 num of primes=2181
+
+6.272718
+memory used=4132
+406 num of primes=2181
+
+6.272718
+memory used=4140
+407 num of primes=2181
+
+6.272718
+memory used=4148
+408 num of primes=2181
+
+6.272718
+memory used=4156
+409 num of primes=2181
+
+6.272718
+memory used=4164
+410 num of primes=2181
+
+6.272718
+memory used=4172
+411 num of primes=2181
+
+6.272718
+memory used=4180
+412 num of primes=2181
+
+6.272718
+memory used=4188
+413 num of primes=2181
+
+6.272718
+memory used=4196
+414 num of primes=2181
+
+6.272718
+memory used=4204
+415 num of primes=2181
+
+6.272718
+memory used=4212
+416 num of primes=2181
+
+6.272718
+memory used=4220
+417 num of primes=2181
+
+6.272718
+memory used=4228
+418 num of primes=2181
+
+6.272718
+memory used=4236
+419 num of primes=2181
+
+6.272718
+memory used=4244
+420 num of primes=2181
+
+6.272718
+memory used=4252
+421 num of primes=2181
+
+6.272718
+memory used=4260
+422 num of primes=2181
+
+6.272718
+memory used=4268
+423 num of primes=2181
+
+6.272718
+memory used=4276
+424 num of primes=2181
+
+6.272718
+memory used=4284
+425 num of primes=2181
+
+6.272718
+memory used=4292
+426 num of primes=2181
+
+6.272718
+memory used=4300
+427 num of primes=2181
+
+6.272718
+memory used=4308
+428 num of primes=2181
+
+6.272718
+memory used=4316
+429 num of primes=2181
+
+6.272718
+memory used=4324
+430 num of primes=2181
+
+6.272718
+memory used=4332
+431 num of primes=2181
+
+6.272718
+memory used=4340
+432 num of primes=2181
+
+6.272718
+memory used=4348
+433 num of primes=2181
+
+6.272718
+memory used=4356
+434 num of primes=2181
+
+6.272718
+memory used=4364
+435 num of primes=2181
+
+6.272718
+memory used=4372
+436 num of primes=2181
+
+6.272718
+memory used=4380
+437 num of primes=2181
+
+6.272718
+memory used=4388
+438 num of primes=2181
+
+6.272718
+memory used=4396
+439 num of primes=2181
+
+6.272718
+memory used=4404
+440 num of primes=2181
+
+6.272718
+memory used=4412
+441 num of primes=2181
+
+6.272718
+memory used=4420
+442 num of primes=2181
+
+6.272718
+memory used=4428
+443 num of primes=2181
+
+6.272718
+memory used=4436
+444 num of primes=2181
+
+6.272718
+memory used=4444
+445 num of primes=2181
+
+6.272718
+memory used=4452
+446 num of primes=2181
+
+6.272718
+memory used=4460
+447 num of primes=2181
+
+6.272718
+memory used=4468
+448 num of primes=2181
+
+6.272718
+memory used=4476
+449 num of primes=2181
+
+6.272718
+memory used=4484
+450 num of primes=2181
+
+6.272718
+memory used=4492
+451 num of primes=2181
+
+6.272718
+memory used=4500
+452 num of primes=2181
+
+6.272718
+memory used=4508
+453 num of primes=2181
+
+6.272718
+memory used=4516
+454 num of primes=2181
+
+6.272718
+memory used=4524
+455 num of primes=2181
+
+6.272718
+memory used=4532
+456 num of primes=2181
+
+6.272718
+memory used=4540
+457 num of primes=2181
+
+6.272718
+memory used=4548
+458 num of primes=2181
+
+6.272718
+memory used=4556
+459 num of primes=2181
+
+6.272718
+memory used=4564
+460 num of primes=2181
+
+6.272718
+memory used=4572
+461 num of primes=2181
+
+6.272718
+memory used=4580
+462 num of primes=2181
+
+6.272718
+memory used=4588
+463 num of primes=2181
+
+6.272718
+memory used=4596
+464 num of primes=2181
+
+6.272718
+memory used=4604
+465 num of primes=2181
+
+6.272718
+memory used=4612
+466 num of primes=2181
+
+6.272718
+memory used=4620
+467 num of primes=2181
+
+6.272718
+memory used=4628
+468 num of primes=2181
+
+6.272718
+memory used=4636
+469 num of primes=2181
+
+6.272718
+memory used=4644
+470 num of primes=2181
+
+6.272718
+memory used=4652
+471 num of primes=2181
+
+6.272718
+memory used=4660
+472 num of primes=2181
+
+6.272718
+memory used=4668
+473 num of primes=2181
+
+6.272718
+memory used=4676
+474 num of primes=2181
+
+6.272718
+memory used=4684
+475 num of primes=2181
+
+6.272718
+memory used=4692
+476 num of primes=2181
+
+6.272718
+memory used=4700
+477 num of primes=2181
+
+6.272718
+memory used=4708
+478 num of primes=2181
+
+6.272718
+memory used=4716
+479 num of primes=2181
+
+6.272718
+memory used=4724
+480 num of primes=2181
+
+6.272718
+memory used=4732
+481 num of primes=2181
+
+6.272718
+memory used=4740
+482 num of primes=2181
+
+6.272718
+memory used=4748
+483 num of primes=2181
+
+6.272718
+memory used=4756
+484 num of primes=2181
+
+6.272718
+memory used=4764
+485 num of primes=2181
+
+6.272718
+memory used=4772
+486 num of primes=2181
+
+6.272718
+memory used=4780
+487 num of primes=2181
+
+6.272718
+memory used=4788
+488 num of primes=2181
+
+6.272718
+memory used=4796
+489 num of primes=2181
+
+6.272718
+memory used=4804
+490 num of primes=2181
+
+6.272718
+memory used=4812
+491 num of primes=2181
+
+6.272718
+memory used=4820
+492 num of primes=2181
+
+6.272718
+memory used=4828
+493 num of primes=2181
+
+6.272718
+memory used=4836
+494 num of p

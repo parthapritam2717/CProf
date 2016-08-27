@@ -55,6 +55,7 @@ int count_prime(int *array,int s){
 int main(){
 	int n;
 	countCores(&cores);// First we should count the number of cores present in the system which will be used later 
+	printf("The Number of cores is%d\n",cores);
 	int c=0;
 	int t;
 	sf(t);
@@ -64,10 +65,7 @@ int main(){
 		int *array=(int *)malloc(sizeof(int)*n);
 		for(i=0;i<n;++i){
 			sf(array[i]);
-		}				
-		for(i=0;i<n;++i){
-			sf(array[i]);
-		}			
+		}
 		int count=(count_prime(array,n));
 		timeStart=getCpuProcessTime();
 		cpuTimeStart=getCpuTime();

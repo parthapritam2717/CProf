@@ -58,8 +58,7 @@ int main(){
 		int *array=(int *)malloc(sizeof(int)*n);
 		for(i=0;i<n;++i){
 			sf(array[i]);
-		}
-		
+		}		
 		for(i=0;i<n;++i){
 			sf(array[i]);
 		}			
