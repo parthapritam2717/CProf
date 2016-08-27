@@ -62,7 +62,7 @@ int main(){
 	while(t>0){
 		sf(n);	
 		int i;
-		int *array=(int *)malloc(sizeof(int)*n);
+		int array[n];
 		for(i=0;i<n;++i){
 			sf(array[i]);
 		}
@@ -70,16 +70,14 @@ int main(){
 		timeStart=getCpuProcessTime();
 		cpuTimeStart=getCpuTime();
 		cpuPercentage=getCpuPercent(&timeStart,&cpuTimeStart,cores);
-		printf("%Lf",cpuPercentage);		
+		printf("Cpu percentage=%Lf",cpuPercentage);		
 		nl();	
-		//
 		printf("memory used=%d",getMemoryUsed());
 		nl();		
 		printf("%d num of primes=",c);
 		pf(count);
-		c++;
-		nl();		
-		free(array);		
+		c++;				
+		nl();
 		nl();
 		--t;
 	}

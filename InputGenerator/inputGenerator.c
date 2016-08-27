@@ -8,7 +8,6 @@ given an array of integers count and display the total number of primes
 #include<math.h>
 #include <time.h>
 
-
 void writeNum2File(int n){
 	FILE *fp=fopen("input.txt","a");
 	fprintf(fp,"%d ",n);
@@ -26,12 +25,12 @@ void fileOverWrite(){
 }
 int main(){
 	fileOverWrite();
-	int index=10;
+	int index=1000;
 	srand ( time(NULL) );
 	writeNum2File(index);
 	writeNewLine();
 	while(index>0){		
-		int n = rand()%100;
+		int n = rand()%100000;
 		if(n==0){
 			n+=10;
 		}
@@ -39,7 +38,7 @@ int main(){
 		writeNum2File(n);
 		writeNewLine();
 		while(n>0){
-			int x=rand()%100000;
+			int x=rand()%1000000000;
 			if(x==0){
 				x+=11;
 			}

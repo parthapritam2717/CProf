@@ -49,6 +49,11 @@ int parseLine(char* line){
 /*This function is to get the total virtual Memory used by the process*/
 int getVirtualMemoryUsed(){ //Note: this value is in KB Please convert it into Bytes for better accuracy!
 	    FILE* file = fopen("/proc/self/status", "r");
+		if(file==NULL){
+		printf("Error /proc/self/status File cannot be read !!\n");
+		exit(-1);
+		
+	}
 	    int result = -1;
 	    char line[1000];
 
@@ -66,6 +71,11 @@ int getVirtualMemoryUsed(){ //Note: this value is in KB Please convert it into B
 /*This function is to get the physical memory currently used by the process*/
 int getPhysicalMemoryUsed(){ //Note: this value is in KB Please convert it into Bytes for better accuracy
     FILE* file = fopen("/proc/self/status", "r");
+	if(file==NULL){
+			printf("Error /proc/self/status File cannot be read !!\n");
+			exit(-1);
+		
+		}
     int result = -1;
     char line[1000];
 
@@ -82,6 +92,11 @@ int getPhysicalMemoryUsed(){ //Note: this value is in KB Please convert it into 
 /*This function returns the total amount of memory used by the program at a given time (heap+stack);*/
 int getMemoryUsed(){//Note: this value is in KB Please convert it into Bytes for better accuracy
  	FILE* file = fopen("/proc/self/status", "r");
+	if(file==NULL){
+		printf("Error /proc/self/status File cannot be read !!\n");
+		exit(-1);
+		
+	}
     	int result = -1;
     	char line[1000];
 
@@ -106,22 +121,38 @@ int getMemoryUsed(){//Note: this value is in KB Please convert it into Bytes for
 calculating the difference*/
 /*The data we will be using from the /proc/PID/stat file are the stime and utime . stime is the time in which the process was in kernel mode and utime is the time in which the process was in user mode*/
 unsigned long int getCpuProcessTime(){
-	FILE* file = fopen("/proc/self/stat", "r");
-	char line[1000];
- 	fgets(line, 1000, file);
-	pState ps;
-	sscanf(line,"%d,%s,%c,%d,%d,%d,%d,%d,%u,%lu,%lu,%lu,%lu,%lu,%lu,%ld,%ld",&ps.pid,ps.comm,
-	&ps.state,&ps.ppid,&ps.pgrp,&ps.session,&ps.tty_nr,&ps.tpgid,&ps.flags,&ps.minflt,&ps.cminflt,
-	&ps.majflt,&ps.cmajflt,&ps.utime,&ps.stime,&ps.cutime,&ps.cstime);
-	//printf("Processtime=%lu\n\n",(ps.utime+ps.stime));
-	return (ps.utime+ps.stime);
+	FILE* file = fopen("/proc/self/stat", "r");	
+	if(file!=NULL){
+		char line[5000];
+	 	fgets(line, 5000, file);
+		pState ps;
+		sscanf(line,"%d,%s,%c,%d,%d,%d,%d,%d,%u,%lu,%lu,%lu,%lu,%lu,%lu,%ld,%ld",&ps.pid,ps.comm,
+		&ps.state,&ps.ppid,&ps.pgrp,&ps.session,&ps.tty_nr,&ps.tpgid,&ps.flags,&ps.minflt,&ps.cminflt,
+		&ps.majflt,&ps.cmajflt,&ps.utime,&ps.stime,&ps.cutime,&ps.cstime);
+		//printf("Processtime=%lu\n\n",(ps.utime+ps.stime));
+		return (ps.utime+ps.stime);
+	}
+		else{
+			
+			printf("Error /proc/self/stat File cannot be read !!\n");
+			exit(-1);
+			
+		
+			
+	}
+	return 0;
 }
 
 /*This function gives the total cpu time for all the process*/
 unsigned long long int getCpuTime(){
 	FILE* file = fopen("/proc/stat", "r");
-	char line[1000];
- 	fgets(line, 1000, file);	
+	if(file==NULL){
+		printf("Error /proc/stat File cannot be read !!\n");
+		exit(-1);
+		
+	}
+	char line[5000];
+ 	fgets(line, 5000, file);	
 	unsigned long long user,nice,system,idle,iowait,irq,softirq,steal,guest,guest_nice;	
 	sscanf(line,"%llu,%llu,%llu,%llu,%llu,%llu,%llu,%llu,%llu,%llu",&user,&nice,&system,&idle,&iowait,&irq,&softirq,&steal,&guest,&guest_nice);
 	/*printf("%llu\n",user);
@@ -134,6 +165,7 @@ unsigned long long int getCpuTime(){
 	printf("%llu\n",steal);
 	printf("%llu\n",guest);
 	printf("%llu\n\n",guest_nice);*/
+	fclose(file);
 	return (user + nice + system + idle+iowait+irq+softirq+steal+guest+guest_nice);
 }
 
