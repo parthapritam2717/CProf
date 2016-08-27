@@ -26,10 +26,12 @@ void fileOverWrite(){
 }
 int main(){
 	fileOverWrite();
-	int index=1000;
+	int index=100;
 	srand ( time(NULL) );
+	writeNum2File(index);
+	writeNewLine();
 	while(index>0){		
-		int n = rand()%1000;
+		int n = rand()%100;
 		// write n into the file
 		writeNum2File(n);
 		writeNewLine();
@@ -41,7 +43,6 @@ int main(){
 		writeNewLine();			
 		--index;
 
-	}
-	writeNum2File(0);
+	}	
 	return 0;
 }

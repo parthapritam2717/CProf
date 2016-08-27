@@ -49,22 +49,29 @@ int count_prime(int *array,int s){
 
 int main(){
 	int n;
-	do{
+	int c=0;
+	int t;
+	sf(t);
+	while(t>0){
 		sf(n);
-		if(n==0)break;
-		int *array=(int *)malloc(sizeof(int)*n);
 		int i;
+		int *array=(int *)malloc(sizeof(int)*n);
 		for(i=0;i<n;++i){
 			sf(array[i]);
-		}
-		
-		// now the processing 
+		}		
+		for(i=0;i<n;++i){
+			sf(array[i]);
+		}			
 		int count=(count_prime(array,n));		
-		printf("num of primes=");
+		printf("%d num of primes=",c);
 		pf(count);
+		c++;
+		nl();		
+		free(array);		
 		nl();
-		free(array);
-	}while(n!=0);
+		--t;
+	}
+
 	// will also send some packets but later
 	
 	return 0;

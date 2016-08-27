@@ -1,7 +1,7 @@
         -:    0:Source:codeFinal.c
         -:    0:Graph:codeFinal.gcno
         -:    0:Data:codeFinal.gcda
-        -:    0:Runs:1
+        -:    0:Runs:2
         -:    0:Programs:1
         -:    1:/***********************************All the external include files please write here********************************/
         -:    2:#include<stdio.h>
@@ -28,72 +28,82 @@
         -:   23:
         -:   24:
         -:   25:/***************************************Global variables declaration ends here***************************************/
-        9:   26:bool is_prime(int item){	
-        9:   26-block  0
-        9:   27:	double y=(double)item;
-        9:   28:	double x=sqrt(y);
+   508369:   26:bool is_prime(int item){	
+   508369:   26-block  0
+   508369:   27:	double y=(double)item;
+   508369:   28:	double x=sqrt(y);
         -:   29:	int i;
-        9:   30:	int end=(int)x;
-       14:   31:	for(i=2;i<(int)x;++i){
-        9:   31-block  0
-        5:   31-block  1
-       14:   31-block  2
-        5:   32:		if(item%i==0){
-        5:   32-block  0
-    #####:   33:			return 0;
-    $$$$$:   33-block  0
+   508369:   30:	int end=(int)x;
+ 13645377:   31:	for(i=2;i<(int)x;++i){
+   508369:   31-block  0
+ 13137008:   31-block  1
+ 13645377:   31-block  2
+ 13593200:   32:		if(item%i==0){
+ 13593200:   32-block  0
+   456192:   33:			return 0;
+   456192:   33-block  0
         -:   34:		}		
         -:   35:	}
-        9:   36:	return 1;
-        9:   36-block  0
+    52177:   36:	return 1;
+    52177:   36-block  0
         -:   37:}
         -:   38:
-        3:   39:int count_prime(int *array,int s){
-        3:   39-block  0
-        3:   40:	int i=0,j=0;	
-       12:   41:	for(i=0;i<s;++i){
-        3:   41-block  0
-        9:   41-block  1
-       12:   41-block  2
-        9:   42:		if(array[i]>=1 && is_prime(array[i])){
-        9:   42-block  0
-        9:   42-block  1
-        9:   43:			j++;
-        9:   43-block  0
+      101:   39:int count_prime(int *array,int s){
+      101:   39-block  0
+      101:   40:	int i=0,j=0;	
+  2042574:   41:	for(i=0;i<s;++i){
+      101:   41-block  0
+  2042473:   41-block  1
+  2042574:   41-block  2
+  2042473:   42:		if(array[i]>=1 && is_prime(array[i])){
+  2042473:   42-block  0
+   508369:   42-block  1
+    52177:   43:			j++;
+    52177:   43-block  0
         -:   44:		}
         -:   45:	}
-        3:   46:	return j;
-        3:   46-block  0
+      101:   46:	return j;
+      101:   46-block  0
         -:   47:}
         -:   48:
         -:   49:
-        1:   50:int main(){
-        1:   50-block  0
+        2:   50:int main(){
+        2:   50-block  0
         -:   51:	int n;
-        -:   52:	do{
-        4:   53:		sf(n);
-        4:   53-block  0
-        4:   54:		if(n==0)break;
-        1:   54-block  0
-        3:   55:		int *array=(int *)malloc(sizeof(int)*n);
-        -:   56:		int i;
-       12:   57:		for(i=0;i<n;++i){
-        3:   57-block  0
-       12:   57-block  1
-        9:   58:			sf(array[i]);
-        9:   58-block  0
-        -:   59:		}
-        -:   60:		
-        -:   61:		// now the processing 
-        3:   62:		int count=(count_prime(array,n));		
-        3:   62-block  0
-        3:   63:		printf("num of primes=");
-        3:   64:		pf(count);
-        3:   65:		nl();
-        3:   66:		free(array);
-        3:   67:	}while(n!=0);
-        -:   68:	// will also send some packets but later
-        -:   69:	
-        1:   70:	return 0;
-        1:   70-block  0
-        -:   71:}
+        2:   52:	int c=0;
+        -:   53:	int t;
+        2:   54:	sf(t);
+        2:   54-block  0
+      103:   55:	while(t>0){
+      103:   55-block  0
+      101:   56:		sf(n);
+      101:   56-block  0
+        -:   57:		int i;
+      101:   58:		int *array=(int *)malloc(sizeof(int)*n);
+  2042574:   59:		for(i=0;i<n;++i){
+  2042574:   59-block  0
+  2042473:   60:			sf(array[i]);
+  2042473:   60-block  0
+        -:   61:		}		
+  2042574:   62:		for(i=0;i<n;++i){
+      101:   62-block  0
+  2042574:   62-block  1
+  2042473:   63:			sf(array[i]);
+  2042473:   63-block  0
+        -:   64:		}			
+      101:   65:		int count=(count_prime(array,n));		
+      101:   65-block  0
+      101:   66:		printf("%d num of primes=",c);
+      101:   67:		pf(count);
+      101:   68:		c++;
+      101:   69:		nl();		
+      101:   70:		free(array);		
+      101:   71:		nl();
+      101:   72:		--t;
+        -:   73:	}
+        -:   74:
+        -:   75:	// will also send some packets but later
+        -:   76:	
+        2:   77:	return 0;
+        2:   77-block  0
+        -:   78:}
