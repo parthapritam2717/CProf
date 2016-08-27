@@ -130,7 +130,6 @@ unsigned long int getCpuProcessTime(){
 		&ps.state,&ps.ppid,&ps.pgrp,&ps.session,&ps.tty_nr,&ps.tpgid,&ps.flags,&ps.minflt,&ps.cminflt,
 		&ps.majflt,&ps.cmajflt,&ps.utime,&ps.stime,&ps.cutime,&ps.cstime);
 		//printf("Processtime=%lu\n\n",(ps.utime+ps.stime));
-		fclose(file);
 		return (ps.utime+ps.stime);
 	}
 		else{
