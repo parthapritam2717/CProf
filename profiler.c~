@@ -285,8 +285,8 @@ void calc_cpu_usage(const struct pstat* cur_usage,
                     long unsigned int* ucpu_usage,
                     long unsigned int* scpu_usage)
 {
-	//printf("last ticks=%lu\n",last_usage->utime_ticks + last_usage->cutime_ticks);
-	//printf("cur ticks=%lu\n",cur_usage->utime_ticks + cur_usage->cutime_ticks);
+	printf("last ticks=%lu\n",last_usage->utime_ticks + last_usage->cutime_ticks);
+	printf("cur ticks=%lu\n",cur_usage->utime_ticks + cur_usage->cutime_ticks);
 
 
 /*If the statements run in less than 1 tick of time then it will return 0*/

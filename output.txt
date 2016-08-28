@@ -1,1979 +1,6000 @@
-8.343442
-memory used=340
-0 num of primes=45
-
-6.272718
-memory used=348
-1 num of primes=2775
-
-6.272718
-memory used=356
-2 num of primes=491
-
-6.272718
-memory used=740
-3 num of primes=9188
-
-6.272718
-memory used=652
-4 num of primes=6440
-
-6.272718
-memory used=660
-5 num of primes=913
-
-6.272718
-memory used=668
-6 num of primes=3665
-
-6.272718
-memory used=676
-7 num of primes=2181
-
-6.272718
-memory used=684
-8 num of primes=2181
-
-6.272718
-memory used=692
-9 num of primes=2181
-
-6.272718
-memory used=700
-10 num of primes=2181
-
-6.272718
-memory used=708
-11 num of primes=2181
-
-6.272718
-memory used=716
-12 num of primes=2181
-
-6.272718
-memory used=724
-13 num of primes=2181
-
-6.272718
-memory used=732
-14 num of primes=2181
-
-6.272718
-memory used=740
-15 num of primes=2181
-
-6.272718
-memory used=748
-16 num of primes=2181
-
-6.272718
-memory used=756
-17 num of primes=2181
-
-6.272718
-memory used=764
-18 num of primes=2181
-
-6.272718
-memory used=772
-19 num of primes=2181
-
-6.272718
-memory used=780
-20 num of primes=2181
-
-6.272718
-memory used=788
-21 num of primes=2181
-
-6.272718
-memory used=796
-22 num of primes=2181
-
-6.272718
-memory used=804
-23 num of primes=2181
-
-6.272718
-memory used=812
-24 num of primes=2181
-
-6.272718
-memory used=820
-25 num of primes=2181
-
-6.272718
-memory used=828
-26 num of primes=2181
-
-6.272718
-memory used=836
-27 num of primes=2181
-
-6.272718
-memory used=844
-28 num of primes=2181
-
-6.272718
-memory used=852
-29 num of primes=2181
-
-6.272718
-memory used=860
-30 num of primes=2181
-
-6.272718
-memory used=868
-31 num of primes=2181
-
-6.272718
-memory used=876
-32 num of primes=2181
-
-6.272718
-memory used=884
-33 num of primes=2181
-
-6.272718
-memory used=892
-34 num of primes=2181
-
-6.272718
-memory used=900
-35 num of primes=2181
-
-6.272718
-memory used=908
-36 num of primes=2181
-
-6.272718
-memory used=916
-37 num of primes=2181
-
-6.272718
-memory used=924
-38 num of primes=2181
-
-6.272718
-memory used=932
-39 num of primes=2181
-
-6.272718
-memory used=940
-40 num of primes=2181
-
-6.272718
-memory used=948
-41 num of primes=2181
-
-6.272718
-memory used=956
-42 num of primes=2181
-
-6.272718
-memory used=964
-43 num of primes=2181
-
-6.272718
-memory used=972
-44 num of primes=2181
-
-6.272718
-memory used=980
-45 num of primes=2181
-
-6.272718
-memory used=988
-46 num of primes=2181
-
-6.272718
-memory used=996
-47 num of primes=2181
-
-6.272718
-memory used=1004
-48 num of primes=2181
-
-6.272718
-memory used=1012
-49 num of primes=2181
-
-6.272718
-memory used=1020
-50 num of primes=2181
-
-6.272718
-memory used=1028
-51 num of primes=2181
-
-6.272718
-memory used=1036
-52 num of primes=2181
-
-6.272718
-memory used=1044
-53 num of primes=2181
-
-6.272718
-memory used=1052
-54 num of primes=2181
-
-6.272718
-memory used=1060
-55 num of primes=2181
-
-6.272718
-memory used=1068
-56 num of primes=2181
-
-6.272718
-memory used=1076
-57 num of primes=2181
-
-6.272718
-memory used=1084
-58 num of primes=2181
-
-6.272718
-memory used=1092
-59 num of primes=2181
-
-6.272718
-memory used=1100
-60 num of primes=2181
-
-6.272718
-memory used=1108
-61 num of primes=2181
-
-6.272718
-memory used=1116
-62 num of primes=2181
-
-6.272718
-memory used=1124
-63 num of primes=2181
-
-6.272718
-memory used=1132
-64 num of primes=2181
-
-6.272718
-memory used=1140
-65 num of primes=2181
-
-6.272718
-memory used=1148
-66 num of primes=2181
-
-6.272718
-memory used=1156
-67 num of primes=2181
-
-6.272718
-memory used=1164
-68 num of primes=2181
-
-6.272718
-memory used=1172
-69 num of primes=2181
-
-6.272718
-memory used=1180
-70 num of primes=2181
-
-6.272718
-memory used=1188
-71 num of primes=2181
-
-6.272718
-memory used=1196
-72 num of primes=2181
-
-6.272718
-memory used=1204
-73 num of primes=2181
-
-6.272718
-memory used=1212
-74 num of primes=2181
-
-6.272718
-memory used=1220
-75 num of primes=2181
-
-6.272718
-memory used=1228
-76 num of primes=2181
-
-6.272718
-memory used=1236
-77 num of primes=2181
-
-6.272718
-memory used=1244
-78 num of primes=2181
-
-6.272718
-memory used=1252
-79 num of primes=2181
-
-6.272718
-memory used=1260
-80 num of primes=2181
-
-6.272718
-memory used=1268
-81 num of primes=2181
-
-6.272718
-memory used=1276
-82 num of primes=2181
-
-6.272718
-memory used=1284
-83 num of primes=2181
-
-6.272718
-memory used=1292
-84 num of primes=2181
-
-6.272718
-memory used=1300
-85 num of primes=2181
-
-6.272718
-memory used=1308
-86 num of primes=2181
-
-6.272718
-memory used=1316
-87 num of primes=2181
-
-6.272718
-memory used=1324
-88 num of primes=2181
-
-6.272718
-memory used=1332
-89 num of primes=2181
-
-6.272718
-memory used=1340
-90 num of primes=2181
-
-6.272718
-memory used=1348
-91 num of primes=2181
-
-6.272718
-memory used=1356
-92 num of primes=2181
-
-6.272718
-memory used=1364
-93 num of primes=2181
-
-6.272718
-memory used=1372
-94 num of primes=2181
-
-6.272718
-memory used=1380
-95 num of primes=2181
-
-6.272718
-memory used=1388
-96 num of primes=2181
-
-6.272718
-memory used=1396
-97 num of primes=2181
-
-6.272718
-memory used=1404
-98 num of primes=2181
-
-6.272718
-memory used=1412
-99 num of primes=2181
-
-6.272718
-memory used=1420
-100 num of primes=2181
-
-6.272718
-memory used=1428
-101 num of primes=2181
-
-6.272718
-memory used=1436
-102 num of primes=2181
-
-6.272718
-memory used=1444
-103 num of primes=2181
-
-6.272718
-memory used=1452
-104 num of primes=2181
-
-6.272718
-memory used=1460
-105 num of primes=2181
-
-6.272718
-memory used=1468
-106 num of primes=2181
-
-6.272718
-memory used=1476
-107 num of primes=2181
-
-6.272718
-memory used=1484
-108 num of primes=2181
-
-6.272718
-memory used=1492
-109 num of primes=2181
-
-6.272718
-memory used=1500
-110 num of primes=2181
-
-6.272718
-memory used=1508
-111 num of primes=2181
-
-6.272718
-memory used=1516
-112 num of primes=2181
-
-6.272718
-memory used=1524
-113 num of primes=2181
-
-6.272718
-memory used=1532
-114 num of primes=2181
-
-6.272718
-memory used=1540
-115 num of primes=2181
-
-6.272718
-memory used=1548
-116 num of primes=2181
-
-6.272718
-memory used=1556
-117 num of primes=2181
-
-6.272718
-memory used=1564
-118 num of primes=2181
-
-6.272718
-memory used=1572
-119 num of primes=2181
-
-6.272718
-memory used=1580
-120 num of primes=2181
-
-6.272718
-memory used=1588
-121 num of primes=2181
-
-6.272718
-memory used=1596
-122 num of primes=2181
-
-6.272718
-memory used=1604
-123 num of primes=2181
-
-6.272718
-memory used=1612
-124 num of primes=2181
-
-6.272718
-memory used=1620
-125 num of primes=2181
-
-6.272718
-memory used=1628
-126 num of primes=2181
-
-6.272718
-memory used=1636
-127 num of primes=2181
-
-6.272718
-memory used=1644
-128 num of primes=2181
-
-6.272718
-memory used=1652
-129 num of primes=2181
-
-6.272718
-memory used=1660
-130 num of primes=2181
-
-6.272718
-memory used=1668
-131 num of primes=2181
-
-6.272718
-memory used=1676
-132 num of primes=2181
-
-6.272718
-memory used=1684
-133 num of primes=2181
-
-6.272718
-memory used=1692
-134 num of primes=2181
-
-6.272718
-memory used=1700
-135 num of primes=2181
-
-6.272718
-memory used=1708
-136 num of primes=2181
-
-6.272718
-memory used=1716
-137 num of primes=2181
-
-6.272718
-memory used=1724
-138 num of primes=2181
-
-6.272718
-memory used=1732
-139 num of primes=2181
-
-6.272718
-memory used=1740
-140 num of primes=2181
-
-6.272718
-memory used=1748
-141 num of primes=2181
-
-6.272718
-memory used=1756
-142 num of primes=2181
-
-6.272718
-memory used=1764
-143 num of primes=2181
-
-6.272718
-memory used=1772
-144 num of primes=2181
-
-6.272718
-memory used=1780
-145 num of primes=2181
-
-6.272718
-memory used=1788
-146 num of primes=2181
-
-6.272718
-memory used=1796
-147 num of primes=2181
-
-6.272718
-memory used=1804
-148 num of primes=2181
-
-6.272718
-memory used=1812
-149 num of primes=2181
-
-6.272718
-memory used=1820
-150 num of primes=2181
-
-6.272718
-memory used=1828
-151 num of primes=2181
-
-6.272718
-memory used=1836
-152 num of primes=2181
-
-6.272718
-memory used=1844
-153 num of primes=2181
-
-6.272718
-memory used=1852
-154 num of primes=2181
-
-6.272718
-memory used=1860
-155 num of primes=2181
-
-6.272718
-memory used=1868
-156 num of primes=2181
-
-6.272718
-memory used=1876
-157 num of primes=2181
-
-6.272718
-memory used=1884
-158 num of primes=2181
-
-6.272718
-memory used=1892
-159 num of primes=2181
-
-6.272718
-memory used=1900
-160 num of primes=2181
-
-6.272718
-memory used=1908
-161 num of primes=2181
-
-6.272718
-memory used=1916
-162 num of primes=2181
-
-6.272718
-memory used=1924
-163 num of primes=2181
-
-6.272718
-memory used=1932
-164 num of primes=2181
-
-6.272718
-memory used=1940
-165 num of primes=2181
-
-6.272718
-memory used=1948
-166 num of primes=2181
-
-6.272718
-memory used=1956
-167 num of primes=2181
-
-6.272718
-memory used=1964
-168 num of primes=2181
-
-6.272718
-memory used=1972
-169 num of primes=2181
-
-6.272718
-memory used=1980
-170 num of primes=2181
-
-6.272718
-memory used=1988
-171 num of primes=2181
-
-6.272718
-memory used=1996
-172 num of primes=2181
-
-6.272718
-memory used=2004
-173 num of primes=2181
-
-6.272718
-memory used=2012
-174 num of primes=2181
-
-6.272718
-memory used=2020
-175 num of primes=2181
-
-6.272718
-memory used=2028
-176 num of primes=2181
-
-6.272718
-memory used=2036
-177 num of primes=2181
-
-6.272718
-memory used=2044
-178 num of primes=2181
-
-6.272718
-memory used=2052
-179 num of primes=2181
-
-6.272718
-memory used=2060
-180 num of primes=2181
-
-6.272718
-memory used=2068
-181 num of primes=2181
-
-6.272718
-memory used=2076
-182 num of primes=2181
-
-6.272718
-memory used=2084
-183 num of primes=2181
-
-6.272718
-memory used=2092
-184 num of primes=2181
-
-6.272718
-memory used=2100
-185 num of primes=2181
-
-6.272718
-memory used=2108
-186 num of primes=2181
-
-6.272718
-memory used=2116
-187 num of primes=2181
-
-6.272718
-memory used=2124
-188 num of primes=2181
-
-6.272718
-memory used=2132
-189 num of primes=2181
-
-6.272718
-memory used=2140
-190 num of primes=2181
-
-6.272718
-memory used=2148
-191 num of primes=2181
-
-6.272718
-memory used=2156
-192 num of primes=2181
-
-6.272718
-memory used=2164
-193 num of primes=2181
-
-6.272718
-memory used=2172
-194 num of primes=2181
-
-6.272718
-memory used=2180
-195 num of primes=2181
-
-6.272718
-memory used=2188
-196 num of primes=2181
-
-6.272718
-memory used=2196
-197 num of primes=2181
-
-6.272718
-memory used=2204
-198 num of primes=2181
-
-6.272718
-memory used=2212
-199 num of primes=2181
-
-6.272718
-memory used=2220
-200 num of primes=2181
-
-6.272718
-memory used=2228
-201 num of primes=2181
-
-6.272718
-memory used=2236
-202 num of primes=2181
-
-6.272718
-memory used=2244
-203 num of primes=2181
-
-6.272718
-memory used=2252
-204 num of primes=2181
-
-6.272718
-memory used=2260
-205 num of primes=2181
-
-6.272718
-memory used=2268
-206 num of primes=2181
-
-6.272718
-memory used=2276
-207 num of primes=2181
-
-6.272718
-memory used=2284
-208 num of primes=2181
-
-6.272718
-memory used=2292
-209 num of primes=2181
-
-6.272718
-memory used=2300
-210 num of primes=2181
-
-6.272718
-memory used=2308
-211 num of primes=2181
-
-6.272718
-memory used=2316
-212 num of primes=2181
-
-6.272718
-memory used=2324
-213 num of primes=2181
-
-6.272718
-memory used=2332
-214 num of primes=2181
-
-6.272718
-memory used=2340
-215 num of primes=2181
-
-6.272718
-memory used=2348
-216 num of primes=2181
-
-6.272718
-memory used=2356
-217 num of primes=2181
-
-6.272718
-memory used=2364
-218 num of primes=2181
-
-6.272718
-memory used=2372
-219 num of primes=2181
-
-6.272718
-memory used=2380
-220 num of primes=2181
-
-6.272718
-memory used=2388
-221 num of primes=2181
-
-6.272718
-memory used=2396
-222 num of primes=2181
-
-6.272718
-memory used=2404
-223 num of primes=2181
-
-6.272718
-memory used=2412
-224 num of primes=2181
-
-6.272718
-memory used=2420
-225 num of primes=2181
-
-6.272718
-memory used=2428
-226 num of primes=2181
-
-6.272718
-memory used=2436
-227 num of primes=2181
-
-6.272718
-memory used=2444
-228 num of primes=2181
-
-6.272718
-memory used=2452
-229 num of primes=2181
-
-6.272718
-memory used=2460
-230 num of primes=2181
-
-6.272718
-memory used=2468
-231 num of primes=2181
-
-6.272718
-memory used=2476
-232 num of primes=2181
-
-6.272718
-memory used=2484
-233 num of primes=2181
-
-6.272718
-memory used=2492
-234 num of primes=2181
-
-6.272718
-memory used=2500
-235 num of primes=2181
-
-6.272718
-memory used=2508
-236 num of primes=2181
-
-6.272718
-memory used=2516
-237 num of primes=2181
-
-6.272718
-memory used=2524
-238 num of primes=2181
-
-6.272718
-memory used=2532
-239 num of primes=2181
-
-6.272718
-memory used=2540
-240 num of primes=2181
-
-6.272718
-memory used=2548
-241 num of primes=2181
-
-6.272718
-memory used=2556
-242 num of primes=2181
-
-6.272718
-memory used=2564
-243 num of primes=2181
-
-6.272718
-memory used=2572
-244 num of primes=2181
-
-6.272718
-memory used=2580
-245 num of primes=2181
-
-6.272718
-memory used=2588
-246 num of primes=2181
-
-6.272718
-memory used=2596
-247 num of primes=2181
-
-6.272718
-memory used=2604
-248 num of primes=2181
-
-6.272718
-memory used=2612
-249 num of primes=2181
-
-6.272718
-memory used=2620
-250 num of primes=2181
-
-6.272718
-memory used=2628
-251 num of primes=2181
-
-6.272718
-memory used=2636
-252 num of primes=2181
-
-6.272718
-memory used=2644
-253 num of primes=2181
-
-6.272718
-memory used=2652
-254 num of primes=2181
-
-6.272718
-memory used=2660
-255 num of primes=2181
-
-6.272718
-memory used=2668
-256 num of primes=2181
-
-6.272718
-memory used=2676
-257 num of primes=2181
-
-6.272718
-memory used=2684
-258 num of primes=2181
-
-6.272718
-memory used=2692
-259 num of primes=2181
-
-6.272718
-memory used=2700
-260 num of primes=2181
-
-6.272718
-memory used=2708
-261 num of primes=2181
-
-6.272718
-memory used=2716
-262 num of primes=2181
-
-6.272718
-memory used=2724
-263 num of primes=2181
-
-6.272718
-memory used=2732
-264 num of primes=2181
-
-6.272718
-memory used=2740
-265 num of primes=2181
-
-6.272718
-memory used=2748
-266 num of primes=2181
-
-6.272718
-memory used=2756
-267 num of primes=2181
-
-6.272718
-memory used=2764
-268 num of primes=2181
-
-6.272718
-memory used=2772
-269 num of primes=2181
-
-6.272718
-memory used=2780
-270 num of primes=2181
-
-6.272718
-memory used=2788
-271 num of primes=2181
-
-6.272718
-memory used=2796
-272 num of primes=2181
-
-6.272718
-memory used=2804
-273 num of primes=2181
-
-6.272718
-memory used=2812
-274 num of primes=2181
-
-6.272718
-memory used=2820
-275 num of primes=2181
-
-6.272718
-memory used=2828
-276 num of primes=2181
-
-6.272718
-memory used=2836
-277 num of primes=2181
-
-6.272718
-memory used=2844
-278 num of primes=2181
-
-6.272718
-memory used=2852
-279 num of primes=2181
-
-6.272718
-memory used=2860
-280 num of primes=2181
-
-6.272718
-memory used=2868
-281 num of primes=2181
-
-6.272718
-memory used=2876
-282 num of primes=2181
-
-6.272718
-memory used=2884
-283 num of primes=2181
-
-6.272718
-memory used=2892
-284 num of primes=2181
-
-6.272718
-memory used=3032
-285 num of primes=2181
-
-6.272718
-memory used=3040
-286 num of primes=2181
-
-6.272718
-memory used=3048
-287 num of primes=2181
-
-6.272718
-memory used=3056
-288 num of primes=2181
-
-6.272718
-memory used=3064
-289 num of primes=2181
-
-6.272718
-memory used=3072
-290 num of primes=2181
-
-6.272718
-memory used=3080
-291 num of primes=2181
-
-6.272718
-memory used=3088
-292 num of primes=2181
-
-6.272718
-memory used=3096
-293 num of primes=2181
-
-6.272718
-memory used=3104
-294 num of primes=2181
-
-6.272718
-memory used=3112
-295 num of primes=2181
-
-6.272718
-memory used=3120
-296 num of primes=2181
-
-6.272718
-memory used=3128
-297 num of primes=2181
-
-6.272718
-memory used=3136
-298 num of primes=2181
-
-6.272718
-memory used=3144
-299 num of primes=2181
-
-6.272718
-memory used=3152
-300 num of primes=2181
-
-6.272718
-memory used=3160
-301 num of primes=2181
-
-6.272718
-memory used=3168
-302 num of primes=2181
-
-6.272718
-memory used=3176
-303 num of primes=2181
-
-6.272718
-memory used=3184
-304 num of primes=2181
-
-6.272718
-memory used=3192
-305 num of primes=2181
-
-6.272718
-memory used=3200
-306 num of primes=2181
-
-6.272718
-memory used=3208
-307 num of primes=2181
-
-6.272718
-memory used=3216
-308 num of primes=2181
-
-6.272718
-memory used=3224
-309 num of primes=2181
-
-6.272718
-memory used=3232
-310 num of primes=2181
-
-6.272718
-memory used=3240
-311 num of primes=2181
-
-6.272718
-memory used=3248
-312 num of primes=2181
-
-6.272718
-memory used=3256
-313 num of primes=2181
-
-6.272718
-memory used=3264
-314 num of primes=2181
-
-6.272718
-memory used=3272
-315 num of primes=2181
-
-6.272718
-memory used=3280
-316 num of primes=2181
-
-6.272718
-memory used=3288
-317 num of primes=2181
-
-6.272718
-memory used=3296
-318 num of primes=2181
-
-6.272718
-memory used=3304
-319 num of primes=2181
-
-6.272718
-memory used=3312
-320 num of primes=2181
-
-6.272718
-memory used=3320
-321 num of primes=2181
-
-6.272718
-memory used=3328
-322 num of primes=2181
-
-6.272718
-memory used=3336
-323 num of primes=2181
-
-6.272718
-memory used=3344
-324 num of primes=2181
-
-6.272718
-memory used=3352
-325 num of primes=2181
-
-6.272718
-memory used=3360
-326 num of primes=2181
-
-6.272718
-memory used=3368
-327 num of primes=2181
-
-6.272718
-memory used=3376
-328 num of primes=2181
-
-6.272718
-memory used=3384
-329 num of primes=2181
-
-6.272718
-memory used=3392
-330 num of primes=2181
-
-6.272718
-memory used=3400
-331 num of primes=2181
-
-6.272718
-memory used=3408
-332 num of primes=2181
-
-6.272718
-memory used=3416
-333 num of primes=2181
-
-6.272718
-memory used=3424
-334 num of primes=2181
-
-6.272718
-memory used=3432
-335 num of primes=2181
-
-6.272718
-memory used=3440
-336 num of primes=2181
-
-6.272718
-memory used=3448
-337 num of primes=2181
-
-6.272718
-memory used=3456
-338 num of primes=2181
-
-6.272718
-memory used=3464
-339 num of primes=2181
-
-6.272718
-memory used=3472
-340 num of primes=2181
-
-6.272718
-memory used=3480
-341 num of primes=2181
-
-6.272718
-memory used=3488
-342 num of primes=2181
-
-6.272718
-memory used=3496
-343 num of primes=2181
-
-6.272718
-memory used=3504
-344 num of primes=2181
-
-6.272718
-memory used=3512
-345 num of primes=2181
-
-6.272718
-memory used=3520
-346 num of primes=2181
-
-6.272718
-memory used=3528
-347 num of primes=2181
-
-6.272718
-memory used=3536
-348 num of primes=2181
-
-6.272718
-memory used=3544
-349 num of primes=2181
-
-6.272718
-memory used=3552
-350 num of primes=2181
-
-6.272718
-memory used=3560
-351 num of primes=2181
-
-6.272718
-memory used=3568
-352 num of primes=2181
-
-6.272718
-memory used=3576
-353 num of primes=2181
-
-6.272718
-memory used=3584
-354 num of primes=2181
-
-6.272718
-memory used=3592
-355 num of primes=2181
-
-6.272718
-memory used=3600
-356 num of primes=2181
-
-6.272718
-memory used=3608
-357 num of primes=2181
-
-6.272718
-memory used=3616
-358 num of primes=2181
-
-6.272718
-memory used=3624
-359 num of primes=2181
-
-6.272718
-memory used=3632
-360 num of primes=2181
-
-6.272718
-memory used=3640
-361 num of primes=2181
-
-6.272718
-memory used=3648
-362 num of primes=2181
-
-6.272718
-memory used=3656
-363 num of primes=2181
-
-6.272718
-memory used=3664
-364 num of primes=2181
-
-6.272718
-memory used=3672
-365 num of primes=2181
-
-6.272718
-memory used=3680
-366 num of primes=2181
-
-6.272718
-memory used=3688
-367 num of primes=2181
-
-6.272718
-memory used=3696
-368 num of primes=2181
-
-6.272718
-memory used=3704
-369 num of primes=2181
-
-6.272718
-memory used=3712
-370 num of primes=2181
-
-6.272718
-memory used=3720
-371 num of primes=2181
-
-6.272718
-memory used=3728
-372 num of primes=2181
-
-6.272718
-memory used=3736
-373 num of primes=2181
-
-6.272718
-memory used=3744
-374 num of primes=2181
-
-6.272718
-memory used=3752
-375 num of primes=2181
-
-6.272718
-memory used=3760
-376 num of primes=2181
-
-6.272718
-memory used=3768
-377 num of primes=2181
-
-6.272718
-memory used=3776
-378 num of primes=2181
-
-6.272718
-memory used=3784
-379 num of primes=2181
-
-6.272718
-memory used=3792
-380 num of primes=2181
-
-6.272718
-memory used=3800
-381 num of primes=2181
-
-6.272718
-memory used=3808
-382 num of primes=2181
-
-6.272718
-memory used=3816
-383 num of primes=2181
-
-6.272718
-memory used=3824
-384 num of primes=2181
-
-6.272718
-memory used=3832
-385 num of primes=2181
-
-6.272718
-memory used=3840
-386 num of primes=2181
-
-6.272718
-memory used=3848
-387 num of primes=2181
-
-6.272718
-memory used=3856
-388 num of primes=2181
-
-6.272718
-memory used=3864
-389 num of primes=2181
-
-6.272718
-memory used=3872
-390 num of primes=2181
-
-6.272718
-memory used=3880
-391 num of primes=2181
-
-6.272718
-memory used=3888
-392 num of primes=2181
-
-6.272718
-memory used=3896
-393 num of primes=2181
-
-6.272718
-memory used=3904
-394 num of primes=2181
-
-6.272718
-memory used=3912
-395 num of primes=2181
-
-6.272718
-memory used=3920
-396 num of primes=2181
-
-6.272718
-memory used=3928
-397 num of primes=2181
-
-6.272718
-memory used=3936
-398 num of primes=2181
-
-6.272718
-memory used=3944
-399 num of primes=2181
-
-6.272718
-memory used=3952
-400 num of primes=2181
-
-6.272718
-memory used=3960
-401 num of primes=2181
-
-6.272718
-memory used=4100
-402 num of primes=2181
-
-6.272718
-memory used=4108
-403 num of primes=2181
-
-6.272718
-memory used=4116
-404 num of primes=2181
-
-6.272718
-memory used=4124
-405 num of primes=2181
-
-6.272718
-memory used=4132
-406 num of primes=2181
-
-6.272718
-memory used=4140
-407 num of primes=2181
-
-6.272718
-memory used=4148
-408 num of primes=2181
-
-6.272718
-memory used=4156
-409 num of primes=2181
-
-6.272718
-memory used=4164
-410 num of primes=2181
-
-6.272718
-memory used=4172
-411 num of primes=2181
-
-6.272718
-memory used=4180
-412 num of primes=2181
-
-6.272718
-memory used=4188
-413 num of primes=2181
-
-6.272718
-memory used=4196
-414 num of primes=2181
-
-6.272718
-memory used=4204
-415 num of primes=2181
-
-6.272718
-memory used=4212
-416 num of primes=2181
-
-6.272718
-memory used=4220
-417 num of primes=2181
-
-6.272718
-memory used=4228
-418 num of primes=2181
-
-6.272718
-memory used=4236
-419 num of primes=2181
-
-6.272718
-memory used=4244
-420 num of primes=2181
-
-6.272718
-memory used=4252
-421 num of primes=2181
-
-6.272718
-memory used=4260
-422 num of primes=2181
-
-6.272718
-memory used=4268
-423 num of primes=2181
-
-6.272718
-memory used=4276
-424 num of primes=2181
-
-6.272718
-memory used=4284
-425 num of primes=2181
-
-6.272718
-memory used=4292
-426 num of primes=2181
-
-6.272718
-memory used=4300
-427 num of primes=2181
-
-6.272718
-memory used=4308
-428 num of primes=2181
-
-6.272718
-memory used=4316
-429 num of primes=2181
-
-6.272718
-memory used=4324
-430 num of primes=2181
-
-6.272718
-memory used=4332
-431 num of primes=2181
-
-6.272718
-memory used=4340
-432 num of primes=2181
-
-6.272718
-memory used=4348
-433 num of primes=2181
-
-6.272718
-memory used=4356
-434 num of primes=2181
-
-6.272718
-memory used=4364
-435 num of primes=2181
-
-6.272718
-memory used=4372
-436 num of primes=2181
-
-6.272718
-memory used=4380
-437 num of primes=2181
-
-6.272718
-memory used=4388
-438 num of primes=2181
-
-6.272718
-memory used=4396
-439 num of primes=2181
-
-6.272718
-memory used=4404
-440 num of primes=2181
-
-6.272718
-memory used=4412
-441 num of primes=2181
-
-6.272718
-memory used=4420
-442 num of primes=2181
-
-6.272718
-memory used=4428
-443 num of primes=2181
-
-6.272718
-memory used=4436
-444 num of primes=2181
-
-6.272718
-memory used=4444
-445 num of primes=2181
-
-6.272718
-memory used=4452
-446 num of primes=2181
-
-6.272718
-memory used=4460
-447 num of primes=2181
-
-6.272718
-memory used=4468
-448 num of primes=2181
-
-6.272718
-memory used=4476
-449 num of primes=2181
-
-6.272718
-memory used=4484
-450 num of primes=2181
-
-6.272718
-memory used=4492
-451 num of primes=2181
-
-6.272718
-memory used=4500
-452 num of primes=2181
-
-6.272718
-memory used=4508
-453 num of primes=2181
-
-6.272718
-memory used=4516
-454 num of primes=2181
-
-6.272718
-memory used=4524
-455 num of primes=2181
-
-6.272718
-memory used=4532
-456 num of primes=2181
-
-6.272718
-memory used=4540
-457 num of primes=2181
-
-6.272718
-memory used=4548
-458 num of primes=2181
-
-6.272718
-memory used=4556
-459 num of primes=2181
-
-6.272718
-memory used=4564
-460 num of primes=2181
-
-6.272718
-memory used=4572
-461 num of primes=2181
-
-6.272718
-memory used=4580
-462 num of primes=2181
-
-6.272718
-memory used=4588
-463 num of primes=2181
-
-6.272718
-memory used=4596
-464 num of primes=2181
-
-6.272718
-memory used=4604
-465 num of primes=2181
-
-6.272718
-memory used=4612
-466 num of primes=2181
-
-6.272718
-memory used=4620
-467 num of primes=2181
-
-6.272718
-memory used=4628
-468 num of primes=2181
-
-6.272718
-memory used=4636
-469 num of primes=2181
-
-6.272718
-memory used=4644
-470 num of primes=2181
-
-6.272718
-memory used=4652
-471 num of primes=2181
-
-6.272718
-memory used=4660
-472 num of primes=2181
-
-6.272718
-memory used=4668
-473 num of primes=2181
-
-6.272718
-memory used=4676
-474 num of primes=2181
-
-6.272718
-memory used=4684
-475 num of primes=2181
-
-6.272718
-memory used=4692
-476 num of primes=2181
-
-6.272718
-memory used=4700
-477 num of primes=2181
-
-6.272718
-memory used=4708
-478 num of primes=2181
-
-6.272718
-memory used=4716
-479 num of primes=2181
-
-6.272718
-memory used=4724
-480 num of primes=2181
-
-6.272718
-memory used=4732
-481 num of primes=2181
-
-6.272718
-memory used=4740
-482 num of primes=2181
-
-6.272718
-memory used=4748
-483 num of primes=2181
-
-6.272718
-memory used=4756
-484 num of primes=2181
-
-6.272718
-memory used=4764
-485 num of primes=2181
-
-6.272718
-memory used=4772
-486 num of primes=2181
-
-6.272718
-memory used=4780
-487 num of primes=2181
-
-6.272718
-memory used=4788
-488 num of primes=2181
-
-6.272718
-memory used=4796
-489 num of primes=2181
-
-6.272718
-memory used=4804
-490 num of primes=2181
-
-6.272718
-memory used=4812
-491 num of primes=2181
-
-6.272718
-memory used=4820
-492 num of primes=2181
-
-6.272718
-memory used=4828
-493 num of primes=2181
-
-6.272718
-memory used=4836
-494 num of p
+last ticks=0
+cur ticks=0
+cpu usage=0
+memory used=332
+0 num of primes=18
+
+last ticks=0
+cur ticks=0
+cpu usage=0
+memory used=332
+1 num of primes=74
+
+last ticks=0
+cur ticks=0
+cpu usage=0
+memory used=332
+2 num of primes=72
+
+last ticks=0
+cur ticks=0
+cpu usage=0
+memory used=332
+3 num of primes=24
+
+last ticks=0
+cur ticks=0
+cpu usage=0
+memory used=332
+4 num of primes=80
+
+last ticks=0
+cur ticks=0
+cpu usage=0
+memory used=332
+5 num of primes=57
+
+last ticks=0
+cur ticks=0
+cpu usage=0
+memory used=332
+6 num of primes=22
+
+last ticks=0
+cur ticks=0
+cpu usage=0
+memory used=332
+7 num of primes=23
+
+last ticks=0
+cur ticks=0
+cpu usage=0
+memory used=332
+8 num of primes=64
+
+last ticks=0
+cur ticks=0
+cpu usage=0
+memory used=332
+9 num of primes=16
+
+last ticks=0
+cur ticks=0
+cpu usage=0
+memory used=332
+10 num of primes=4
+
+last ticks=0
+cur ticks=0
+cpu usage=0
+memory used=332
+11 num of primes=72
+
+last ticks=0
+cur ticks=0
+cpu usage=0
+memory used=332
+12 num of primes=39
+
+last ticks=0
+cur ticks=0
+cpu usage=0
+memory used=332
+13 num of primes=87
+
+last ticks=0
+cur ticks=0
+cpu usage=0
+memory used=332
+14 num of primes=90
+
+last ticks=0
+cur ticks=0
+cpu usage=0
+memory used=332
+15 num of primes=5
+
+last ticks=0
+cur ticks=0
+cpu usage=0
+memory used=332
+16 num of primes=75
+
+last ticks=0
+cur ticks=0
+cpu usage=0
+memory used=332
+17 num of primes=45
+
+last ticks=0
+cur ticks=0
+cpu usage=0
+memory used=332
+18 num of primes=37
+
+last ticks=0
+cur ticks=0
+cpu usage=0
+memory used=332
+19 num of primes=20
+
+last ticks=0
+cur ticks=0
+cpu usage=0
+memory used=332
+20 num of primes=82
+
+last ticks=0
+cur ticks=0
+cpu usage=0
+memory used=332
+21 num of primes=35
+
+last ticks=0
+cur ticks=0
+cpu usage=0
+memory used=332
+22 num of primes=7
+
+last ticks=0
+cur ticks=0
+cpu usage=0
+memory used=332
+23 num of primes=93
+
+last ticks=0
+cur ticks=0
+cpu usage=0
+memory used=332
+24 num of primes=34
+
+last ticks=0
+cur ticks=0
+cpu usage=0
+memory used=332
+25 num of primes=79
+
+last ticks=0
+cur ticks=0
+cpu usage=0
+memory used=332
+26 num of primes=65
+
+last ticks=0
+cur ticks=0
+cpu usage=0
+memory used=332
+27 num of primes=55
+
+last ticks=0
+cur ticks=0
+cpu usage=0
+memory used=332
+28 num of primes=97
+
+last ticks=0
+cur ticks=0
+cpu usage=0
+memory used=332
+29 num of primes=39
+
+last ticks=0
+cur ticks=0
+cpu usage=0
+memory used=332
+30 num of primes=85
+
+last ticks=0
+cur ticks=0
+cpu usage=0
+memory used=332
+31 num of primes=82
+
+last ticks=0
+cur ticks=0
+cpu usage=0
+memory used=332
+32 num of primes=61
+
+last ticks=0
+cur ticks=0
+cpu usage=0
+memory used=332
+33 num of primes=95
+
+last ticks=0
+cur ticks=0
+cpu usage=0
+memory used=332
+34 num of primes=83
+
+last ticks=0
+cur ticks=0
+cpu usage=0
+memory used=332
+35 num of primes=46
+
+last ticks=0
+cur ticks=0
+cpu usage=0
+memory used=332
+36 num of primes=9
+
+last ticks=0
+cur ticks=0
+cpu usage=0
+memory used=332
+37 num of primes=39
+
+last ticks=0
+cur ticks=0
+cpu usage=0
+memory used=332
+38 num of primes=13
+
+last ticks=0
+cur ticks=0
+cpu usage=0
+memory used=332
+39 num of primes=56
+
+last ticks=0
+cur ticks=0
+cpu usage=0
+memory used=332
+40 num of primes=71
+
+last ticks=0
+cur ticks=0
+cpu usage=0
+memory used=332
+41 num of primes=74
+
+last ticks=0
+cur ticks=0
+cpu usage=0
+memory used=332
+42 num of primes=7
+
+last ticks=0
+cur ticks=0
+cpu usage=0
+memory used=332
+43 num of primes=76
+
+last ticks=0
+cur ticks=0
+cpu usage=0
+memory used=332
+44 num of primes=98
+
+last ticks=0
+cur ticks=0
+cpu usage=0
+memory used=332
+45 num of primes=32
+
+last ticks=0
+cur ticks=0
+cpu usage=0
+memory used=332
+46 num of primes=31
+
+last ticks=0
+cur ticks=0
+cpu usage=0
+memory used=332
+47 num of primes=70
+
+last ticks=0
+cur ticks=0
+cpu usage=0
+memory used=332
+48 num of primes=58
+
+last ticks=0
+cur ticks=0
+cpu usage=0
+memory used=332
+49 num of primes=54
+
+last ticks=0
+cur ticks=0
+cpu usage=0
+memory used=332
+50 num of primes=54
+
+last ticks=0
+cur ticks=0
+cpu usage=0
+memory used=332
+51 num of primes=55
+
+last ticks=0
+cur ticks=0
+cpu usage=0
+memory used=332
+52 num of primes=4
+
+last ticks=0
+cur ticks=0
+cpu usage=0
+memory used=332
+53 num of primes=36
+
+last ticks=0
+cur ticks=0
+cpu usage=0
+memory used=332
+54 num of primes=8
+
+last ticks=0
+cur ticks=0
+cpu usage=0
+memory used=332
+55 num of primes=36
+
+last ticks=0
+cur ticks=0
+cpu usage=0
+memory used=332
+56 num of primes=44
+
+last ticks=0
+cur ticks=0
+cpu usage=0
+memory used=332
+57 num of primes=10
+
+last ticks=0
+cur ticks=0
+cpu usage=0
+memory used=332
+58 num of primes=26
+
+last ticks=0
+cur ticks=0
+cpu usage=0
+memory used=332
+59 num of primes=29
+
+last ticks=0
+cur ticks=0
+cpu usage=0
+memory used=332
+60 num of primes=97
+
+last ticks=0
+cur ticks=0
+cpu usage=0
+memory used=332
+61 num of primes=5
+
+last ticks=0
+cur ticks=0
+cpu usage=0
+memory used=332
+62 num of primes=65
+
+last ticks=0
+cur ticks=0
+cpu usage=0
+memory used=332
+63 num of primes=25
+
+last ticks=0
+cur ticks=0
+cpu usage=0
+memory used=332
+64 num of primes=5
+
+last ticks=0
+cur ticks=0
+cpu usage=0
+memory used=332
+65 num of primes=85
+
+last ticks=0
+cur ticks=0
+cpu usage=0
+memory used=332
+66 num of primes=90
+
+last ticks=0
+cur ticks=0
+cpu usage=0
+memory used=332
+67 num of primes=66
+
+last ticks=0
+cur ticks=0
+cpu usage=0
+memory used=332
+68 num of primes=13
+
+last ticks=0
+cur ticks=0
+cpu usage=0
+memory used=332
+69 num of primes=69
+
+last ticks=0
+cur ticks=0
+cpu usage=0
+memory used=332
+70 num of primes=91
+
+last ticks=0
+cur ticks=0
+cpu usage=0
+memory used=332
+71 num of primes=70
+
+last ticks=0
+cur ticks=0
+cpu usage=0
+memory used=332
+72 num of primes=94
+
+last ticks=0
+cur ticks=0
+cpu usage=0
+memory used=332
+73 num of primes=75
+
+last ticks=0
+cur ticks=0
+cpu usage=0
+memory used=332
+74 num of primes=38
+
+last ticks=0
+cur ticks=0
+cpu usage=0
+memory used=332
+75 num of primes=25
+
+last ticks=0
+cur ticks=0
+cpu usage=0
+memory used=332
+76 num of primes=7
+
+last ticks=0
+cur ticks=0
+cpu usage=0
+memory used=332
+77 num of primes=102
+
+last ticks=0
+cur ticks=0
+cpu usage=0
+memory used=332
+78 num of primes=16
+
+last ticks=0
+cur ticks=0
+cpu usage=0
+memory used=332
+79 num of primes=29
+
+last ticks=0
+cur ticks=0
+cpu usage=0
+memory used=332
+80 num of primes=26
+
+last ticks=0
+cur ticks=0
+cpu usage=0
+memory used=332
+81 num of primes=8
+
+last ticks=0
+cur ticks=0
+cpu usage=0
+memory used=332
+82 num of primes=84
+
+last ticks=0
+cur ticks=0
+cpu usage=0
+memory used=332
+83 num of primes=84
+
+last ticks=0
+cur ticks=0
+cpu usage=0
+memory used=332
+84 num of primes=46
+
+last ticks=0
+cur ticks=0
+cpu usage=0
+memory used=332
+85 num of primes=86
+
+last ticks=0
+cur ticks=0
+cpu usage=0
+memory used=332
+86 num of primes=55
+
+last ticks=0
+cur ticks=0
+cpu usage=0
+memory used=332
+87 num of primes=50
+
+last ticks=0
+cur ticks=0
+cpu usage=0
+memory used=332
+88 num of primes=24
+
+last ticks=0
+cur ticks=0
+cpu usage=0
+memory used=332
+89 num of primes=68
+
+last ticks=0
+cur ticks=0
+cpu usage=0
+memory used=332
+90 num of primes=68
+
+last ticks=0
+cur ticks=0
+cpu usage=0
+memory used=332
+91 num of primes=1
+
+last ticks=0
+cur ticks=0
+cpu usage=0
+memory used=332
+92 num of primes=36
+
+last ticks=0
+cur ticks=0
+cpu usage=0
+memory used=332
+93 num of primes=93
+
+last ticks=0
+cur ticks=0
+cpu usage=0
+memory used=332
+94 num of primes=34
+
+last ticks=0
+cur ticks=0
+cpu usage=0
+memory used=332
+95 num of primes=1
+
+last ticks=0
+cur ticks=0
+cpu usage=0
+memory used=332
+96 num of primes=21
+
+last ticks=0
+cur ticks=0
+cpu usage=0
+memory used=332
+97 num of primes=3
+
+last ticks=0
+cur ticks=1
+cpu usage=1
+memory used=332
+98 num of primes=0
+
+last ticks=0
+cur ticks=1
+cpu usage=1
+memory used=332
+99 num of primes=15
+
+last ticks=0
+cur ticks=1
+cpu usage=1
+memory used=332
+100 num of primes=24
+
+last ticks=0
+cur ticks=1
+cpu usage=1
+memory used=332
+101 num of primes=19
+
+last ticks=0
+cur ticks=1
+cpu usage=1
+memory used=332
+102 num of primes=7
+
+last ticks=0
+cur ticks=1
+cpu usage=1
+memory used=332
+103 num of primes=38
+
+last ticks=0
+cur ticks=1
+cpu usage=1
+memory used=332
+104 num of primes=50
+
+last ticks=0
+cur ticks=1
+cpu usage=1
+memory used=332
+105 num of primes=76
+
+last ticks=0
+cur ticks=1
+cpu usage=1
+memory used=332
+106 num of primes=65
+
+last ticks=0
+cur ticks=1
+cpu usage=1
+memory used=332
+107 num of primes=6
+
+last ticks=0
+cur ticks=1
+cpu usage=1
+memory used=332
+108 num of primes=58
+
+last ticks=0
+cur ticks=1
+cpu usage=1
+memory used=332
+109 num of primes=38
+
+last ticks=0
+cur ticks=1
+cpu usage=1
+memory used=332
+110 num of primes=11
+
+last ticks=0
+cur ticks=1
+cpu usage=1
+memory used=332
+111 num of primes=85
+
+last ticks=0
+cur ticks=1
+cpu usage=1
+memory used=332
+112 num of primes=47
+
+last ticks=0
+cur ticks=1
+cpu usage=1
+memory used=332
+113 num of primes=92
+
+last ticks=0
+cur ticks=1
+cpu usage=1
+memory used=332
+114 num of primes=82
+
+last ticks=0
+cur ticks=1
+cpu usage=1
+memory used=332
+115 num of primes=77
+
+last ticks=0
+cur ticks=1
+cpu usage=1
+memory used=332
+116 num of primes=102
+
+last ticks=0
+cur ticks=1
+cpu usage=1
+memory used=332
+117 num of primes=90
+
+last ticks=0
+cur ticks=1
+cpu usage=1
+memory used=332
+118 num of primes=30
+
+last ticks=0
+cur ticks=1
+cpu usage=1
+memory used=332
+119 num of primes=8
+
+last ticks=0
+cur ticks=1
+cpu usage=1
+memory used=332
+120 num of primes=65
+
+last ticks=0
+cur ticks=1
+cpu usage=1
+memory used=332
+121 num of primes=67
+
+last ticks=0
+cur ticks=1
+cpu usage=1
+memory used=332
+122 num of primes=43
+
+last ticks=0
+cur ticks=1
+cpu usage=1
+memory used=332
+123 num of primes=3
+
+last ticks=0
+cur ticks=1
+cpu usage=1
+memory used=332
+124 num of primes=18
+
+last ticks=0
+cur ticks=1
+cpu usage=1
+memory used=332
+125 num of primes=46
+
+last ticks=0
+cur ticks=1
+cpu usage=1
+memory used=332
+126 num of primes=63
+
+last ticks=0
+cur ticks=1
+cpu usage=1
+memory used=332
+127 num of primes=95
+
+last ticks=0
+cur ticks=1
+cpu usage=1
+memory used=332
+128 num of primes=77
+
+last ticks=0
+cur ticks=1
+cpu usage=1
+memory used=332
+129 num of primes=1
+
+last ticks=0
+cur ticks=1
+cpu usage=1
+memory used=332
+130 num of primes=20
+
+last ticks=0
+cur ticks=1
+cpu usage=1
+memory used=332
+131 num of primes=77
+
+last ticks=0
+cur ticks=1
+cpu usage=1
+memory used=332
+132 num of primes=94
+
+last ticks=0
+cur ticks=1
+cpu usage=1
+memory used=332
+133 num of primes=0
+
+last ticks=0
+cur ticks=1
+cpu usage=1
+memory used=332
+134 num of primes=41
+
+last ticks=0
+cur ticks=1
+cpu usage=1
+memory used=332
+135 num of primes=51
+
+last ticks=0
+cur ticks=1
+cpu usage=1
+memory used=332
+136 num of primes=33
+
+last ticks=0
+cur ticks=1
+cpu usage=1
+memory used=332
+137 num of primes=71
+
+last ticks=0
+cur ticks=1
+cpu usage=1
+memory used=332
+138 num of primes=54
+
+last ticks=0
+cur ticks=1
+cpu usage=1
+memory used=332
+139 num of primes=36
+
+last ticks=0
+cur ticks=1
+cpu usage=1
+memory used=332
+140 num of primes=36
+
+last ticks=0
+cur ticks=1
+cpu usage=1
+memory used=332
+141 num of primes=4
+
+last ticks=0
+cur ticks=1
+cpu usage=1
+memory used=332
+142 num of primes=32
+
+last ticks=0
+cur ticks=1
+cpu usage=1
+memory used=332
+143 num of primes=60
+
+last ticks=0
+cur ticks=1
+cpu usage=1
+memory used=332
+144 num of primes=13
+
+last ticks=0
+cur ticks=1
+cpu usage=1
+memory used=332
+145 num of primes=68
+
+last ticks=0
+cur ticks=1
+cpu usage=1
+memory used=332
+146 num of primes=108
+
+last ticks=0
+cur ticks=1
+cpu usage=1
+memory used=332
+147 num of primes=30
+
+last ticks=0
+cur ticks=1
+cpu usage=1
+memory used=332
+148 num of primes=91
+
+last ticks=0
+cur ticks=1
+cpu usage=1
+memory used=332
+149 num of primes=65
+
+last ticks=0
+cur ticks=1
+cpu usage=1
+memory used=332
+150 num of primes=93
+
+last ticks=0
+cur ticks=1
+cpu usage=1
+memory used=332
+151 num of primes=20
+
+last ticks=0
+cur ticks=1
+cpu usage=1
+memory used=332
+152 num of primes=17
+
+last ticks=0
+cur ticks=2
+cpu usage=2
+memory used=332
+153 num of primes=22
+
+last ticks=0
+cur ticks=2
+cpu usage=2
+memory used=332
+154 num of primes=86
+
+last ticks=0
+cur ticks=2
+cpu usage=2
+memory used=332
+155 num of primes=10
+
+last ticks=0
+cur ticks=2
+cpu usage=2
+memory used=332
+156 num of primes=11
+
+last ticks=0
+cur ticks=2
+cpu usage=2
+memory used=332
+157 num of primes=85
+
+last ticks=0
+cur ticks=2
+cpu usage=2
+memory used=332
+158 num of primes=20
+
+last ticks=0
+cur ticks=2
+cpu usage=2
+memory used=332
+159 num of primes=19
+
+last ticks=0
+cur ticks=2
+cpu usage=2
+memory used=332
+160 num of primes=39
+
+last ticks=0
+cur ticks=2
+cpu usage=2
+memory used=332
+161 num of primes=17
+
+last ticks=0
+cur ticks=2
+cpu usage=2
+memory used=332
+162 num of primes=60
+
+last ticks=0
+cur ticks=2
+cpu usage=2
+memory used=332
+163 num of primes=18
+
+last ticks=0
+cur ticks=2
+cpu usage=2
+memory used=332
+164 num of primes=116
+
+last ticks=0
+cur ticks=2
+cpu usage=2
+memory used=332
+165 num of primes=28
+
+last ticks=0
+cur ticks=2
+cpu usage=2
+memory used=332
+166 num of primes=86
+
+last ticks=0
+cur ticks=2
+cpu usage=2
+memory used=332
+167 num of primes=36
+
+last ticks=0
+cur ticks=2
+cpu usage=2
+memory used=332
+168 num of primes=10
+
+last ticks=0
+cur ticks=2
+cpu usage=2
+memory used=332
+169 num of primes=45
+
+last ticks=0
+cur ticks=2
+cpu usage=2
+memory used=332
+170 num of primes=34
+
+last ticks=0
+cur ticks=2
+cpu usage=2
+memory used=332
+171 num of primes=33
+
+last ticks=0
+cur ticks=2
+cpu usage=2
+memory used=332
+172 num of primes=41
+
+last ticks=0
+cur ticks=2
+cpu usage=2
+memory used=332
+173 num of primes=35
+
+last ticks=0
+cur ticks=2
+cpu usage=2
+memory used=332
+174 num of primes=63
+
+last ticks=0
+cur ticks=2
+cpu usage=2
+memory used=332
+175 num of primes=60
+
+last ticks=0
+cur ticks=2
+cpu usage=2
+memory used=332
+176 num of primes=63
+
+last ticks=0
+cur ticks=2
+cpu usage=2
+memory used=332
+177 num of primes=87
+
+last ticks=0
+cur ticks=2
+cpu usage=2
+memory used=332
+178 num of primes=10
+
+last ticks=0
+cur ticks=2
+cpu usage=2
+memory used=332
+179 num of primes=14
+
+last ticks=0
+cur ticks=2
+cpu usage=2
+memory used=332
+180 num of primes=65
+
+last ticks=0
+cur ticks=2
+cpu usage=2
+memory used=332
+181 num of primes=12
+
+last ticks=0
+cur ticks=2
+cpu usage=2
+memory used=332
+182 num of primes=15
+
+last ticks=0
+cur ticks=2
+cpu usage=2
+memory used=332
+183 num of primes=78
+
+last ticks=0
+cur ticks=2
+cpu usage=2
+memory used=332
+184 num of primes=50
+
+last ticks=0
+cur ticks=2
+cpu usage=2
+memory used=332
+185 num of primes=79
+
+last ticks=0
+cur ticks=2
+cpu usage=2
+memory used=332
+186 num of primes=55
+
+last ticks=0
+cur ticks=2
+cpu usage=2
+memory used=332
+187 num of primes=54
+
+last ticks=0
+cur ticks=2
+cpu usage=2
+memory used=332
+188 num of primes=78
+
+last ticks=0
+cur ticks=2
+cpu usage=2
+memory used=332
+189 num of primes=19
+
+last ticks=0
+cur ticks=2
+cpu usage=2
+memory used=332
+190 num of primes=95
+
+last ticks=0
+cur ticks=2
+cpu usage=2
+memory used=332
+191 num of primes=66
+
+last ticks=0
+cur ticks=2
+cpu usage=2
+memory used=332
+192 num of primes=70
+
+last ticks=0
+cur ticks=2
+cpu usage=2
+memory used=332
+193 num of primes=82
+
+last ticks=0
+cur ticks=2
+cpu usage=2
+memory used=332
+194 num of primes=81
+
+last ticks=0
+cur ticks=2
+cpu usage=2
+memory used=332
+195 num of primes=88
+
+last ticks=0
+cur ticks=2
+cpu usage=2
+memory used=332
+196 num of primes=4
+
+last ticks=0
+cur ticks=2
+cpu usage=2
+memory used=332
+197 num of primes=29
+
+last ticks=0
+cur ticks=2
+cpu usage=2
+memory used=332
+198 num of primes=86
+
+last ticks=0
+cur ticks=2
+cpu usage=2
+memory used=332
+199 num of primes=12
+
+last ticks=0
+cur ticks=2
+cpu usage=2
+memory used=332
+200 num of primes=86
+
+last ticks=0
+cur ticks=2
+cpu usage=2
+memory used=332
+201 num of primes=16
+
+last ticks=0
+cur ticks=2
+cpu usage=2
+memory used=332
+202 num of primes=71
+
+last ticks=0
+cur ticks=2
+cpu usage=2
+memory used=332
+203 num of primes=87
+
+last ticks=0
+cur ticks=2
+cpu usage=2
+memory used=332
+204 num of primes=63
+
+last ticks=0
+cur ticks=3
+cpu usage=3
+memory used=332
+205 num of primes=38
+
+last ticks=0
+cur ticks=3
+cpu usage=3
+memory used=332
+206 num of primes=4
+
+last ticks=0
+cur ticks=3
+cpu usage=3
+memory used=332
+207 num of primes=87
+
+last ticks=0
+cur ticks=3
+cpu usage=3
+memory used=332
+208 num of primes=71
+
+last ticks=0
+cur ticks=3
+cpu usage=3
+memory used=332
+209 num of primes=33
+
+last ticks=0
+cur ticks=3
+cpu usage=3
+memory used=332
+210 num of primes=25
+
+last ticks=0
+cur ticks=3
+cpu usage=3
+memory used=332
+211 num of primes=69
+
+last ticks=0
+cur ticks=3
+cpu usage=3
+memory used=332
+212 num of primes=74
+
+last ticks=0
+cur ticks=3
+cpu usage=3
+memory used=332
+213 num of primes=68
+
+last ticks=0
+cur ticks=3
+cpu usage=3
+memory used=332
+214 num of primes=60
+
+last ticks=0
+cur ticks=3
+cpu usage=3
+memory used=332
+215 num of primes=15
+
+last ticks=0
+cur ticks=3
+cpu usage=3
+memory used=332
+216 num of primes=42
+
+last ticks=0
+cur ticks=3
+cpu usage=3
+memory used=332
+217 num of primes=58
+
+last ticks=0
+cur ticks=3
+cpu usage=3
+memory used=332
+218 num of primes=1
+
+last ticks=0
+cur ticks=3
+cpu usage=3
+memory used=332
+219 num of primes=11
+
+last ticks=0
+cur ticks=3
+cpu usage=3
+memory used=332
+220 num of primes=18
+
+last ticks=0
+cur ticks=3
+cpu usage=3
+memory used=332
+221 num of primes=51
+
+last ticks=0
+cur ticks=3
+cpu usage=3
+memory used=332
+222 num of primes=8
+
+last ticks=0
+cur ticks=3
+cpu usage=3
+memory used=332
+223 num of primes=56
+
+last ticks=0
+cur ticks=3
+cpu usage=3
+memory used=332
+224 num of primes=21
+
+last ticks=0
+cur ticks=3
+cpu usage=3
+memory used=332
+225 num of primes=23
+
+last ticks=0
+cur ticks=3
+cpu usage=3
+memory used=332
+226 num of primes=84
+
+last ticks=0
+cur ticks=3
+cpu usage=3
+memory used=332
+227 num of primes=6
+
+last ticks=0
+cur ticks=3
+cpu usage=3
+memory used=332
+228 num of primes=73
+
+last ticks=0
+cur ticks=3
+cpu usage=3
+memory used=332
+229 num of primes=1
+
+last ticks=0
+cur ticks=3
+cpu usage=3
+memory used=332
+230 num of primes=52
+
+last ticks=0
+cur ticks=3
+cpu usage=3
+memory used=332
+231 num of primes=81
+
+last ticks=0
+cur ticks=3
+cpu usage=3
+memory used=332
+232 num of primes=82
+
+last ticks=0
+cur ticks=3
+cpu usage=3
+memory used=332
+233 num of primes=23
+
+last ticks=0
+cur ticks=3
+cpu usage=3
+memory used=332
+234 num of primes=54
+
+last ticks=0
+cur ticks=3
+cpu usage=3
+memory used=332
+235 num of primes=55
+
+last ticks=0
+cur ticks=3
+cpu usage=3
+memory used=332
+236 num of primes=39
+
+last ticks=0
+cur ticks=3
+cpu usage=3
+memory used=332
+237 num of primes=46
+
+last ticks=0
+cur ticks=3
+cpu usage=3
+memory used=332
+238 num of primes=99
+
+last ticks=0
+cur ticks=3
+cpu usage=3
+memory used=332
+239 num of primes=86
+
+last ticks=0
+cur ticks=3
+cpu usage=3
+memory used=332
+240 num of primes=26
+
+last ticks=0
+cur ticks=3
+cpu usage=3
+memory used=332
+241 num of primes=86
+
+last ticks=0
+cur ticks=3
+cpu usage=3
+memory used=332
+242 num of primes=78
+
+last ticks=0
+cur ticks=3
+cpu usage=3
+memory used=332
+243 num of primes=22
+
+last ticks=0
+cur ticks=3
+cpu usage=3
+memory used=332
+244 num of primes=51
+
+last ticks=0
+cur ticks=3
+cpu usage=3
+memory used=332
+245 num of primes=62
+
+last ticks=0
+cur ticks=3
+cpu usage=3
+memory used=332
+246 num of primes=71
+
+last ticks=0
+cur ticks=3
+cpu usage=3
+memory used=332
+247 num of primes=31
+
+last ticks=0
+cur ticks=3
+cpu usage=3
+memory used=332
+248 num of primes=80
+
+last ticks=0
+cur ticks=3
+cpu usage=3
+memory used=332
+249 num of primes=36
+
+last ticks=0
+cur ticks=3
+cpu usage=3
+memory used=332
+250 num of primes=54
+
+last ticks=0
+cur ticks=3
+cpu usage=3
+memory used=332
+251 num of primes=38
+
+last ticks=0
+cur ticks=3
+cpu usage=3
+memory used=332
+252 num of primes=44
+
+last ticks=0
+cur ticks=3
+cpu usage=3
+memory used=332
+253 num of primes=58
+
+last ticks=0
+cur ticks=3
+cpu usage=3
+memory used=332
+254 num of primes=61
+
+last ticks=0
+cur ticks=3
+cpu usage=3
+memory used=332
+255 num of primes=26
+
+last ticks=0
+cur ticks=3
+cpu usage=3
+memory used=332
+256 num of primes=91
+
+last ticks=0
+cur ticks=3
+cpu usage=3
+memory used=332
+257 num of primes=74
+
+last ticks=0
+cur ticks=3
+cpu usage=3
+memory used=332
+258 num of primes=9
+
+last ticks=0
+cur ticks=3
+cpu usage=3
+memory used=332
+259 num of primes=1
+
+last ticks=0
+cur ticks=3
+cpu usage=3
+memory used=332
+260 num of primes=1
+
+last ticks=0
+cur ticks=3
+cpu usage=3
+memory used=332
+261 num of primes=23
+
+last ticks=0
+cur ticks=4
+cpu usage=4
+memory used=332
+262 num of primes=44
+
+last ticks=0
+cur ticks=4
+cpu usage=4
+memory used=332
+263 num of primes=50
+
+last ticks=0
+cur ticks=4
+cpu usage=4
+memory used=332
+264 num of primes=79
+
+last ticks=0
+cur ticks=4
+cpu usage=4
+memory used=332
+265 num of primes=58
+
+last ticks=0
+cur ticks=4
+cpu usage=4
+memory used=332
+266 num of primes=10
+
+last ticks=0
+cur ticks=4
+cpu usage=4
+memory used=332
+267 num of primes=69
+
+last ticks=0
+cur ticks=4
+cpu usage=4
+memory used=332
+268 num of primes=21
+
+last ticks=0
+cur ticks=4
+cpu usage=4
+memory used=332
+269 num of primes=8
+
+last ticks=0
+cur ticks=4
+cpu usage=4
+memory used=332
+270 num of primes=37
+
+last ticks=0
+cur ticks=4
+cpu usage=4
+memory used=332
+271 num of primes=38
+
+last ticks=0
+cur ticks=4
+cpu usage=4
+memory used=332
+272 num of primes=67
+
+last ticks=0
+cur ticks=4
+cpu usage=4
+memory used=332
+273 num of primes=96
+
+last ticks=0
+cur ticks=4
+cpu usage=4
+memory used=332
+274 num of primes=11
+
+last ticks=0
+cur ticks=4
+cpu usage=4
+memory used=332
+275 num of primes=21
+
+last ticks=0
+cur ticks=4
+cpu usage=4
+memory used=332
+276 num of primes=0
+
+last ticks=0
+cur ticks=4
+cpu usage=4
+memory used=332
+277 num of primes=9
+
+last ticks=0
+cur ticks=4
+cpu usage=4
+memory used=332
+278 num of primes=7
+
+last ticks=0
+cur ticks=4
+cpu usage=4
+memory used=332
+279 num of primes=10
+
+last ticks=0
+cur ticks=4
+cpu usage=4
+memory used=332
+280 num of primes=26
+
+last ticks=0
+cur ticks=4
+cpu usage=5
+memory used=332
+281 num of primes=62
+
+last ticks=0
+cur ticks=4
+cpu usage=5
+memory used=332
+282 num of primes=94
+
+last ticks=0
+cur ticks=4
+cpu usage=5
+memory used=332
+283 num of primes=14
+
+last ticks=0
+cur ticks=4
+cpu usage=5
+memory used=332
+284 num of primes=31
+
+last ticks=0
+cur ticks=4
+cpu usage=5
+memory used=332
+285 num of primes=97
+
+last ticks=0
+cur ticks=4
+cpu usage=5
+memory used=332
+286 num of primes=16
+
+last ticks=0
+cur ticks=4
+cpu usage=5
+memory used=332
+287 num of primes=90
+
+last ticks=0
+cur ticks=4
+cpu usage=5
+memory used=332
+288 num of primes=40
+
+last ticks=0
+cur ticks=4
+cpu usage=5
+memory used=332
+289 num of primes=86
+
+last ticks=0
+cur ticks=4
+cpu usage=5
+memory used=332
+290 num of primes=37
+
+last ticks=0
+cur ticks=4
+cpu usage=5
+memory used=332
+291 num of primes=59
+
+last ticks=0
+cur ticks=4
+cpu usage=5
+memory used=332
+292 num of primes=1
+
+last ticks=0
+cur ticks=4
+cpu usage=5
+memory used=332
+293 num of primes=35
+
+last ticks=0
+cur ticks=4
+cpu usage=5
+memory used=332
+294 num of primes=69
+
+last ticks=0
+cur ticks=4
+cpu usage=5
+memory used=332
+295 num of primes=74
+
+last ticks=0
+cur ticks=4
+cpu usage=5
+memory used=332
+296 num of primes=43
+
+last ticks=0
+cur ticks=4
+cpu usage=5
+memory used=332
+297 num of primes=79
+
+last ticks=0
+cur ticks=4
+cpu usage=5
+memory used=332
+298 num of primes=12
+
+last ticks=0
+cur ticks=4
+cpu usage=5
+memory used=332
+299 num of primes=77
+
+last ticks=0
+cur ticks=4
+cpu usage=5
+memory used=332
+300 num of primes=60
+
+last ticks=0
+cur ticks=4
+cpu usage=5
+memory used=332
+301 num of primes=65
+
+last ticks=0
+cur ticks=4
+cpu usage=5
+memory used=332
+302 num of primes=75
+
+last ticks=0
+cur ticks=4
+cpu usage=5
+memory used=332
+303 num of primes=84
+
+last ticks=0
+cur ticks=4
+cpu usage=5
+memory used=332
+304 num of primes=45
+
+last ticks=0
+cur ticks=4
+cpu usage=5
+memory used=332
+305 num of primes=28
+
+last ticks=0
+cur ticks=4
+cpu usage=5
+memory used=332
+306 num of primes=53
+
+last ticks=0
+cur ticks=4
+cpu usage=5
+memory used=332
+307 num of primes=80
+
+last ticks=0
+cur ticks=4
+cpu usage=5
+memory used=332
+308 num of primes=34
+
+last ticks=0
+cur ticks=4
+cpu usage=5
+memory used=332
+309 num of primes=6
+
+last ticks=0
+cur ticks=4
+cpu usage=5
+memory used=332
+310 num of primes=51
+
+last ticks=0
+cur ticks=4
+cpu usage=5
+memory used=332
+311 num of primes=26
+
+last ticks=0
+cur ticks=4
+cpu usage=5
+memory used=332
+312 num of primes=66
+
+last ticks=0
+cur ticks=4
+cpu usage=5
+memory used=332
+313 num of primes=2
+
+last ticks=0
+cur ticks=4
+cpu usage=5
+memory used=332
+314 num of primes=80
+
+last ticks=0
+cur ticks=4
+cpu usage=5
+memory used=332
+315 num of primes=4
+
+last ticks=0
+cur ticks=4
+cpu usage=5
+memory used=332
+316 num of primes=20
+
+last ticks=0
+cur ticks=4
+cpu usage=5
+memory used=332
+317 num of primes=75
+
+last ticks=0
+cur ticks=4
+cpu usage=5
+memory used=332
+318 num of primes=106
+
+last ticks=0
+cur ticks=4
+cpu usage=5
+memory used=332
+319 num of primes=68
+
+last ticks=0
+cur ticks=4
+cpu usage=5
+memory used=332
+320 num of primes=4
+
+last ticks=0
+cur ticks=4
+cpu usage=5
+memory used=332
+321 num of primes=72
+
+last ticks=0
+cur ticks=4
+cpu usage=5
+memory used=332
+322 num of primes=72
+
+last ticks=0
+cur ticks=4
+cpu usage=5
+memory used=332
+323 num of primes=62
+
+last ticks=0
+cur ticks=4
+cpu usage=5
+memory used=332
+324 num of primes=59
+
+last ticks=0
+cur ticks=4
+cpu usage=5
+memory used=332
+325 num of primes=90
+
+last ticks=0
+cur ticks=4
+cpu usage=5
+memory used=332
+326 num of primes=37
+
+last ticks=0
+cur ticks=4
+cpu usage=5
+memory used=332
+327 num of primes=69
+
+last ticks=0
+cur ticks=4
+cpu usage=5
+memory used=332
+328 num of primes=92
+
+last ticks=0
+cur ticks=4
+cpu usage=5
+memory used=332
+329 num of primes=43
+
+last ticks=0
+cur ticks=4
+cpu usage=5
+memory used=332
+330 num of primes=1
+
+last ticks=0
+cur ticks=4
+cpu usage=5
+memory used=332
+331 num of primes=1
+
+last ticks=0
+cur ticks=4
+cpu usage=5
+memory used=332
+332 num of primes=7
+
+last ticks=0
+cur ticks=4
+cpu usage=5
+memory used=332
+333 num of primes=11
+
+last ticks=0
+cur ticks=4
+cpu usage=5
+memory used=332
+334 num of primes=1
+
+last ticks=0
+cur ticks=4
+cpu usage=5
+memory used=332
+335 num of primes=46
+
+last ticks=0
+cur ticks=4
+cpu usage=5
+memory used=332
+336 num of primes=15
+
+last ticks=0
+cur ticks=4
+cpu usage=5
+memory used=332
+337 num of primes=77
+
+last ticks=0
+cur ticks=4
+cpu usage=5
+memory used=332
+338 num of primes=96
+
+last ticks=0
+cur ticks=4
+cpu usage=5
+memory used=332
+339 num of primes=97
+
+last ticks=0
+cur ticks=4
+cpu usage=5
+memory used=332
+340 num of primes=46
+
+last ticks=0
+cur ticks=4
+cpu usage=5
+memory used=332
+341 num of primes=62
+
+last ticks=0
+cur ticks=4
+cpu usage=5
+memory used=332
+342 num of primes=72
+
+last ticks=0
+cur ticks=4
+cpu usage=5
+memory used=332
+343 num of primes=20
+
+last ticks=0
+cur ticks=4
+cpu usage=5
+memory used=332
+344 num of primes=16
+
+last ticks=0
+cur ticks=4
+cpu usage=5
+memory used=332
+345 num of primes=91
+
+last ticks=0
+cur ticks=4
+cpu usage=5
+memory used=332
+346 num of primes=52
+
+last ticks=0
+cur ticks=4
+cpu usage=5
+memory used=332
+347 num of primes=15
+
+last ticks=0
+cur ticks=4
+cpu usage=5
+memory used=332
+348 num of primes=87
+
+last ticks=0
+cur ticks=4
+cpu usage=5
+memory used=332
+349 num of primes=69
+
+last ticks=0
+cur ticks=4
+cpu usage=5
+memory used=332
+350 num of primes=57
+
+last ticks=0
+cur ticks=4
+cpu usage=5
+memory used=332
+351 num of primes=33
+
+last ticks=0
+cur ticks=4
+cpu usage=5
+memory used=332
+352 num of primes=10
+
+last ticks=0
+cur ticks=4
+cpu usage=5
+memory used=332
+353 num of primes=11
+
+last ticks=0
+cur ticks=4
+cpu usage=5
+memory used=332
+354 num of primes=82
+
+last ticks=0
+cur ticks=4
+cpu usage=5
+memory used=332
+355 num of primes=0
+
+last ticks=0
+cur ticks=4
+cpu usage=5
+memory used=332
+356 num of primes=2
+
+last ticks=0
+cur ticks=4
+cpu usage=5
+memory used=332
+357 num of primes=20
+
+last ticks=0
+cur ticks=4
+cpu usage=5
+memory used=332
+358 num of primes=6
+
+last ticks=0
+cur ticks=4
+cpu usage=5
+memory used=332
+359 num of primes=17
+
+last ticks=0
+cur ticks=5
+cpu usage=6
+memory used=332
+360 num of primes=89
+
+last ticks=0
+cur ticks=5
+cpu usage=6
+memory used=332
+361 num of primes=74
+
+last ticks=0
+cur ticks=5
+cpu usage=6
+memory used=332
+362 num of primes=61
+
+last ticks=0
+cur ticks=5
+cpu usage=6
+memory used=332
+363 num of primes=20
+
+last ticks=0
+cur ticks=5
+cpu usage=6
+memory used=332
+364 num of primes=16
+
+last ticks=0
+cur ticks=5
+cpu usage=6
+memory used=332
+365 num of primes=7
+
+last ticks=0
+cur ticks=5
+cpu usage=6
+memory used=332
+366 num of primes=90
+
+last ticks=0
+cur ticks=5
+cpu usage=6
+memory used=332
+367 num of primes=78
+
+last ticks=0
+cur ticks=5
+cpu usage=6
+memory used=332
+368 num of primes=27
+
+last ticks=0
+cur ticks=5
+cpu usage=6
+memory used=332
+369 num of primes=35
+
+last ticks=0
+cur ticks=5
+cpu usage=6
+memory used=332
+370 num of primes=71
+
+last ticks=0
+cur ticks=5
+cpu usage=6
+memory used=332
+371 num of primes=10
+
+last ticks=0
+cur ticks=5
+cpu usage=6
+memory used=332
+372 num of primes=18
+
+last ticks=0
+cur ticks=5
+cpu usage=6
+memory used=332
+373 num of primes=78
+
+last ticks=0
+cur ticks=5
+cpu usage=6
+memory used=332
+374 num of primes=5
+
+last ticks=0
+cur ticks=5
+cpu usage=6
+memory used=332
+375 num of primes=24
+
+last ticks=0
+cur ticks=5
+cpu usage=6
+memory used=332
+376 num of primes=56
+
+last ticks=0
+cur ticks=5
+cpu usage=6
+memory used=332
+377 num of primes=2
+
+last ticks=0
+cur ticks=5
+cpu usage=6
+memory used=332
+378 num of primes=60
+
+last ticks=0
+cur ticks=5
+cpu usage=6
+memory used=332
+379 num of primes=42
+
+last ticks=0
+cur ticks=5
+cpu usage=6
+memory used=332
+380 num of primes=70
+
+last ticks=0
+cur ticks=5
+cpu usage=6
+memory used=332
+381 num of primes=45
+
+last ticks=0
+cur ticks=5
+cpu usage=6
+memory used=332
+382 num of primes=20
+
+last ticks=0
+cur ticks=5
+cpu usage=6
+memory used=332
+383 num of primes=76
+
+last ticks=0
+cur ticks=5
+cpu usage=6
+memory used=332
+384 num of primes=82
+
+last ticks=0
+cur ticks=5
+cpu usage=6
+memory used=332
+385 num of primes=20
+
+last ticks=0
+cur ticks=5
+cpu usage=6
+memory used=332
+386 num of primes=15
+
+last ticks=0
+cur ticks=5
+cpu usage=6
+memory used=332
+387 num of primes=85
+
+last ticks=0
+cur ticks=5
+cpu usage=6
+memory used=332
+388 num of primes=40
+
+last ticks=0
+cur ticks=5
+cpu usage=6
+memory used=332
+389 num of primes=48
+
+last ticks=0
+cur ticks=5
+cpu usage=6
+memory used=332
+390 num of primes=81
+
+last ticks=0
+cur ticks=5
+cpu usage=6
+memory used=332
+391 num of primes=43
+
+last ticks=0
+cur ticks=5
+cpu usage=6
+memory used=332
+392 num of primes=28
+
+last ticks=0
+cur ticks=5
+cpu usage=6
+memory used=332
+393 num of primes=63
+
+last ticks=0
+cur ticks=5
+cpu usage=6
+memory used=332
+394 num of primes=64
+
+last ticks=0
+cur ticks=5
+cpu usage=6
+memory used=332
+395 num of primes=1
+
+last ticks=0
+cur ticks=5
+cpu usage=6
+memory used=332
+396 num of primes=31
+
+last ticks=0
+cur ticks=5
+cpu usage=6
+memory used=332
+397 num of primes=46
+
+last ticks=0
+cur ticks=5
+cpu usage=6
+memory used=332
+398 num of primes=29
+
+last ticks=0
+cur ticks=5
+cpu usage=6
+memory used=332
+399 num of primes=60
+
+last ticks=0
+cur ticks=5
+cpu usage=6
+memory used=332
+400 num of primes=0
+
+last ticks=0
+cur ticks=5
+cpu usage=6
+memory used=332
+401 num of primes=22
+
+last ticks=0
+cur ticks=5
+cpu usage=6
+memory used=332
+402 num of primes=87
+
+last ticks=0
+cur ticks=5
+cpu usage=6
+memory used=332
+403 num of primes=88
+
+last ticks=0
+cur ticks=5
+cpu usage=6
+memory used=332
+404 num of primes=34
+
+last ticks=0
+cur ticks=5
+cpu usage=6
+memory used=332
+405 num of primes=38
+
+last ticks=0
+cur ticks=5
+cpu usage=6
+memory used=332
+406 num of primes=68
+
+last ticks=0
+cur ticks=5
+cpu usage=6
+memory used=332
+407 num of primes=87
+
+last ticks=0
+cur ticks=5
+cpu usage=6
+memory used=332
+408 num of primes=87
+
+last ticks=0
+cur ticks=5
+cpu usage=6
+memory used=332
+409 num of primes=79
+
+last ticks=0
+cur ticks=5
+cpu usage=6
+memory used=332
+410 num of primes=32
+
+last ticks=0
+cur ticks=5
+cpu usage=6
+memory used=332
+411 num of primes=7
+
+last ticks=0
+cur ticks=5
+cpu usage=6
+memory used=332
+412 num of primes=32
+
+last ticks=0
+cur ticks=5
+cpu usage=6
+memory used=332
+413 num of primes=51
+
+last ticks=0
+cur ticks=5
+cpu usage=6
+memory used=332
+414 num of primes=8
+
+last ticks=0
+cur ticks=5
+cpu usage=6
+memory used=332
+415 num of primes=34
+
+last ticks=0
+cur ticks=5
+cpu usage=6
+memory used=332
+416 num of primes=44
+
+last ticks=0
+cur ticks=5
+cpu usage=6
+memory used=332
+417 num of primes=22
+
+last ticks=0
+cur ticks=6
+cpu usage=7
+memory used=332
+418 num of primes=57
+
+last ticks=0
+cur ticks=6
+cpu usage=7
+memory used=332
+419 num of primes=76
+
+last ticks=0
+cur ticks=6
+cpu usage=7
+memory used=332
+420 num of primes=11
+
+last ticks=0
+cur ticks=6
+cpu usage=7
+memory used=332
+421 num of primes=27
+
+last ticks=0
+cur ticks=6
+cpu usage=7
+memory used=332
+422 num of primes=61
+
+last ticks=0
+cur ticks=6
+cpu usage=7
+memory used=332
+423 num of primes=29
+
+last ticks=0
+cur ticks=6
+cpu usage=7
+memory used=332
+424 num of primes=79
+
+last ticks=0
+cur ticks=6
+cpu usage=7
+memory used=332
+425 num of primes=19
+
+last ticks=0
+cur ticks=6
+cpu usage=7
+memory used=332
+426 num of primes=9
+
+last ticks=0
+cur ticks=6
+cpu usage=7
+memory used=332
+427 num of primes=89
+
+last ticks=0
+cur ticks=6
+cpu usage=7
+memory used=332
+428 num of primes=61
+
+last ticks=0
+cur ticks=6
+cpu usage=7
+memory used=332
+429 num of primes=20
+
+last ticks=0
+cur ticks=6
+cpu usage=7
+memory used=332
+430 num of primes=67
+
+last ticks=0
+cur ticks=6
+cpu usage=7
+memory used=332
+431 num of primes=94
+
+last ticks=0
+cur ticks=6
+cpu usage=7
+memory used=332
+432 num of primes=26
+
+last ticks=0
+cur ticks=6
+cpu usage=7
+memory used=332
+433 num of primes=34
+
+last ticks=0
+cur ticks=6
+cpu usage=7
+memory used=332
+434 num of primes=84
+
+last ticks=0
+cur ticks=6
+cpu usage=7
+memory used=332
+435 num of primes=57
+
+last ticks=0
+cur ticks=6
+cpu usage=7
+memory used=332
+436 num of primes=25
+
+last ticks=0
+cur ticks=6
+cpu usage=7
+memory used=332
+437 num of primes=18
+
+last ticks=0
+cur ticks=6
+cpu usage=7
+memory used=332
+438 num of primes=28
+
+last ticks=0
+cur ticks=6
+cpu usage=7
+memory used=332
+439 num of primes=57
+
+last ticks=0
+cur ticks=6
+cpu usage=7
+memory used=332
+440 num of primes=17
+
+last ticks=0
+cur ticks=6
+cpu usage=7
+memory used=332
+441 num of primes=61
+
+last ticks=0
+cur ticks=6
+cpu usage=7
+memory used=332
+442 num of primes=73
+
+last ticks=0
+cur ticks=6
+cpu usage=7
+memory used=332
+443 num of primes=2
+
+last ticks=0
+cur ticks=6
+cpu usage=7
+memory used=332
+444 num of primes=35
+
+last ticks=0
+cur ticks=6
+cpu usage=7
+memory used=332
+445 num of primes=90
+
+last ticks=0
+cur ticks=6
+cpu usage=7
+memory used=332
+446 num of primes=73
+
+last ticks=0
+cur ticks=6
+cpu usage=7
+memory used=332
+447 num of primes=40
+
+last ticks=0
+cur ticks=6
+cpu usage=7
+memory used=332
+448 num of primes=21
+
+last ticks=0
+cur ticks=6
+cpu usage=7
+memory used=332
+449 num of primes=81
+
+last ticks=0
+cur ticks=6
+cpu usage=7
+memory used=332
+450 num of primes=13
+
+last ticks=0
+cur ticks=6
+cpu usage=7
+memory used=332
+451 num of primes=67
+
+last ticks=0
+cur ticks=6
+cpu usage=7
+memory used=332
+452 num of primes=4
+
+last ticks=0
+cur ticks=6
+cpu usage=7
+memory used=332
+453 num of primes=27
+
+last ticks=0
+cur ticks=6
+cpu usage=7
+memory used=332
+454 num of primes=109
+
+last ticks=0
+cur ticks=6
+cpu usage=7
+memory used=332
+455 num of primes=28
+
+last ticks=0
+cur ticks=6
+cpu usage=7
+memory used=332
+456 num of primes=53
+
+last ticks=0
+cur ticks=6
+cpu usage=7
+memory used=332
+457 num of primes=53
+
+last ticks=0
+cur ticks=6
+cpu usage=7
+memory used=332
+458 num of primes=89
+
+last ticks=0
+cur ticks=6
+cpu usage=7
+memory used=332
+459 num of primes=12
+
+last ticks=0
+cur ticks=6
+cpu usage=7
+memory used=332
+460 num of primes=61
+
+last ticks=0
+cur ticks=6
+cpu usage=7
+memory used=332
+461 num of primes=85
+
+last ticks=0
+cur ticks=6
+cpu usage=7
+memory used=332
+462 num of primes=90
+
+last ticks=0
+cur ticks=6
+cpu usage=7
+memory used=332
+463 num of primes=59
+
+last ticks=0
+cur ticks=6
+cpu usage=7
+memory used=332
+464 num of primes=28
+
+last ticks=0
+cur ticks=6
+cpu usage=7
+memory used=332
+465 num of primes=59
+
+last ticks=0
+cur ticks=6
+cpu usage=7
+memory used=332
+466 num of primes=35
+
+last ticks=0
+cur ticks=6
+cpu usage=7
+memory used=332
+467 num of primes=63
+
+last ticks=0
+cur ticks=6
+cpu usage=7
+memory used=332
+468 num of primes=90
+
+last ticks=0
+cur ticks=6
+cpu usage=7
+memory used=332
+469 num of primes=56
+
+last ticks=0
+cur ticks=7
+cpu usage=8
+memory used=332
+470 num of primes=34
+
+last ticks=0
+cur ticks=7
+cpu usage=8
+memory used=332
+471 num of primes=58
+
+last ticks=0
+cur ticks=7
+cpu usage=8
+memory used=332
+472 num of primes=90
+
+last ticks=0
+cur ticks=7
+cpu usage=8
+memory used=332
+473 num of primes=1
+
+last ticks=0
+cur ticks=7
+cpu usage=8
+memory used=332
+474 num of primes=22
+
+last ticks=0
+cur ticks=7
+cpu usage=8
+memory used=332
+475 num of primes=36
+
+last ticks=0
+cur ticks=7
+cpu usage=8
+memory used=332
+476 num of primes=10
+
+last ticks=0
+cur ticks=7
+cpu usage=8
+memory used=332
+477 num of primes=21
+
+last ticks=0
+cur ticks=7
+cpu usage=8
+memory used=332
+478 num of primes=84
+
+last ticks=0
+cur ticks=7
+cpu usage=8
+memory used=332
+479 num of primes=4
+
+last ticks=0
+cur ticks=7
+cpu usage=8
+memory used=332
+480 num of primes=28
+
+last ticks=0
+cur ticks=7
+cpu usage=8
+memory used=332
+481 num of primes=37
+
+last ticks=0
+cur ticks=7
+cpu usage=8
+memory used=332
+482 num of primes=73
+
+last ticks=0
+cur ticks=7
+cpu usage=8
+memory used=332
+483 num of primes=2
+
+last ticks=0
+cur ticks=7
+cpu usage=8
+memory used=332
+484 num of primes=8
+
+last ticks=0
+cur ticks=7
+cpu usage=8
+memory used=332
+485 num of primes=84
+
+last ticks=0
+cur ticks=7
+cpu usage=8
+memory used=332
+486 num of primes=42
+
+last ticks=0
+cur ticks=7
+cpu usage=8
+memory used=332
+487 num of primes=61
+
+last ticks=0
+cur ticks=7
+cpu usage=8
+memory used=332
+488 num of primes=28
+
+last ticks=0
+cur ticks=7
+cpu usage=8
+memory used=332
+489 num of primes=87
+
+last ticks=0
+cur ticks=7
+cpu usage=8
+memory used=332
+490 num of primes=40
+
+last ticks=0
+cur ticks=7
+cpu usage=8
+memory used=332
+491 num of primes=61
+
+last ticks=0
+cur ticks=7
+cpu usage=8
+memory used=332
+492 num of primes=26
+
+last ticks=0
+cur ticks=7
+cpu usage=8
+memory used=332
+493 num of primes=1
+
+last ticks=0
+cur ticks=7
+cpu usage=8
+memory used=332
+494 num of primes=32
+
+last ticks=0
+cur ticks=7
+cpu usage=8
+memory used=332
+495 num of primes=57
+
+last ticks=0
+cur ticks=7
+cpu usage=8
+memory used=332
+496 num of primes=7
+
+last ticks=0
+cur ticks=7
+cpu usage=8
+memory used=332
+497 num of primes=31
+
+last ticks=0
+cur ticks=7
+cpu usage=8
+memory used=332
+498 num of primes=15
+
+last ticks=0
+cur ticks=7
+cpu usage=8
+memory used=332
+499 num of primes=70
+
+last ticks=0
+cur ticks=7
+cpu usage=8
+memory used=332
+500 num of primes=82
+
+last ticks=0
+cur ticks=7
+cpu usage=8
+memory used=332
+501 num of primes=66
+
+last ticks=0
+cur ticks=7
+cpu usage=8
+memory used=332
+502 num of primes=72
+
+last ticks=0
+cur ticks=7
+cpu usage=8
+memory used=332
+503 num of primes=73
+
+last ticks=0
+cur ticks=7
+cpu usage=8
+memory used=332
+504 num of primes=59
+
+last ticks=0
+cur ticks=7
+cpu usage=8
+memory used=332
+505 num of primes=26
+
+last ticks=0
+cur ticks=7
+cpu usage=8
+memory used=332
+506 num of primes=71
+
+last ticks=0
+cur ticks=7
+cpu usage=8
+memory used=332
+507 num of primes=7
+
+last ticks=0
+cur ticks=7
+cpu usage=8
+memory used=332
+508 num of primes=43
+
+last ticks=0
+cur ticks=7
+cpu usage=8
+memory used=332
+509 num of primes=45
+
+last ticks=0
+cur ticks=7
+cpu usage=8
+memory used=332
+510 num of primes=66
+
+last ticks=0
+cur ticks=7
+cpu usage=8
+memory used=332
+511 num of primes=4
+
+last ticks=0
+cur ticks=7
+cpu usage=8
+memory used=332
+512 num of primes=69
+
+last ticks=0
+cur ticks=7
+cpu usage=8
+memory used=332
+513 num of primes=7
+
+last ticks=0
+cur ticks=7
+cpu usage=8
+memory used=332
+514 num of primes=25
+
+last ticks=0
+cur ticks=7
+cpu usage=8
+memory used=332
+515 num of primes=20
+
+last ticks=0
+cur ticks=7
+cpu usage=8
+memory used=332
+516 num of primes=60
+
+last ticks=0
+cur ticks=7
+cpu usage=8
+memory used=332
+517 num of primes=92
+
+last ticks=0
+cur ticks=7
+cpu usage=8
+memory used=332
+518 num of primes=47
+
+last ticks=0
+cur ticks=7
+cpu usage=8
+memory used=332
+519 num of primes=17
+
+last ticks=0
+cur ticks=7
+cpu usage=8
+memory used=332
+520 num of primes=42
+
+last ticks=0
+cur ticks=7
+cpu usage=8
+memory used=332
+521 num of primes=80
+
+last ticks=0
+cur ticks=7
+cpu usage=8
+memory used=332
+522 num of primes=4
+
+last ticks=0
+cur ticks=7
+cpu usage=8
+memory used=332
+523 num of primes=71
+
+last ticks=0
+cur ticks=7
+cpu usage=8
+memory used=332
+524 num of primes=70
+
+last ticks=0
+cur ticks=7
+cpu usage=8
+memory used=332
+525 num of primes=58
+
+last ticks=0
+cur ticks=7
+cpu usage=8
+memory used=332
+526 num of primes=91
+
+last ticks=0
+cur ticks=8
+cpu usage=9
+memory used=332
+527 num of primes=82
+
+last ticks=0
+cur ticks=8
+cpu usage=9
+memory used=332
+528 num of primes=64
+
+last ticks=0
+cur ticks=8
+cpu usage=9
+memory used=332
+529 num of primes=69
+
+last ticks=0
+cur ticks=8
+cpu usage=9
+memory used=332
+530 num of primes=98
+
+last ticks=0
+cur ticks=8
+cpu usage=9
+memory used=332
+531 num of primes=48
+
+last ticks=0
+cur ticks=8
+cpu usage=9
+memory used=332
+532 num of primes=18
+
+last ticks=0
+cur ticks=8
+cpu usage=9
+memory used=332
+533 num of primes=77
+
+last ticks=0
+cur ticks=8
+cpu usage=9
+memory used=332
+534 num of primes=75
+
+last ticks=0
+cur ticks=8
+cpu usage=9
+memory used=332
+535 num of primes=88
+
+last ticks=0
+cur ticks=8
+cpu usage=9
+memory used=332
+536 num of primes=101
+
+last ticks=0
+cur ticks=8
+cpu usage=9
+memory used=332
+537 num of primes=8
+
+last ticks=0
+cur ticks=8
+cpu usage=9
+memory used=332
+538 num of primes=75
+
+last ticks=0
+cur ticks=8
+cpu usage=9
+memory used=332
+539 num of primes=22
+
+last ticks=0
+cur ticks=8
+cpu usage=9
+memory used=332
+540 num of primes=50
+
+last ticks=0
+cur ticks=8
+cpu usage=9
+memory used=332
+541 num of primes=9
+
+last ticks=0
+cur ticks=8
+cpu usage=9
+memory used=332
+542 num of primes=83
+
+last ticks=0
+cur ticks=8
+cpu usage=9
+memory used=332
+543 num of primes=17
+
+last ticks=0
+cur ticks=8
+cpu usage=9
+memory used=332
+544 num of primes=7
+
+last ticks=0
+cur ticks=8
+cpu usage=9
+memory used=332
+545 num of primes=25
+
+last ticks=0
+cur ticks=8
+cpu usage=9
+memory used=332
+546 num of primes=91
+
+last ticks=0
+cur ticks=8
+cpu usage=9
+memory used=332
+547 num of primes=17
+
+last ticks=0
+cur ticks=8
+cpu usage=9
+memory used=332
+548 num of primes=53
+
+last ticks=0
+cur ticks=8
+cpu usage=9
+memory used=332
+549 num of primes=70
+
+last ticks=0
+cur ticks=8
+cpu usage=9
+memory used=332
+550 num of primes=29
+
+last ticks=0
+cur ticks=8
+cpu usage=9
+memory used=332
+551 num of primes=53
+
+last ticks=0
+cur ticks=8
+cpu usage=9
+memory used=332
+552 num of primes=70
+
+last ticks=0
+cur ticks=8
+cpu usage=9
+memory used=332
+553 num of primes=3
+
+last ticks=0
+cur ticks=8
+cpu usage=9
+memory used=332
+554 num of primes=18
+
+last ticks=0
+cur ticks=8
+cpu usage=9
+memory used=332
+555 num of primes=48
+
+last ticks=0
+cur ticks=8
+cpu usage=9
+memory used=332
+556 num of primes=50
+
+last ticks=0
+cur ticks=8
+cpu usage=9
+memory used=332
+557 num of primes=62
+
+last ticks=0
+cur ticks=8
+cpu usage=9
+memory used=332
+558 num of primes=6
+
+last ticks=0
+cur ticks=8
+cpu usage=10
+memory used=332
+559 num of primes=79
+
+last ticks=0
+cur ticks=8
+cpu usage=10
+memory used=332
+560 num of primes=23
+
+last ticks=0
+cur ticks=8
+cpu usage=10
+memory used=332
+561 num of primes=53
+
+last ticks=0
+cur ticks=8
+cpu usage=10
+memory used=332
+562 num of primes=79
+
+last ticks=0
+cur ticks=8
+cpu usage=10
+memory used=332
+563 num of primes=30
+
+last ticks=0
+cur ticks=8
+cpu usage=10
+memory used=332
+564 num of primes=91
+
+last ticks=0
+cur ticks=8
+cpu usage=10
+memory used=332
+565 num of primes=77
+
+last ticks=0
+cur ticks=8
+cpu usage=10
+memory used=332
+566 num of primes=71
+
+last ticks=0
+cur ticks=8
+cpu usage=10
+memory used=332
+567 num of primes=0
+
+last ticks=0
+cur ticks=8
+cpu usage=10
+memory used=332
+568 num of primes=83
+
+last ticks=0
+cur ticks=8
+cpu usage=10
+memory used=332
+569 num of primes=70
+
+last ticks=0
+cur ticks=8
+cpu usage=10
+memory used=332
+570 num of primes=95
+
+last ticks=0
+cur ticks=8
+cpu usage=10
+memory used=332
+571 num of primes=48
+
+last ticks=0
+cur ticks=8
+cpu usage=10
+memory used=332
+572 num of primes=70
+
+last ticks=0
+cur ticks=8
+cpu usage=10
+memory used=332
+573 num of primes=53
+
+last ticks=0
+cur ticks=8
+cpu usage=10
+memory used=332
+574 num of primes=53
+
+last ticks=0
+cur ticks=8
+cpu usage=10
+memory used=332
+575 num of primes=56
+
+last ticks=0
+cur ticks=8
+cpu usage=10
+memory used=332
+576 num of primes=2
+
+last ticks=0
+cur ticks=8
+cpu usage=10
+memory used=332
+577 num of primes=78
+
+last ticks=0
+cur ticks=8
+cpu usage=10
+memory used=332
+578 num of primes=41
+
+last ticks=0
+cur ticks=8
+cpu usage=10
+memory used=332
+579 num of primes=102
+
+last ticks=0
+cur ticks=8
+cpu usage=10
+memory used=332
+580 num of primes=57
+
+last ticks=0
+cur ticks=8
+cpu usage=10
+memory used=332
+581 num of primes=81
+
+last ticks=0
+cur ticks=8
+cpu usage=10
+memory used=332
+582 num of primes=72
+
+last ticks=0
+cur ticks=8
+cpu usage=10
+memory used=332
+583 num of primes=39
+
+last ticks=0
+cur ticks=8
+cpu usage=10
+memory used=332
+584 num of primes=47
+
+last ticks=0
+cur ticks=8
+cpu usage=10
+memory used=332
+585 num of primes=91
+
+last ticks=0
+cur ticks=8
+cpu usage=10
+memory used=332
+586 num of primes=107
+
+last ticks=0
+cur ticks=8
+cpu usage=10
+memory used=332
+587 num of primes=63
+
+last ticks=0
+cur ticks=8
+cpu usage=10
+memory used=332
+588 num of primes=17
+
+last ticks=0
+cur ticks=8
+cpu usage=10
+memory used=332
+589 num of primes=17
+
+last ticks=0
+cur ticks=8
+cpu usage=10
+memory used=332
+590 num of primes=26
+
+last ticks=0
+cur ticks=8
+cpu usage=10
+memory used=332
+591 num of primes=29
+
+last ticks=0
+cur ticks=8
+cpu usage=10
+memory used=332
+592 num of primes=45
+
+last ticks=0
+cur ticks=8
+cpu usage=10
+memory used=332
+593 num of primes=70
+
+last ticks=0
+cur ticks=8
+cpu usage=10
+memory used=332
+594 num of primes=16
+
+last ticks=0
+cur ticks=8
+cpu usage=10
+memory used=332
+595 num of primes=32
+
+last ticks=0
+cur ticks=8
+cpu usage=10
+memory used=332
+596 num of primes=3
+
+last ticks=0
+cur ticks=8
+cpu usage=10
+memory used=332
+597 num of primes=23
+
+last ticks=0
+cur ticks=9
+cpu usage=11
+memory used=332
+598 num of primes=6
+
+last ticks=0
+cur ticks=9
+cpu usage=11
+memory used=332
+599 num of primes=96
+
+last ticks=0
+cur ticks=9
+cpu usage=11
+memory used=332
+600 num of primes=18
+
+last ticks=0
+cur ticks=9
+cpu usage=11
+memory used=332
+601 num of primes=34
+
+last ticks=0
+cur ticks=9
+cpu usage=11
+memory used=332
+602 num of primes=60
+
+last ticks=0
+cur ticks=9
+cpu usage=11
+memory used=332
+603 num of primes=61
+
+last ticks=0
+cur ticks=9
+cpu usage=11
+memory used=332
+604 num of primes=79
+
+last ticks=0
+cur ticks=9
+cpu usage=11
+memory used=332
+605 num of primes=3
+
+last ticks=0
+cur ticks=9
+cpu usage=11
+memory used=332
+606 num of primes=40
+
+last ticks=0
+cur ticks=9
+cpu usage=11
+memory used=332
+607 num of primes=65
+
+last ticks=0
+cur ticks=9
+cpu usage=11
+memory used=332
+608 num of primes=39
+
+last ticks=0
+cur ticks=9
+cpu usage=11
+memory used=332
+609 num of primes=2
+
+last ticks=0
+cur ticks=9
+cpu usage=11
+memory used=332
+610 num of primes=59
+
+last ticks=0
+cur ticks=9
+cpu usage=11
+memory used=332
+611 num of primes=95
+
+last ticks=0
+cur ticks=9
+cpu usage=11
+memory used=332
+612 num of primes=65
+
+last ticks=0
+cur ticks=9
+cpu usage=11
+memory used=332
+613 num of primes=73
+
+last ticks=0
+cur ticks=9
+cpu usage=11
+memory used=332
+614 num of primes=16
+
+last ticks=0
+cur ticks=9
+cpu usage=11
+memory used=332
+615 num of primes=23
+
+last ticks=0
+cur ticks=9
+cpu usage=11
+memory used=332
+616 num of primes=16
+
+last ticks=0
+cur ticks=9
+cpu usage=11
+memory used=332
+617 num of primes=84
+
+last ticks=0
+cur ticks=9
+cpu usage=11
+memory used=332
+618 num of primes=78
+
+last ticks=0
+cur ticks=9
+cpu usage=11
+memory used=332
+619 num of primes=6
+
+last ticks=0
+cur ticks=9
+cpu usage=11
+memory used=332
+620 num of primes=11
+
+last ticks=0
+cur ticks=9
+cpu usage=11
+memory used=332
+621 num of primes=68
+
+last ticks=0
+cur ticks=9
+cpu usage=11
+memory used=332
+622 num of primes=64
+
+last ticks=0
+cur ticks=9
+cpu usage=11
+memory used=332
+623 num of primes=43
+
+last ticks=0
+cur ticks=9
+cpu usage=11
+memory used=332
+624 num of primes=3
+
+last ticks=0
+cur ticks=9
+cpu usage=11
+memory used=332
+625 num of primes=23
+
+last ticks=0
+cur ticks=9
+cpu usage=11
+memory used=332
+626 num of primes=2
+
+last ticks=0
+cur ticks=9
+cpu usage=11
+memory used=332
+627 num of primes=78
+
+last ticks=0
+cur ticks=9
+cpu usage=11
+memory used=332
+628 num of primes=10
+
+last ticks=0
+cur ticks=9
+cpu usage=11
+memory used=332
+629 num of primes=12
+
+last ticks=0
+cur ticks=9
+cpu usage=11
+memory used=332
+630 num of primes=64
+
+last ticks=0
+cur ticks=9
+cpu usage=11
+memory used=332
+631 num of primes=82
+
+last ticks=0
+cur ticks=9
+cpu usage=11
+memory used=332
+632 num of primes=70
+
+last ticks=0
+cur ticks=9
+cpu usage=11
+memory used=332
+633 num of primes=2
+
+last ticks=0
+cur ticks=9
+cpu usage=11
+memory used=332
+634 num of primes=30
+
+last ticks=0
+cur ticks=9
+cpu usage=11
+memory used=332
+635 num of primes=74
+
+last ticks=0
+cur ticks=9
+cpu usage=11
+memory used=332
+636 num of primes=70
+
+last ticks=0
+cur ticks=9
+cpu usage=11
+memory used=332
+637 num of primes=72
+
+last ticks=0
+cur ticks=9
+cpu usage=11
+memory used=332
+638 num of primes=69
+
+last ticks=0
+cur ticks=9
+cpu usage=11
+memory used=332
+639 num of primes=56
+
+last ticks=0
+cur ticks=9
+cpu usage=11
+memory used=332
+640 num of primes=67
+
+last ticks=0
+cur ticks=9
+cpu usage=11
+memory used=332
+641 num of primes=31
+
+last ticks=0
+cur ticks=9
+cpu usage=11
+memory used=332
+642 num of primes=69
+
+last ticks=0
+cur ticks=9
+cpu usage=11
+memory used=332
+643 num of primes=83
+
+last ticks=0
+cur ticks=9
+cpu usage=11
+memory used=332
+644 num of primes=7
+
+last ticks=0
+cur ticks=9
+cpu usage=11
+memory used=332
+645 num of primes=56
+
+last ticks=0
+cur ticks=9
+cpu usage=11
+memory used=332
+646 num of primes=32
+
+last ticks=0
+cur ticks=9
+cpu usage=11
+memory used=332
+647 num of primes=59
+
+last ticks=0
+cur ticks=9
+cpu usage=11
+memory used=332
+648 num of primes=17
+
+last ticks=0
+cur ticks=9
+cpu usage=11
+memory used=332
+649 num of primes=9
+
+last ticks=0
+cur ticks=9
+cpu usage=11
+memory used=332
+650 num of primes=78
+
+last ticks=0
+cur ticks=9
+cpu usage=11
+memory used=332
+651 num of primes=30
+
+last ticks=0
+cur ticks=9
+cpu usage=11
+memory used=332
+652 num of primes=3
+
+last ticks=0
+cur ticks=9
+cpu usage=11
+memory used=332
+653 num of primes=20
+
+last ticks=0
+cur ticks=9
+cpu usage=11
+memory used=332
+654 num of primes=63
+
+last ticks=0
+cur ticks=9
+cpu usage=11
+memory used=332
+655 num of primes=72
+
+last ticks=0
+cur ticks=9
+cpu usage=11
+memory used=332
+656 num of primes=28
+
+last ticks=0
+cur ticks=9
+cpu usage=11
+memory used=332
+657 num of primes=49
+
+last ticks=0
+cur ticks=9
+cpu usage=11
+memory used=332
+658 num of primes=72
+
+last ticks=0
+cur ticks=9
+cpu usage=11
+memory used=332
+659 num of primes=34
+
+last ticks=0
+cur ticks=9
+cpu usage=11
+memory used=332
+660 num of primes=78
+
+last ticks=0
+cur ticks=9
+cpu usage=11
+memory used=332
+661 num of primes=39
+
+last ticks=0
+cur ticks=9
+cpu usage=11
+memory used=332
+662 num of primes=37
+
+last ticks=0
+cur ticks=9
+cpu usage=11
+memory used=332
+663 num of primes=88
+
+last ticks=0
+cur ticks=9
+cpu usage=11
+memory used=332
+664 num of primes=52
+
+last ticks=0
+cur ticks=9
+cpu usage=11
+memory used=332
+665 num of primes=54
+
+last ticks=0
+cur ticks=9
+cpu usage=11
+memory used=332
+666 num of primes=59
+
+last ticks=0
+cur ticks=9
+cpu usage=11
+memory used=332
+667 num of primes=71
+
+last ticks=0
+cur ticks=9
+cpu usage=11
+memory used=332
+668 num of primes=10
+
+last ticks=0
+cur ticks=9
+cpu usage=11
+memory used=332
+669 num of primes=65
+
+last ticks=0
+cur ticks=9
+cpu usage=11
+memory used=332
+670 num of primes=45
+
+last ticks=0
+cur ticks=9
+cpu usage=12
+memory used=332
+671 num of primes=3
+
+last ticks=0
+cur ticks=9
+cpu usage=12
+memory used=332
+672 num of primes=56
+
+last ticks=0
+cur ticks=9
+cpu usage=12
+memory used=332
+673 num of primes=75
+
+last ticks=0
+cur ticks=9
+cpu usage=12
+memory used=332
+674 num of primes=85
+
+last ticks=0
+cur ticks=9
+cpu usage=12
+memory used=332
+675 num of primes=3
+
+last ticks=0
+cur ticks=9
+cpu usage=12
+memory used=332
+676 num of primes=22
+
+last ticks=0
+cur ticks=9
+cpu usage=12
+memory used=332
+677 num of primes=81
+
+last ticks=0
+cur ticks=9
+cpu usage=12
+memory used=332
+678 num of primes=10
+
+last ticks=0
+cur ticks=9
+cpu usage=12
+memory used=332
+679 num of primes=37
+
+last ticks=0
+cur ticks=9
+cpu usage=12
+memory used=332
+680 num of primes=84
+
+last ticks=0
+cur ticks=9
+cpu usage=12
+memory used=332
+681 num of primes=77
+
+last ticks=0
+cur ticks=9
+cpu usage=12
+memory used=332
+682 num of primes=54
+
+last ticks=0
+cur ticks=9
+cpu usage=12
+memory used=332
+683 num of primes=59
+
+last ticks=0
+cur ticks=9
+cpu usage=12
+memory used=332
+684 num of primes=73
+
+last ticks=0
+cur ticks=9
+cpu usage=12
+memory used=332
+685 num of primes=60
+
+last ticks=0
+cur ticks=9
+cpu usage=12
+memory used=332
+686 num of primes=19
+
+last ticks=0
+cur ticks=9
+cpu usage=12
+memory used=332
+687 num of primes=4
+
+last ticks=0
+cur ticks=9
+cpu usage=12
+memory used=332
+688 num of primes=73
+
+last ticks=0
+cur ticks=9
+cpu usage=12
+memory used=332
+689 num of primes=15
+
+last ticks=0
+cur ticks=9
+cpu usage=12
+memory used=332
+690 num of primes=80
+
+last ticks=0
+cur ticks=9
+cpu usage=12
+memory used=332
+691 num of primes=24
+
+last ticks=0
+cur ticks=9
+cpu usage=12
+memory used=332
+692 num of primes=67
+
+last ticks=0
+cur ticks=9
+cpu usage=12
+memory used=332
+693 num of primes=27
+
+last ticks=0
+cur ticks=9
+cpu usage=12
+memory used=332
+694 num of primes=24
+
+last ticks=0
+cur ticks=9
+cpu usage=12
+memory used=332
+695 num of primes=63
+
+last ticks=0
+cur ticks=9
+cpu usage=12
+memory used=332
+696 num of primes=56
+
+last ticks=0
+cur ticks=9
+cpu usage=12
+memory used=332
+697 num of primes=90
+
+last ticks=0
+cur ticks=9
+cpu usage=12
+memory used=332
+698 num of primes=102
+
+last ticks=0
+cur ticks=9
+cpu usage=12
+memory used=332
+699 num of primes=38
+
+last ticks=0
+cur ticks=9
+cpu usage=12
+memory used=332
+700 num of primes=62
+
+last ticks=0
+cur ticks=9
+cpu usage=12
+memory used=332
+701 num of primes=18
+
+last ticks=0
+cur ticks=9
+cpu usage=12
+memory used=332
+702 num of primes=13
+
+last ticks=0
+cur ticks=9
+cpu usage=12
+memory used=332
+703 num of primes=48
+
+last ticks=0
+cur ticks=9
+cpu usage=12
+memory used=332
+704 num of primes=59
+
+last ticks=0
+cur ticks=9
+cpu usage=12
+memory used=332
+705 num of primes=101
+
+last ticks=0
+cur ticks=9
+cpu usage=12
+memory used=332
+706 num of primes=75
+
+last ticks=0
+cur ticks=9
+cpu usage=12
+memory used=332
+707 num of primes=37
+
+last ticks=0
+cur ticks=9
+cpu usage=12
+memory used=332
+708 num of primes=72
+
+last ticks=0
+cur ticks=9
+cpu usage=12
+memory used=332
+709 num of primes=67
+
+last ticks=0
+cur ticks=9
+cpu usage=12
+memory used=332
+710 num of primes=15
+
+last ticks=0
+cur ticks=9
+cpu usage=12
+memory used=332
+711 num of primes=101
+
+last ticks=0
+cur ticks=9
+cpu usage=12
+memory used=332
+712 num of primes=28
+
+last ticks=0
+cur ticks=9
+cpu usage=12
+memory used=332
+713 num of primes=48
+
+last ticks=0
+cur ticks=9
+cpu usage=12
+memory used=332
+714 num of primes=72
+
+last ticks=0
+cur ticks=9
+cpu usage=12
+memory used=332
+715 num of primes=23
+
+last ticks=0
+cur ticks=9
+cpu usage=12
+memory used=332
+716 num of primes=44
+
+last ticks=0
+cur ticks=9
+cpu usage=12
+memory used=332
+717 num of primes=47
+
+last ticks=0
+cur ticks=9
+cpu usage=12
+memory used=332
+718 num of primes=71
+
+last ticks=0
+cur ticks=10
+cpu usage=13
+memory used=332
+719 num of primes=88
+
+last ticks=0
+cur ticks=10
+cpu usage=13
+memory used=332
+720 num of primes=43
+
+last ticks=0
+cur ticks=10
+cpu usage=13
+memory used=332
+721 num of primes=20
+
+last ticks=0
+cur ticks=10
+cpu usage=13
+memory used=332
+722 num of primes=39
+
+last ticks=0
+cur ticks=10
+cpu usage=13
+memory used=332
+723 num of primes=63
+
+last ticks=0
+cur ticks=10
+cpu usage=13
+memory used=332
+724 num of primes=63
+
+last ticks=0
+cur ticks=10
+cpu usage=13
+memory used=332
+725 num of primes=4
+
+last ticks=0
+cur ticks=10
+cpu usage=13
+memory used=332
+726 num of primes=11
+
+last ticks=0
+cur ticks=10
+cpu usage=13
+memory used=332
+727 num of primes=77
+
+last ticks=0
+cur ticks=10
+cpu usage=13
+memory used=332
+728 num of primes=60
+
+last ticks=0
+cur ticks=10
+cpu usage=13
+memory used=332
+729 num of primes=51
+
+last ticks=0
+cur ticks=10
+cpu usage=13
+memory used=332
+730 num of primes=57
+
+last ticks=0
+cur ticks=10
+cpu usage=13
+memory used=332
+731 num of primes=60
+
+last ticks=0
+cur ticks=10
+cpu usage=13
+memory used=332
+732 num of primes=1
+
+last ticks=0
+cur ticks=10
+cpu usage=13
+memory used=332
+733 num of primes=31
+
+last ticks=0
+cur ticks=10
+cpu usage=13
+memory used=332
+734 num of primes=44
+
+last ticks=0
+cur ticks=10
+cpu usage=13
+memory used=332
+735 num of primes=66
+
+last ticks=0
+cur ticks=10
+cpu usage=13
+memory used=332
+736 num of primes=0
+
+last ticks=0
+cur ticks=10
+cpu usage=13
+memory used=332
+737 num of primes=7
+
+last ticks=0
+cur ticks=10
+cpu usage=13
+memory used=332
+738 num of primes=43
+
+last ticks=0
+cur ticks=10
+cpu usage=13
+memory used=332
+739 num of primes=46
+
+last ticks=0
+cur ticks=10
+cpu usage=13
+memory used=332
+740 num of primes=81
+
+last ticks=0
+cur ticks=10
+cpu usage=13
+memory used=332
+741 num of primes=22
+
+last ticks=0
+cur ticks=10
+cpu usage=13
+memory used=332
+742 num of primes=108
+
+last ticks=0
+cur ticks=10
+cpu usage=13
+memory used=332
+743 num of primes=85
+
+last ticks=0
+cur ticks=10
+cpu usage=13
+memory used=332
+744 num of primes=18
+
+last ticks=0
+cur ticks=10
+cpu usage=13
+memory used=332
+745 num of primes=48
+
+last ticks=0
+cur ticks=10
+cpu usage=13
+memory used=332
+746 num of primes=95
+
+last ticks=0
+cur ticks=10
+cpu usage=13
+memory used=332
+747 num of primes=20
+
+last ticks=0
+cur ticks=10
+cpu usage=13
+memory used=332
+748 num of primes=26
+
+last ticks=0
+cur ticks=10
+cpu usage=13
+memory used=332
+749 num of primes=10
+
+last ticks=0
+cur ticks=10
+cpu usage=13
+memory used=332
+750 num of primes=26
+
+last ticks=0
+cur ticks=10
+cpu usage=13
+memory used=332
+751 num of primes=61
+
+last ticks=0
+cur ticks=10
+cpu usage=13
+memory used=332
+752 num of primes=51
+
+last ticks=0
+cur ticks=10
+cpu usage=13
+memory used=332
+753 num of primes=16
+
+last ticks=0
+cur ticks=10
+cpu usage=13
+memory used=332
+754 num of primes=39
+
+last ticks=0
+cur ticks=10
+cpu usage=13
+memory used=332
+755 num of primes=78
+
+last ticks=0
+cur ticks=10
+cpu usage=13
+memory used=332
+756 num of primes=42
+
+last ticks=0
+cur ticks=10
+cpu usage=13
+memory used=332
+757 num of primes=14
+
+last ticks=0
+cur ticks=10
+cpu usage=13
+memory used=332
+758 num of primes=0
+
+last ticks=0
+cur ticks=10
+cpu usage=13
+memory used=332
+759 num of primes=78
+
+last ticks=0
+cur ticks=10
+cpu usage=13
+memory used=332
+760 num of primes=99
+
+last ticks=0
+cur ticks=10
+cpu usage=13
+memory used=332
+761 num of primes=39
+
+last ticks=0
+cur ticks=10
+cpu usage=13
+memory used=332
+762 num of primes=100
+
+last ticks=0
+cur ticks=10
+cpu usage=13
+memory used=332
+763 num of primes=9
+
+last ticks=0
+cur ticks=10
+cpu usage=13
+memory used=332
+764 num of primes=83
+
+last ticks=0
+cur ticks=10
+cpu usage=13
+memory used=332
+765 num of primes=23
+
+last ticks=0
+cur ticks=10
+cpu usage=13
+memory used=332
+766 num of primes=86
+
+last ticks=0
+cur ticks=10
+cpu usage=13
+memory used=332
+767 num of primes=19
+
+last ticks=0
+cur ticks=10
+cpu usage=13
+memory used=332
+768 num of primes=81
+
+last ticks=0
+cur ticks=10
+cpu usage=13
+memory used=332
+769 num of primes=47
+
+last ticks=0
+cur ticks=10
+cpu usage=13
+memory used=332
+770 num of primes=36
+
+last ticks=0
+cur ticks=10
+cpu usage=13
+memory used=332
+771 num of primes=41
+
+last ticks=0
+cur ticks=10
+cpu usage=13
+memory used=332
+772 num of primes=43
+
+last ticks=0
+cur ticks=10
+cpu usage=13
+memory used=332
+773 num of primes=74
+
+last ticks=0
+cur ticks=11
+cpu usage=14
+memory used=332
+774 num of primes=64
+
+last ticks=0
+cur ticks=11
+cpu usage=14
+memory used=332
+775 num of primes=73
+
+last ticks=0
+cur ticks=11
+cpu usage=14
+memory used=332
+776 num of primes=33
+
+last ticks=0
+cur ticks=11
+cpu usage=14
+memory used=332
+777 num of primes=29
+
+last ticks=0
+cur ticks=11
+cpu usage=14
+memory used=332
+778 num of primes=8
+
+last ticks=0
+cur ticks=11
+cpu usage=14
+memory used=332
+779 num of primes=54
+
+last ticks=0
+cur ticks=11
+cpu usage=14
+memory used=332
+780 num of primes=84
+
+last ticks=0
+cur ticks=11
+cpu usage=14
+memory used=332
+781 num of primes=81
+
+last ticks=0
+cur ticks=11
+cpu usage=14
+memory used=332
+782 num of primes=83
+
+last ticks=0
+cur ticks=11
+cpu usage=14
+memory used=332
+783 num of primes=64
+
+last ticks=0
+cur ticks=11
+cpu usage=14
+memory used=332
+784 num of primes=57
+
+last ticks=0
+cur ticks=11
+cpu usage=14
+memory used=332
+785 num of primes=11
+
+last ticks=0
+cur ticks=11
+cpu usage=14
+memory used=332
+786 num of primes=96
+
+last ticks=0
+cur ticks=11
+cpu usage=14
+memory used=332
+787 num of primes=52
+
+last ticks=0
+cur ticks=11
+cpu usage=14
+memory used=332
+788 num of primes=82
+
+last ticks=0
+cur ticks=11
+cpu usage=14
+memory used=332
+789 num of primes=34
+
+last ticks=0
+cur ticks=11
+cpu usage=14
+memory used=332
+790 num of primes=1
+
+last ticks=0
+cur ticks=11
+cpu usage=14
+memory used=332
+791 num of primes=55
+
+last ticks=0
+cur ticks=11
+cpu usage=14
+memory used=332
+792 num of primes=18
+
+last ticks=0
+cur ticks=11
+cpu usage=14
+memory used=332
+793 num of primes=49
+
+last ticks=0
+cur ticks=11
+cpu usage=14
+memory used=332
+794 num of primes=9
+
+last ticks=0
+cur ticks=11
+cpu usage=14
+memory used=332
+795 num of primes=20
+
+last ticks=0
+cur ticks=11
+cpu usage=14
+memory used=332
+796 num of primes=43
+
+last ticks=0
+cur ticks=11
+cpu usage=14
+memory used=332
+797 num of primes=14
+
+last ticks=0
+cur ticks=11
+cpu usage=14
+memory used=332
+798 num of primes=10
+
+last ticks=0
+cur ticks=11
+cpu usage=14
+memory used=332
+799 num of primes=14
+
+last ticks=0
+cur ticks=11
+cpu usage=14
+memory used=332
+800 num of primes=25
+
+last ticks=0
+cur ticks=11
+cpu usage=14
+memory used=332
+801 num of primes=70
+
+last ticks=0
+cur ticks=11
+cpu usage=14
+memory used=332
+802 num of primes=12
+
+last ticks=0
+cur ticks=11
+cpu usage=14
+memory used=332
+803 num of primes=25
+
+last ticks=0
+cur ticks=11
+cpu usage=14
+memory used=332
+804 num of primes=24
+
+last ticks=0
+cur ticks=11
+cpu usage=14
+memory used=332
+805 num of primes=68
+
+last ticks=0
+cur ticks=11
+cpu usage=14
+memory used=332
+806 num of primes=4
+
+last ticks=0
+cur ticks=11
+cpu usage=14
+memory used=332
+807 num of primes=67
+
+last ticks=0
+cur ticks=11
+cpu usage=14
+memory used=332
+808 num of primes=38
+
+last ticks=0
+cur ticks=11
+cpu usage=14
+memory used=332
+809 num of primes=95
+
+last ticks=0
+cur ticks=11
+cpu usage=14
+memory used=332
+810 num of primes=101
+
+last ticks=0
+cur ticks=11
+cpu usage=14
+memory used=332
+811 num of primes=30
+
+last ticks=0
+cur ticks=11
+cpu usage=14
+memory used=332
+812 num of primes=8
+
+last ticks=0
+cur ticks=11
+cpu usage=14
+memory used=332
+813 num of primes=65
+
+last ticks=0
+cur ticks=11
+cpu usage=14
+memory used=332
+814 num of primes=97
+
+last ticks=0
+cur ticks=11
+cpu usage=14
+memory used=332
+815 num of primes=84
+
+last ticks=0
+cur ticks=11
+cpu usage=14
+memory used=332
+816 num of primes=46
+
+last ticks=0
+cur ticks=11
+cpu usage=14
+memory used=332
+817 num of primes=7
+
+last ticks=0
+cur ticks=11
+cpu usage=14
+memory used=332
+818 num of primes=97
+
+last ticks=0
+cur ticks=11
+cpu usage=14
+memory used=332
+819 num of primes=13
+
+last ticks=0
+cur ticks=11
+cpu usage=14
+memory used=332
+820 num of primes=50
+
+last ticks=0
+cur ticks=11
+cpu usage=14
+memory used=332
+821 num of primes=23
+
+last ticks=0
+cur ticks=11
+cpu usage=14
+memory used=332
+822 num of primes=82
+
+last ticks=0
+cur ticks=11
+cpu usage=14
+memory used=332
+823 num of primes=75
+
+last ticks=0
+cur ticks=11
+cpu usage=14
+memory used=332
+824 num of primes=0
+
+last ticks=0
+cur ticks=11
+cpu usage=14
+memory used=332
+825 num of primes=16
+
+last ticks=0
+cur ticks=11
+cpu usage=14
+memory used=332
+826 num of primes=77
+
+last ticks=0
+cur ticks=11
+cpu usage=14
+memory used=332
+827 num of primes=59
+
+last ticks=0
+cur ticks=11
+cpu usage=14
+memory used=332
+828 num of primes=18
+
+last ticks=0
+cur ticks=11
+cpu usage=14
+memory used=332
+829 num of primes=57
+
+last ticks=0
+cur ticks=11
+cpu usage=14
+memory used=332
+830 num of primes=94
+
+last ticks=0
+cur ticks=12
+cpu usage=15
+memory used=332
+831 num of primes=58
+
+last ticks=0
+cur ticks=12
+cpu usage=15
+memory used=332
+832 num of primes=80
+
+last ticks=0
+cur ticks=12
+cpu usage=15
+memory used=332
+833 num of primes=12
+
+last ticks=0
+cur ticks=12
+cpu usage=15
+memory used=332
+834 num of primes=74
+
+last ticks=0
+cur ticks=12
+cpu usage=15
+memory used=332
+835 num of primes=39
+
+last ticks=0
+cur ticks=12
+cpu usage=15
+memory used=332
+836 num of primes=82
+
+last ticks=0
+cur ticks=12
+cpu usage=15
+memory used=332
+837 num of primes=84
+
+last ticks=0
+cur ticks=12
+cpu usage=15
+memory used=332
+838 num of primes=21
+
+last ticks=0
+cur ticks=12
+cpu usage=15
+memory used=332
+839 num of primes=85
+
+last ticks=0
+cur ticks=12
+cpu usage=15
+memory used=332
+840 num of primes=98
+
+last ticks=0
+cur ticks=12
+cpu usage=15
+memory used=332
+841 num of primes=30
+
+last ticks=0
+cur ticks=12
+cpu usage=15
+memory used=332
+842 num of primes=4
+
+last ticks=0
+cur ticks=12
+cpu usage=15
+memory used=332
+843 num of primes=37
+
+last ticks=0
+cur ticks=12
+cpu usage=15
+memory used=332
+844 num of primes=20
+
+last ticks=0
+cur ticks=12
+cpu usage=15
+memory used=332
+845 num of primes=83
+
+last ticks=0
+cur ticks=12
+cpu usage=15
+memory used=332
+846 num of primes=31
+
+last ticks=0
+cur ticks=12
+cpu usage=15
+memory used=332
+847 num of primes=78
+
+last ticks=0
+cur ticks=12
+cpu usage=15
+memory used=332
+848 num of primes=55
+
+last ticks=0
+cur ticks=12
+cpu usage=15
+memory used=332
+849 num of primes=62
+
+last ticks=0
+cur ticks=12
+cpu usage=15
+memory used=332
+850 num of primes=44
+
+last ticks=0
+cur ticks=12
+cpu usage=15
+memory used=332
+851 num of primes=73
+
+last ticks=0
+cur ticks=12
+cpu usage=15
+memory used=332
+852 num of primes=63
+
+last ticks=0
+cur ticks=12
+cpu usage=15
+memory used=332
+853 num of primes=95
+
+last ticks=0
+cur ticks=12
+cpu usage=15
+memory used=332
+854 num of primes=88
+
+last ticks=0
+cur ticks=12
+cpu usage=15
+memory used=332
+855 num of primes=58
+
+last ticks=0
+cur ticks=12
+cpu usage=15
+memory used=332
+856 num of primes=22
+
+last ticks=0
+cur ticks=12
+cpu usage=15
+memory used=332
+857 num of primes=47
+
+last ticks=0
+cur ticks=12
+cpu usage=15
+memory used=332
+858 num of primes=2
+
+last ticks=0
+cur ticks=12
+cpu usage=15
+memory used=332
+859 num of primes=65
+
+last ticks=0
+cur ticks=12
+cpu usage=15
+memory used=332
+860 num of primes=49
+
+last ticks=0
+cur ticks=12
+cpu usage=15
+memory used=332
+861 num of primes=84
+
+last ticks=0
+cur ticks=12
+cpu usage=15
+memory used=332
+862 num of primes=54
+
+last ticks=0
+cur ticks=12
+cpu usage=15
+memory used=332
+863 num of primes=46
+
+last ticks=0
+cur ticks=12
+cpu usage=15
+memory used=332
+864 num of primes=68
+
+last ticks=0
+cur ticks=12
+cpu usage=15
+memory used=332
+865 num of primes=35
+
+last ticks=0
+cur ticks=12
+cpu usage=15
+memory used=332
+866 num of primes=33
+
+last ticks=0
+cur ticks=12
+cpu usage=15
+memory used=332
+867 num of primes=39
+
+last ticks=0
+cur ticks=12
+cpu usage=15
+memory used=332
+868 num of primes=31
+
+last ticks=0
+cur ticks=12
+cpu usage=15
+memory used=332
+869 num of primes=72
+
+last ticks=0
+cur ticks=12
+cpu usage=15
+memory used=332
+870 num of primes=48
+
+last ticks=0
+cur ticks=12
+cpu usage=15
+memory used=332
+871 num of primes=41
+
+last ticks=0
+cur ticks=12
+cpu usage=15
+memory used=332
+872 num of primes=43
+
+last ticks=0
+cur ticks=12
+cpu usage=15
+memory used=332
+873 num of primes=4
+
+last ticks=0
+cur ticks=12
+cpu usage=15
+memory used=332
+874 num of primes=18
+
+last ticks=0
+cur ticks=12
+cpu usage=15
+memory used=332
+875 num of primes=10
+
+last ticks=0
+cur ticks=12
+cpu usage=15
+memory used=332
+876 num of primes=61
+
+last ticks=0
+cur ticks=12
+cpu usage=15
+memory used=332
+877 num of primes=10
+
+last ticks=0
+cur ticks=12
+cpu usage=15
+memory used=332
+878 num of primes=67
+
+last ticks=0
+cur ticks=12
+cpu usage=15
+memory used=332
+879 num of primes=23
+
+last ticks=0
+cur ticks=12
+cpu usage=15
+memory used=332
+880 num of primes=105
+
+last ticks=0
+cur ticks=12
+cpu usage=15
+memory used=332
+881 num of primes=39
+
+last ticks=0
+cur ticks=12
+cpu usage=15
+memory used=332
+882 num of primes=22
+
+last ticks=0
+cur ticks=12
+cpu usage=15
+memory used=332
+883 num of primes=29
+
+last ticks=0
+cur ticks=12
+cpu usage=15
+memory used=332
+884 num of primes=95
+
+last ticks=0
+cur ticks=12
+cpu usage=15
+memory used=332
+885 num of primes=14
+
+last ticks=0
+cur ticks=12
+cpu usage=15
+memory used=332
+886 num of primes=1
+
+last ticks=0
+cur ticks=12
+cpu usage=15
+memory used=332
+887 num of primes=89
+
+last ticks=0
+cur ticks=12
+cpu usage=15
+memory used=332
+888 num of primes=6
+
+last ticks=0
+cur ticks=12
+cpu usage=15
+memory used=332
+889 num of primes=40
+
+last ticks=0
+cur ticks=12
+cpu usage=15
+memory used=332
+890 num of primes=104
+
+last ticks=0
+cur ticks=12
+cpu usage=15
+memory used=332
+891 num of primes=45
+
+last ticks=0
+cur ticks=12
+cpu usage=15
+memory used=332
+892 num of primes=4
+
+last ticks=0
+cur ticks=12
+cpu usage=15
+memory used=332
+893 num of primes=25
+
+last ticks=0
+cur ticks=12
+cpu usage=15
+memory used=332
+894 num of primes=42
+
+last ticks=0
+cur ticks=12
+cpu usage=15
+memory used=332
+895 num of primes=6
+
+last ticks=0
+cur ticks=12
+cpu usage=15
+memory used=332
+896 num of primes=51
+
+last ticks=0
+cur ticks=12
+cpu usage=15
+memory used=332
+897 num of primes=6
+
+last ticks=0
+cur ticks=12
+cpu usage=15
+memory used=332
+898 num of primes=84
+
+last ticks=0
+cur ticks=12
+cpu usage=15
+memory used=332
+899 num of primes=32
+
+last ticks=0
+cur ticks=12
+cpu usage=15
+memory used=332
+900 num of primes=41
+
+last ticks=0
+cur ticks=12
+cpu usage=15
+memory used=332
+901 num of primes=75
+
+last ticks=0
+cur ticks=12
+cpu usage=15
+memory used=332
+902 num of primes=83
+
+last ticks=0
+cur ticks=12
+cpu usage=15
+memory used=332
+903 num of primes=50
+
+last ticks=0
+cur ticks=12
+cpu usage=15
+memory used=332
+904 num of primes=46
+
+last ticks=0
+cur ticks=12
+cpu usage=15
+memory used=332
+905 num of primes=59
+
+last ticks=0
+cur ticks=12
+cpu usage=15
+memory used=332
+906 num of primes=25
+
+last ticks=0
+cur ticks=12
+cpu usage=15
+memory used=332
+907 num of primes=66
+
+last ticks=0
+cur ticks=12
+cpu usage=15
+memory used=332
+908 num of primes=4
+
+last ticks=0
+cur ticks=13
+cpu usage=16
+memory used=332
+909 num of primes=66
+
+last ticks=0
+cur ticks=13
+cpu usage=16
+memory used=332
+910 num of primes=56
+
+last ticks=0
+cur ticks=13
+cpu usage=16
+memory used=332
+911 num of primes=60
+
+last ticks=0
+cur ticks=13
+cpu usage=16
+memory used=332
+912 num of primes=82
+
+last ticks=0
+cur ticks=13
+cpu usage=16
+memory used=332
+913 num of primes=50
+
+last ticks=0
+cur ticks=13
+cpu usage=16
+memory used=332
+914 num of primes=65
+
+last ticks=0
+cur ticks=13
+cpu usage=16
+memory used=332
+915 num of primes=64
+
+last ticks=0
+cur ticks=13
+cpu usage=16
+memory used=332
+916 num of primes=105
+
+last ticks=0
+cur ticks=13
+cpu usage=16
+memory used=332
+917 num of primes=54
+
+last ticks=0
+cur ticks=13
+cpu usage=16
+memory used=332
+918 num of primes=23
+
+last ticks=0
+cur ticks=13
+cpu usage=16
+memory used=332
+919 num of primes=25
+
+last ticks=0
+cur ticks=13
+cpu usage=16
+memory used=332
+920 num of primes=71
+
+last ticks=0
+cur ticks=13
+cpu usage=16
+memory used=332
+921 num of primes=64
+
+last ticks=0
+cur ticks=13
+cpu usage=16
+memory used=332
+922 num of primes=43
+
+last ticks=0
+cur ticks=13
+cpu usage=16
+memory used=332
+923 num of primes=31
+
+last ticks=0
+cur ticks=13
+cpu usage=16
+memory used=332
+924 num of primes=72
+
+last ticks=0
+cur ticks=13
+cpu usage=16
+memory used=332
+925 num of primes=53
+
+last ticks=0
+cur ticks=13
+cpu usage=16
+memory used=332
+926 num of primes=61
+
+last ticks=0
+cur ticks=13
+cpu usage=16
+memory used=332
+927 num of primes=47
+
+last ticks=0
+cur ticks=13
+cpu usage=16
+memory used=332
+928 num of primes=42
+
+last ticks=0
+cur ticks=13
+cpu usage=16
+memory used=332
+929 num of primes=95
+
+last ticks=0
+cur ticks=13
+cpu usage=16
+memory used=332
+930 num of primes=60
+
+last ticks=0
+cur ticks=13
+cpu usage=16
+memory used=332
+931 num of primes=8
+
+last ticks=0
+cur ticks=13
+cpu usage=16
+memory used=332
+932 num of primes=9
+
+last ticks=0
+cur ticks=13
+cpu usage=16
+memory used=332
+933 num of primes=8
+
+last ticks=0
+cur ticks=13
+cpu usage=16
+memory used=332
+934 num of primes=12
+
+last ticks=0
+cur ticks=13
+cpu usage=16
+memory used=332
+935 num of primes=30
+
+last ticks=0
+cur ticks=13
+cpu usage=16
+memory used=332
+936 num of primes=82
+
+last ticks=0
+cur ticks=13
+cpu usage=16
+memory used=332
+937 num of primes=82
+
+last ticks=0
+cur ticks=13
+cpu usage=16
+memory used=332
+938 num of primes=58
+
+last ticks=0
+cur ticks=13
+cpu usage=16
+memory used=332
+939 num of primes=85
+
+last ticks=0
+cur ticks=13
+cpu usage=16
+memory used=332
+940 num of primes=92
+
+last ticks=0
+cur ticks=13
+cpu usage=16
+memory used=332
+941 num of primes=9
+
+last ticks=0
+cur ticks=13
+cpu usage=16
+memory used=332
+942 num of primes=71
+
+last ticks=0
+cur ticks=13
+cpu usage=16
+memory used=332
+943 num of primes=32
+
+last ticks=0
+cur ticks=13
+cpu usage=16
+memory used=332
+944 num of primes=51
+
+last ticks=0
+cur ticks=13
+cpu usage=16
+memory used=332
+945 num of primes=33
+
+last ticks=0
+cur ticks=13
+cpu usage=16
+memory used=332
+946 num of primes=48
+
+last ticks=0
+cur ticks=13
+cpu usage=16
+memory used=332
+947 num of primes=26
+
+last ticks=0
+cur ticks=13
+cpu usage=16
+memory used=332
+948 num of primes=68
+
+last ticks=0
+cur ticks=13
+cpu usage=16
+memory used=332
+949 num of primes=26
+
+last ticks=0
+cur ticks=13
+cpu usage=16
+memory used=332
+950 num of primes=19
+
+last ticks=0
+cur ticks=13
+cpu usage=16
+memory used=332
+951 num of primes=25
+
+last ticks=0
+cur ticks=13
+cpu usage=16
+memory used=332
+952 num of primes=46
+
+last ticks=0
+cur ticks=13
+cpu usage=16
+memory used=332
+953 num of primes=32
+
+last ticks=0
+cur ticks=13
+cpu usage=16
+memory used=332
+954 num of primes=68
+
+last ticks=0
+cur ticks=13
+cpu usage=16
+memory used=332
+955 num of primes=23
+
+last ticks=0
+cur ticks=13
+cpu usage=16
+memory used=332
+956 num of primes=22
+
+last ticks=0
+cur ticks=13
+cpu usage=16
+memory used=332
+957 num of primes=36
+
+last ticks=0
+cur ticks=13
+cpu usage=16
+memory used=332
+958 num of primes=35
+
+last ticks=0
+cur ticks=13
+cpu usage=16
+memory used=332
+959 num of primes=88
+
+last ticks=0
+cur ticks=13
+cpu usage=16
+memory used=332
+960 num of primes=50
+
+last ticks=0
+cur ticks=13
+cpu usage=16
+memory used=332
+961 num of primes=75
+
+last ticks=0
+cur ticks=14
+cpu usage=17
+memory used=332
+962 num of primes=21
+
+last ticks=0
+cur ticks=14
+cpu usage=17
+memory used=332
+963 num of primes=58
+
+last ticks=0
+cur ticks=14
+cpu usage=17
+memory used=332
+964 num of primes=44
+
+last ticks=0
+cur ticks=14
+cpu usage=17
+memory used=332
+965 num of primes=80
+
+last ticks=0
+cur ticks=14
+cpu usage=17
+memory used=332
+966 num of primes=58
+
+last ticks=0
+cur ticks=14
+cpu usage=17
+memory used=332
+967 num of primes=61
+
+last ticks=0
+cur ticks=14
+cpu usage=17
+memory used=332
+968 num of primes=52
+
+last ticks=0
+cur ticks=14
+cpu usage=17
+memory used=332
+969 num of primes=93
+
+last ticks=0
+cur ticks=14
+cpu usage=17
+memory used=332
+970 num of primes=7
+
+last ticks=0
+cur ticks=14
+cpu usage=17
+memory used=332
+971 num of primes=46
+
+last ticks=0
+cur ticks=14
+cpu usage=17
+memory used=332
+972 num of primes=38
+
+last ticks=0
+cur ticks=14
+cpu usage=17
+memory used=332
+973 num of primes=6
+
+last ticks=0
+cur ticks=14
+cpu usage=17
+memory used=332
+974 num of primes=65
+
+last ticks=0
+cur ticks=14
+cpu usage=17
+memory used=332
+975 num of primes=4
+
+last ticks=0
+cur ticks=14
+cpu usage=17
+memory used=332
+976 num of primes=73
+
+last ticks=0
+cur ticks=14
+cpu usage=17
+memory used=332
+977 num of primes=34
+
+last ticks=0
+cur ticks=14
+cpu usage=17
+memory used=332
+978 num of primes=57
+
+last ticks=0
+cur ticks=14
+cpu usage=17
+memory used=332
+979 num of primes=94
+
+last ticks=0
+cur ticks=14
+cpu usage=17
+memory used=332
+980 num of primes=5
+
+last ticks=0
+cur ticks=14
+cpu usage=17
+memory used=332
+981 num of primes=27
+
+last ticks=0
+cur ticks=14
+cpu usage=17
+memory used=332
+982 num of primes=55
+
+last ticks=0
+cur ticks=14
+cpu usage=17
+memory used=332
+983 num of primes=75
+
+last ticks=0
+cur ticks=14
+cpu usage=17
+memory used=332
+984 num of primes=24
+
+last ticks=0
+cur ticks=14
+cpu usage=17
+memory used=332
+985 num of primes=13
+
+last ticks=0
+cur ticks=14
+cpu usage=17
+memory used=332
+986 num of primes=4
+
+last ticks=0
+cur ticks=14
+cpu usage=17
+memory used=332
+987 num of primes=45
+
+last ticks=0
+cur ticks=14
+cpu usage=17
+memory used=332
+988 num of primes=8
+
+last ticks=0
+cur ticks=14
+cpu usage=17
+memory used=332
+989 num of primes=76
+
+last ticks=0
+cur ticks=14
+cpu usage=17
+memory used=332
+990 num of primes=19
+
+last ticks=0
+cur ticks=14
+cpu usage=17
+memory used=332
+991 num of primes=59
+
+last ticks=0
+cur ticks=14
+cpu usage=17
+memory used=332
+992 num of primes=66
+
+last ticks=0
+cur ticks=14
+cpu usage=17
+memory used=332
+993 num of primes=42
+
+last ticks=0
+cur ticks=14
+cpu usage=17
+memory used=332
+994 num of primes=35
+
+last ticks=0
+cur ticks=14
+cpu usage=17
+memory used=332
+995 num of primes=85
+
+last ticks=0
+cur ticks=14
+cpu usage=17
+memory used=332
+996 num of primes=25
+
+last ticks=0
+cur ticks=14
+cpu usage=17
+memory used=332
+997 num of primes=68
+
+last ticks=0
+cur ticks=14
+cpu usage=17
+memory used=332
+998 num of primes=3
+
+last ticks=0
+cur ticks=14
+cpu usage=17
+memory used=332
+999 num of primes=9
+

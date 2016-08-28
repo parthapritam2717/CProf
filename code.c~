@@ -52,14 +52,13 @@ int count_prime(int *array,int s){
 }
 
 int main(){
-	
+	int errorStatus=get_usage(getpid(),&blockStart);
 	int n;	
 	int c=0;
 	int t;
 	sf(t);		
 	while(t>0){			
 		sf(n);	
-		int errorStatus=get_usage(getpid(),&blockStart);
 		int i;
 		int array[n];
 		for(i=0;i<n;++i){
