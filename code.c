@@ -20,8 +20,7 @@
 /*********************************************#defines ends here******************************************************/
 
 /******************************All the global variables and structs should be declared here***************************/
-unsigned long  timeStart;/* These variables are used to store the start user and kernel cpu time and calculate the cpu time we have spent on this block*/
-unsigned long long cpuTimeStart;/*These variables are used to get the total cpu time betwwen the desired blocks and we will then calculate the percentage usage of the cpu during that block*/
+unsigned long  userTime,systemTime;/* These variables are used to store the start user and kernel cpu time and calculate the cpu time we have spent on this block*/
 double cpuUser,cpuSystem;// This will save the cpu usage percentage in the block
 static int cores;//This variable will contain the number of cores the given system has which will be used while calculating the Cpu percentage usage
 struct pstat blockStart,blockEnd;// will store the process status at the beginiing of the block and at end of block
@@ -37,8 +36,7 @@ bool is_prime(int item){
 	for(i=2;i<(int)x;++i){
 		if(item%i==0){
 			return 0;
-		}
-		
+		}		
 	}
 	return 1;
 
@@ -54,25 +52,26 @@ int count_prime(int *array,int s){
 }
 
 int main(){
-	int errorStatus=get_usage(getpid(),&blockStart);
+	
 	int n;	
 	int c=0;
 	int t;
 	sf(t);	
-	while(t>0){		
+	while(t>0){	
+			
 		sf(n);	
 		int i;
 		int array[n];
 		for(i=0;i<n;++i){
 			sf(array[i]);
-		}				
+		}	
+		int errorStatus=get_usage(getpid(),&blockStart);			
 		int count=(count_prime(array,n));
 		errorStatus=get_usage(getpid(),&blockEnd);
-		calc_cpu_usage_pct(&blockEnd,&blockStart,&cpuUser,&cpuSystem);
+		calc_cpu_usage(&blockEnd,&blockStart,&userTime,&systemTime);
 		printf("cpu usage=%lf\n",(cpuUser+cpuSystem));		
 		printf("memory used=%d",getMemoryUsed());
-		nl();
-		
+		nl();		
 		printf("%d num of primes=",c);
 		pf(count);
 

@@ -34,7 +34,6 @@ struct pstat {
     long int cstime_ticks;
     long unsigned int vsize; // virtual memory size in bytes
     long unsigned int rss; //Resident  Set  Size in bytes
-
     long unsigned int cpu_total_time;
 };
 
@@ -181,7 +180,7 @@ unsigned long long int getCpuTime(){
 	return (user + nice + system + idle+iowait+irq+softirq+steal+guest+guest_nice);
 }
 
-/*This function will calculate the number of cores in the system which will be used for calculating the cpu percantage usage by the process*/
+/*This function will calculate the number of cores in the system */
 void countCores(int *core){
 	FILE *file = fopen("/proc/cpuinfo", "r");
 	*core = 0;
@@ -202,6 +201,8 @@ long double getCpuPercent(unsigned long *process,unsigned long long *cpu,int cor
  * read /proc data into the passed struct pstat
  * returns 0 on success, -1 on error
 */
+/*we will calculate the cpu usage between two points or in a given block in units of ticks by calling this function twice at those points and
+calculating the difference*/
 int get_usage(const pid_t pid, struct pstat* result) {
     //convert  pid to string
     char pid_s[20];
@@ -264,6 +265,7 @@ void calc_cpu_usage_pct(const struct pstat* cur_usage,
                         const struct pstat* last_usage,
                         double* ucpu_usage, double* scpu_usage)
 {
+/*If the statements run in less than 1 tick of time then it will return -nan as there will be no change in the running of the statements*/
     const long unsigned int total_time_diff = cur_usage->cpu_total_time -
                                               last_usage->cpu_total_time;
 
@@ -277,13 +279,14 @@ void calc_cpu_usage_pct(const struct pstat* cur_usage,
 }
 
 /*
-* calculates the elapsed CPU usage between 2 measuring points in ticks
-*/
+* calculates the elapsed CPU usage between 2 measuring points in ticks*/
 void calc_cpu_usage(const struct pstat* cur_usage,
                     const struct pstat* last_usage,
                     long unsigned int* ucpu_usage,
                     long unsigned int* scpu_usage)
 {
+
+/*If the statements run in less than 1 tick of time then it will return 0*/
 
     *ucpu_usage = (cur_usage->utime_ticks + cur_usage->cutime_ticks) -
                   (last_usage->utime_ticks + last_usage->cutime_ticks);

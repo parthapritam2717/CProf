@@ -7,5 +7,5 @@ Important Notes:-
 
 3. The cpu usage will be found by a different program and will be calculated in some regular intervals
 
-4. While calculating the cpu usage percenatage we are considering  all the number of cpu. 
+4. While considering the number of ticks during calculation of number of ticks the cpu percentage calc function might give -nan if statements run in less tha 1 tick.
 

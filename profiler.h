@@ -31,7 +31,7 @@ int getPhysicalMemoryUsed();//done
 void countCores(int *core);//done
 long double getCpuPercent(unsigned long *,unsigned long long *,int );//done we will not use this to get cpu Percent as it gives wrong value sometimes
 
-/*lets now check this functions if we can make them work to get the cpu use*/
+/*These methods give the correct output for cpu usage*/
 void calc_cpu_usage_pct(const struct pstat* cur_usage,
                         const struct pstat* last_usage,
                         double* ucpu_usage, double* scpu_usage);

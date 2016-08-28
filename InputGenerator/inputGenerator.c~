@@ -25,7 +25,7 @@ void fileOverWrite(){
 }
 int main(){
 	fileOverWrite();
-	int index=100000;
+	int index=1000;
 	srand ( time(NULL) );
 	writeNum2File(index);
 	writeNewLine();
