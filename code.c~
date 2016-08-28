@@ -59,7 +59,8 @@ int main(){
 	int c=0;
 	int t;
 	sf(t);	
-	while(t>0){		
+	while(t>0){
+		
 		sf(n);	
 		int i;
 		int array[n];

@@ -8,8 +8,6 @@
 #include "stdio.h"
 #include "string.h"
 
-
-/*structure to save the state of the process from /proc will be used for cpu percentage calculation*/
 struct pstat {
     long unsigned int utime_ticks;
     long int cutime_ticks;
@@ -21,8 +19,6 @@ struct pstat {
     long unsigned int cpu_total_time;
 };
 
-
-
 int getMemoryUsed();// heap+stack done
 int getVirtualMemoryUsed();//done
 unsigned long getCpuProcessTime();//done
@@ -31,7 +27,8 @@ int getPhysicalMemoryUsed();//done
 void countCores(int *core);//done
 long double getCpuPercent(unsigned long *,unsigned long long *,int );//done we will not use this to get cpu Percent as it gives wrong value sometimes
 
-/*lets now check this functions if we can make them work to get the cpu use*/
+/*Some experimental functions to get the cpu usage*/
+
 void calc_cpu_usage_pct(const struct pstat* cur_usage,
                         const struct pstat* last_usage,
                         double* ucpu_usage, double* scpu_usage);
@@ -41,6 +38,4 @@ void calc_cpu_usage(const struct pstat* cur_usage,
                     long unsigned int* ucpu_usage,
                     long unsigned int* scpu_usage);
 int get_usage(const pid_t pid, struct pstat* result);
-
-
 
