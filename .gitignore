@@ -34,6 +34,7 @@
 
 #temp files
 *.*~
+*~
 #input files
 
 input*.txt
