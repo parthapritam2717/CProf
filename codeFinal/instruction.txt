@@ -2,4 +2,9 @@ while compiling please use these flags which will set the gcov
 
 (-fprofile-arcs -ftest-coverage)
 
-run the executible the open the .gocv file with flag -a so that it can show the basic blocks  
+run the executible the open the .gocv file with flag  so that it can show the basic blocks.
+some imp flags:-
+-a:-gives the basic blocks
+-b:-gives the branchings in percentage
+-c:-gives the branching in numbers of times that branch taken
+-u:-includes unconditional branches  
