@@ -23,7 +23,7 @@
 
 
 /***************************************Global variables declaration ends here***************************************/
-bool is_prime(int item){	
+bool is_prime(int item){
 	double y=(double)item;
 	double x=sqrt(y);
 	int i;
@@ -31,13 +31,13 @@ bool is_prime(int item){
 	for(i=2;i<(int)x;++i){
 		if(item%i==0){
 			return 0;
-		}		
+		}
 	}
 	return 1;
 }
 
 int count_prime(int *array,int s){
-	int i=0,j=0;	
+	int i=0,j=0;
 	for(i=0;i<s;++i){
 		if(array[i]>=1 && is_prime(array[i])){
 			j++;
@@ -55,21 +55,19 @@ int main(){
 	while(t>0){
 		sf(n);
 		int i;
-		int *array=(int *)malloc(sizeof(int)*n);
+		int array[n];
 		for(i=0;i<n;++i){
 			sf(array[i]);
-		}				
-		int count=(count_prime(array,n));		
+		}
+		int count=(count_prime(array,n));
 		printf("%d num of primes=",c);
 		pf(count);
 		c++;
-		nl();		
-		free(array);		
 		nl();
 		--t;
 	}
 
 	// will also send some packets but later
-	
+
 	return 0;
 }

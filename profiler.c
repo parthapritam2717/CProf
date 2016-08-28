@@ -22,7 +22,7 @@
 
 /*********************************All global variables and structures should be defined here**************************/
 typedef struct pState{
-	// This structure stores the process present state from the /proc/PI/stat file 
+	// This structure stores the process present state from the /proc/PI/stat file
 	int pid;char comm[30];char state;int ppid;int pgrp;int session;int tty_nr;
 	int tpgid;unsigned int flags;unsigned long minflt;unsigned long cminflt;unsigned long majflt;
 	unsigned long cmajflt;unsigned long utime;unsigned long stime;long cutime;long cstime;
@@ -62,7 +62,7 @@ int getVirtualMemoryUsed(){ //Note: this value is in KB Please convert it into B
 		if(file==NULL){
 		printf("Error /proc/self/status File cannot be read !!\n");
 		exit(-1);
-		
+
 	}
 	    int result = -1;
 	    char line[1000];
@@ -84,7 +84,7 @@ int getPhysicalMemoryUsed(){ //Note: this value is in KB Please convert it into 
 	if(file==NULL){
 			printf("Error /proc/self/status File cannot be read !!\n");
 			exit(-1);
-		
+
 		}
     int result = -1;
     char line[1000];
@@ -105,7 +105,7 @@ int getMemoryUsed(){//Note: this value is in KB Please convert it into Bytes for
 	if(file==NULL){
 		printf("Error /proc/self/status File cannot be read !!\n");
 		exit(-1);
-		
+
 	}
     	int result = -1;
     	char line[1000];
@@ -131,7 +131,7 @@ int getMemoryUsed(){//Note: this value is in KB Please convert it into Bytes for
 calculating the difference*/
 /*The data we will be using from the /proc/PID/stat file are the stime and utime . stime is the time in which the process was in kernel mode and utime is the time in which the process was in user mode*/
 unsigned long int getCpuProcessTime(){
-	FILE* file = fopen("/proc/self/stat", "r");	
+	FILE* file = fopen("/proc/self/stat", "r");
 	if(file!=NULL){
 		char line[5000];
 	 	fgets(line, 5000, file);
@@ -144,12 +144,12 @@ unsigned long int getCpuProcessTime(){
 		return (ps.utime+ps.stime);
 	}
 		else{
-			
+
 			printf("Error /proc/self/stat File cannot be read !!\n");
 			exit(-1);
-			
-		
-			
+
+
+
 	}
 	return 0;
 }
@@ -160,18 +160,18 @@ unsigned long long int getCpuTime(){
 	if(file==NULL){
 		printf("Error /proc/stat File cannot be read !!\n");
 		exit(-1);
-		
+
 	}
 	char line[5000];
- 	fgets(line, 5000, file);	
-	unsigned long long user,nice,system,idle,iowait,irq,softirq,steal,guest,guest_nice;	
+ 	fgets(line, 5000, file);
+	unsigned long long user,nice,system,idle,iowait,irq,softirq,steal,guest,guest_nice;
 	sscanf(line,"%llu,%llu,%llu,%llu,%llu,%llu,%llu,%llu,%llu,%llu",&user,&nice,&system,&idle,&iowait,&irq,&softirq,&steal,&guest,&guest_nice);
 	/*printf("%llu\n",user);
 	printf("%llu\n",nice);
 	printf("%llu\n",system);
 	printf("%llu\n",idle);
 	printf("%llu\n",iowait);
-	printf("%llu\n",irq);	
+	printf("%llu\n",irq);
 	printf("%llu\n",softirq);
 	printf("%llu\n",steal);
 	printf("%llu\n",guest);
@@ -262,40 +262,40 @@ int get_usage(const pid_t pid, struct pstat* result) {
 * calculates the elapsed CPU usage between 2 measuring points. in percent
 */
 void calc_cpu_usage_pct(const struct pstat* cur_usage,
-                        const struct pstat* last_usage,
+                        const struct pstat* prev_usage,
                         double* ucpu_usage, double* scpu_usage)
 {
 /*If the statements run in less than 1 tick of time then it will return -nan as there will be no change in the running of the statements*/
     const long unsigned int total_time_diff = cur_usage->cpu_total_time -
-                                              last_usage->cpu_total_time;
+                                              prev_usage->cpu_total_time;
 
     *ucpu_usage = 100 * (((cur_usage->utime_ticks + cur_usage->cutime_ticks)
-                    - (last_usage->utime_ticks + last_usage->cutime_ticks))
+                    - (prev_usage->utime_ticks + prev_usage->cutime_ticks))
                     / (double) total_time_diff);
 
     *scpu_usage = 100 * ((((cur_usage->stime_ticks + cur_usage->cstime_ticks)
-                    - (last_usage->stime_ticks + last_usage->cstime_ticks))) /
+                    - (prev_usage->stime_ticks + prev_usage->cstime_ticks))) /
                     (double) total_time_diff);
 }
 
 /*
 * calculates the elapsed CPU usage between 2 measuring points in ticks*/
 void calc_cpu_usage(const struct pstat* cur_usage,
-                    const struct pstat* last_usage,
+                    const struct pstat* prev_usage,
                     long unsigned int* ucpu_usage,
                     long unsigned int* scpu_usage)
 {
-	//printf("last ticks=%lu\n",last_usage->utime_ticks + last_usage->cutime_ticks);
+	//printf("last ticks=%lu\n",prev_usage->utime_ticks + prev_usage->cutime_ticks);
 	//printf("cur ticks=%lu\n",cur_usage->utime_ticks + cur_usage->cutime_ticks);
 
 
 /*If the statements run in less than 1 tick of time then it will return 0*/
 
     *ucpu_usage = (cur_usage->utime_ticks + cur_usage->cutime_ticks) -
-                  (last_usage->utime_ticks + last_usage->cutime_ticks);
+                  (prev_usage->utime_ticks + prev_usage->cutime_ticks);
 
     *scpu_usage = (cur_usage->stime_ticks + cur_usage->cstime_ticks) -
-                  (last_usage->stime_ticks + last_usage->cstime_ticks);
+                  (prev_usage->stime_ticks + prev_usage->cstime_ticks);
 }
 
 

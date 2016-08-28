@@ -33,11 +33,11 @@ long double getCpuPercent(unsigned long *,unsigned long long *,int );//done we w
 
 /*These methods give the correct output for cpu usage*/
 void calc_cpu_usage_pct(const struct pstat* cur_usage,
-                        const struct pstat* last_usage,
+                        const struct pstat* prev_usage,
                         double* ucpu_usage, double* scpu_usage);
 
 void calc_cpu_usage(const struct pstat* cur_usage,
-                    const struct pstat* last_usage,
+                    const struct pstat* prev_usage,
                     long unsigned int* ucpu_usage,
                     long unsigned int* scpu_usage);
 int get_usage(const pid_t pid, struct pstat* result);
