@@ -27,7 +27,8 @@ typedef struct pState{
 	int tpgid;unsigned int flags;unsigned long minflt;unsigned long cminflt;unsigned long majflt;
 	unsigned long cmajflt;unsigned long utime;unsigned long stime;long cutime;long cstime;
 }pState;
-	
+
+
 
 
 /*********************************global variables ans structures defination ends here********************************/
@@ -130,6 +131,7 @@ unsigned long int getCpuProcessTime(){
 		&ps.state,&ps.ppid,&ps.pgrp,&ps.session,&ps.tty_nr,&ps.tpgid,&ps.flags,&ps.minflt,&ps.cminflt,
 		&ps.majflt,&ps.cmajflt,&ps.utime,&ps.stime,&ps.cutime,&ps.cstime);
 		//printf("Processtime=%lu\n\n",(ps.utime+ps.stime));
+		fclose(file);
 		return (ps.utime+ps.stime);
 	}
 		else{
@@ -185,6 +187,35 @@ void countCores(int *core){
 long double getCpuPercent(unsigned long *process,unsigned long long *cpu,int cores){
 	return ((long double)((long double)(*process)*100))/((long double)(*cpu)*cores);
 }
+
+
+long double getCurrentValue(clock_t *lastCPU,  clock_t *lastSysCPU,  clock_t *lastUserCPU,int cores){
+    struct tms timeSample;
+    clock_t now;
+    long double percent;
+    now = times(&timeSample);
+    if (now <= *lastCPU || timeSample.tms_stime < *lastSysCPU ||
+        timeSample.tms_utime < *lastUserCPU){
+        //Overflow detection. Just skip this value.
+        percent = -1.0;
+    }
+    else{
+        percent = (timeSample.tms_stime - *lastSysCPU) +
+            (timeSample.tms_utime - *lastUserCPU);
+        percent /= (now - *lastCPU);
+        percent /= cores;
+        percent *= 100;
+    }
+    *lastCPU = now;
+    *lastSysCPU = timeSample.tms_stime;
+    *lastUserCPU = timeSample.tms_utime;
+
+    return percent;
+}
+
+
+
+
 
 
 

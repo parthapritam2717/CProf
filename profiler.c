@@ -27,7 +27,8 @@ typedef struct pState{
 	int tpgid;unsigned int flags;unsigned long minflt;unsigned long cminflt;unsigned long majflt;
 	unsigned long cmajflt;unsigned long utime;unsigned long stime;long cutime;long cstime;
 }pState;
-	
+
+
 
 
 /*********************************global variables ans structures defination ends here********************************/
@@ -186,6 +187,12 @@ void countCores(int *core){
 long double getCpuPercent(unsigned long *process,unsigned long long *cpu,int cores){
 	return ((long double)((long double)(*process)*100))/((long double)(*cpu)*cores);
 }
+
+
+
+
+
+
 
 
 
