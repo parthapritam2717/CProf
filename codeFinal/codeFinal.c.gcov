@@ -1,7 +1,7 @@
         -:    0:Source:codeFinal.c
         -:    0:Graph:./codeFinal.gcno
         -:    0:Data:./codeFinal.gcda
-        -:    0:Runs:1
+        -:    0:Runs:2
         -:    0:Programs:1
         -:    1:/***********************************All the external include files please write here********************************/
         -:    2:#include<stdio.h>
@@ -28,112 +28,74 @@
         -:   23:
         -:   24:
         -:   25:/***************************************Global variables declaration ends here***************************************/
-function is_prime called 512561 returned 100% blocks executed 100%
-   512561:   26:bool is_prime(int item){
-   512561:   26-block  0
-   512561:   27:	double y=(double)item;
-   512561:   28:	double x=sqrt(y);
+  1017282:   26:bool is_prime(int item){
+  1017282:   26-block  0
+  1017282:   27:	double y=(double)item;
+  1017282:   28:	double x=sqrt(y);
         -:   29:	int i;
-   512561:   30:	int end=(int)x;
-623287562:   31:	for(i=2;i<(int)x;++i){
-   512561:   31-block  0
-unconditional  0 taken 512561
-622775001:   31-block  1
-unconditional  1 taken 622775001
-623287562:   31-block  2
-branch  2 taken 623261340
-branch  3 taken 26222 (fallthrough)
-623261340:   32:		if(item%i==0){
-623261340:   32-block  0
-branch  0 taken 486339 (fallthrough)
-branch  1 taken 622775001
-   486339:   33:			return 0;
-   486339:   33-block  0
-unconditional  0 taken 486339
+  1017282:   30:	int end=(int)x;
+1242946946:   31:	for(i=2;i<(int)x;++i){
+  1017282:   31-block  0
+1241929664:   31-block  1
+1242946946:   31-block  2
+1242894674:   32:		if(item%i==0){
+1242894674:   32-block  0
+   965010:   33:			return 0;
+   965010:   33-block  0
         -:   34:		}
         -:   35:	}
-    26222:   36:	return 1;
-    26222:   36-block  0
-unconditional  0 taken 26222
+    52272:   36:	return 1;
+    52272:   36-block  0
         -:   37:}
         -:   38:
-function count_prime called 1000 returned 100% blocks executed 100%
-     1000:   39:int count_prime(int *array,int s){
-     1000:   39-block  0
-     1000:   40:	int i=0,j=0;
-   513561:   41:	for(i=0;i<s;++i){
-     1000:   41-block  0
-unconditional  0 taken 1000
-   512561:   41-block  1
-unconditional  1 taken 512561
-   513561:   41-block  2
-branch  2 taken 512561
-branch  3 taken 1000 (fallthrough)
-   512561:   42:		if(array[i]>=1 && is_prime(array[i])){
-   512561:   42-block  0
-branch  0 taken 512561 (fallthrough)
-branch  1 taken 0
-   512561:   42-block  1
-call    2 returned 512561
-branch  3 taken 26222 (fallthrough)
-branch  4 taken 486339
-    26222:   43:			j++;
-    26222:   43-block  0
-unconditional  0 taken 26222
+     2000:   39:int count_prime(int *array,int s){
+     2000:   39-block  0
+     2000:   40:	int i=0,j=0;
+  1019282:   41:	for(i=0;i<s;++i){
+     2000:   41-block  0
+  1017282:   41-block  1
+  1019282:   41-block  2
+  1017282:   42:		if(array[i]>=1 && is_prime(array[i])){
+  1017282:   42-block  0
+  1017282:   42-block  1
+    52272:   43:			j++;
+    52272:   43-block  0
         -:   44:		}
         -:   45:	}
-     1000:   46:	return j;
-     1000:   46-block  0
-unconditional  0 taken 1000
+     2000:   46:	return j;
+     2000:   46-block  0
         -:   47:}
         -:   48:
         -:   49:
-function main called 1 returned 100% blocks executed 100%
-        1:   50:int main(){
-        1:   50-block  0
+        2:   50:int main(){
+        2:   50-block  0
         -:   51:	int n;
-        1:   52:	int c=0;
+        2:   52:	int c=0;
         -:   53:	int t;
-        1:   54:	sf(t);
-        1:   54-block  0
-call    0 returned 1
-     1001:   55:	while(t>0){
-unconditional  0 taken 1
-     1001:   55-block  0
-branch  1 taken 1000
-branch  2 taken 1 (fallthrough)
-     1000:   56:		sf(n);
-     1000:   56-block  0
-call    0 returned 1000
+        2:   54:	sf(t);
+        2:   54-block  0
+     2002:   55:	while(t>0){
+     2002:   55-block  0
+     2000:   56:		sf(n);
+     2000:   56-block  0
         -:   57:		int i;
-     1000:   58:		int array[n];
-   513561:   59:		for(i=0;i<n;++i){
-unconditional  0 taken 1000
-unconditional  1 taken 512561
-   513561:   59-block  0
-branch  2 taken 512561
-branch  3 taken 1000 (fallthrough)
-   512561:   60:			sf(array[i]);
-   512561:   60-block  0
-call    0 returned 512561
+     2000:   58:		int array[n];
+  1019282:   59:		for(i=0;i<n;++i){
+  1019282:   59-block  0
+  1017282:   60:			sf(array[i]);
+  1017282:   60-block  0
         -:   61:		}
-     1000:   62:		int count=(count_prime(array,n));
-     1000:   62-block  0
-call    0 returned 1000
-     1000:   63:		printf("%d num of primes=",c);
-call    0 returned 1000
-     1000:   64:		pf(count);
-call    0 returned 1000
-     1000:   65:		c++;
-     1000:   66:		nl();
-call    0 returned 1000
-     1000:   67:		--t;
-unconditional  0 taken 1000
+     2000:   62:		int count=(count_prime(array,n));
+     2000:   62-block  0
+     2000:   63:		printf("%d num of primes=",c);
+     2000:   64:		pf(count);
+     2000:   65:		c++;
+     2000:   66:		nl();
+     2000:   67:		--t;
         -:   68:	}
         -:   69:
         -:   70:	// will also send some packets but later
         -:   71:
-        1:   72:	return 0;
-        1:   72-block  0
-unconditional  0 taken 1
+        2:   72:	return 0;
+        2:   72-block  0
         -:   73:}

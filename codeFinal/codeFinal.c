@@ -28,6 +28,9 @@ bool is_prime(int item){
 	double x=sqrt(y);
 	int i;
 	int end=(int)x;
+	if(item==1){
+		return 0;
+	}
 	for(i=2;i<(int)x;++i){
 		if(item%i==0){
 			return 0;
