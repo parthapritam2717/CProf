@@ -1,5 +1,5 @@
 /*Contributed By Partha Pritam Mahanta IIT GUWAHATI Mtech CSE-2015-2017*/ 
-/*Tool developed for my MTP research work on Anomaly Intrusion Detection System for mission critical IOT networks*/
+/*Tool developed for my MTP research work on Malware Detection in  Mission Critical IOT system*/
 
 CProf is a C program profiler for linux machines to identify various process parameters. We can invoke the various methods to get information betwwen basic blocks or between lines of code.
 The Profiler will identify the amount of memory my program is consuming at a particular block for different inputs and will also show the amount of cpu that is consumed. 
